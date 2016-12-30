@@ -519,7 +519,7 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471592683095">
+      <file name="/Dummy.txt" timestamp="1483134989283">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/4writeable/basic.js" timestamp="1444193629993">
@@ -760,6 +760,13 @@
         <mark key="]" line="25" column="89" />
         <mark key="^" line="25" column="89" />
         <mark key="." line="25" column="89" />
+      </file>
+      <file name="$USER_HOME$/Development/python/appdaemon/.gitignore" timestamp="1483134910424">
+        <mark key="'" line="20" column="5" />
+        <mark key="[" line="109" column="18" />
+        <mark key="]" line="110" column="3" />
+        <mark key="^" line="110" column="3" />
+        <mark key="." line="110" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/5paramLoad.js" timestamp="1444885777585">
         <mark key="'" line="14" column="8" />
@@ -1235,7 +1242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="20" filename="$USER_HOME$/Development/Javascript/mastering-typescript/example01.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/Development/Javascript/mastering-typescript/example02.ts" />
       <jump line="38" column="25" filename="$USER_HOME$/Development/Javascript/mastering-typescript/example02.ts" />
       <jump line="30" column="4" filename="$USER_HOME$/Development/Javascript/mastering-typescript/example02.ts" />
@@ -1335,6 +1341,7 @@
       <jump line="5" column="15" filename="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/src/main.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/src/main.ts" />
       <jump line="4" column="16" filename="$USER_HOME$/Development/python/appdaemon/src/example.py" />
+      <jump line="20" column="5" filename="$USER_HOME$/Development/python/appdaemon/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
