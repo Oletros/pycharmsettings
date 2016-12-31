@@ -6,7 +6,7 @@
       <file name="C:/Development/awesome-test/server.ts" timestamp="1481786471283">
         <mark key="'" line="27" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1479390125765">
+      <file name="/a.dummy" timestamp="1483174444964">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/5paramLoad.js" timestamp="1444885777585">
@@ -392,11 +392,6 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/fr_wikibis.md" timestamp="1472645699029">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/1concepts/eventBased.js" timestamp="1444163307371">
         <mark key="[" line="8" column="62" />
         <mark key="]" line="9" column="0" />
@@ -465,6 +460,12 @@
         <mark key="^" line="173" column="28" />
         <mark key="." line="173" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/appdaemondev/src/lumscuinaconfig.yml" timestamp="1483170070250">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/thencatch/fulfilled.js" timestamp="1445403777269">
         <mark key="[" line="14" column="65" />
         <mark key="]" line="14" column="65" />
@@ -478,11 +479,12 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" timestamp="1483141011031">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" timestamp="1483188130348">
+        <mark key="'" line="28" column="26" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="34" column="66" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" timestamp="1470767082633">
         <mark key="'" line="34" column="22" />
@@ -515,11 +517,6 @@
         <mark key="'" line="96" column="19" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/ng-book2/test/angular2_hello_world/README.md" timestamp="1475989029251">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" timestamp="1469996748684">
         <mark key="'" line="72" column="3" />
@@ -769,7 +766,7 @@
         <mark key="^" line="21" column="5" />
         <mark key="." line="21" column="5" />
       </file>
-      <file name="/Python Console" timestamp="1479308361056">
+      <file name="/Python Console" timestamp="1483171040726">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1479283413257">
@@ -996,6 +993,13 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/appdaemondev/src/llumscuinaconfig.json" timestamp="1483188284750">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/router/basic.js" timestamp="1444923861319">
         <mark key="'" line="16" column="31" />
         <mark key="[" line="21" column="18" />
@@ -1059,6 +1063,15 @@
         <mark key="]" line="7" column="1" />
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" timestamp="1483185491154">
+        <mark key="e" line="31" column="24" />
+        <mark key="'" line="25" column="14" />
+        <mark key="i" line="31" column="44" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="66" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/events/11custom.js" timestamp="1444107546245">
         <mark key="'" line="26" column="13" />
@@ -1264,44 +1277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-02.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-04.ts" />
-      <jump line="61" column="0" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-04.ts" />
-      <jump line="69" column="20" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/intermediates/app-04.ts" />
-      <jump line="70" column="4" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/intermediates/app-04.ts" />
-      <jump line="66" column="14" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app.ts" />
-      <jump line="3" column="34" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="21" column="8" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="14" column="2" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="33" column="55" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="15" column="1" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="25" column="4" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="35" column="40" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="38" column="12" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="62" column="20" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="69" column="21" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="73" column="3" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="4" column="25" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
-      <jump line="203" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
-      <jump line="162" column="18" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
-      <jump line="34" column="14" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
-      <jump line="54" column="0" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
-      <jump line="15" column="49" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
-      <jump line="1" column="90" filename="C:/Development/pinboard/src/BreezeMeeting" />
-      <jump line="15" column="0" filename="C:/Development/pinboard/src/BreezeMeeting" />
-      <jump line="5" column="27" filename="C:/Development/pinboard/src/BreezeMeeting" />
-      <jump line="59" column="5" filename="$USER_HOME$/Development/Javascript/mastering-typescript/async02.ts" />
-      <jump line="43" column="4" filename="$USER_HOME$/Documents/dev/masteringts/async02.ts" />
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async02.ts" />
-      <jump line="56" column="10" filename="$USER_HOME$/Documents/dev/masteringts/async02.ts" />
-      <jump line="64" column="8" filename="$USER_HOME$/Documents/dev/masteringts/async02.js" />
-      <jump line="30" column="14" filename="$USER_HOME$/Documents/dev/masteringts/async03.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.ts" />
-      <jump line="40" column="6" filename="$USER_HOME$/Documents/dev/masteringts/async02.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async02.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.js" />
@@ -1360,50 +1335,88 @@
       <jump line="97" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/.gitignore" />
       <jump line="7" column="70" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
       <jump line="5" column="35" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/appdaemon/conf/examples/presence.py" />
       <jump line="8" column="12" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/Documents/dev/appdaemondev/src/llumscuinaconfig.json" />
+      <jump line="4" column="13" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="2" column="9" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="10" column="8" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="12" column="14" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="15" column="22" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="27" column="13" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="31" column="19" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="27" column="8" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="24" column="38" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="31" column="22" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="29" column="9" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="32" column="16" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="30" column="4" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="5" column="12" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="26" column="29" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="8" column="16" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/llumscuinaconfig.json" />
+      <jump line="25" column="14" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
+      <jump line="34" column="66" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="28" column="26" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/llumscuinaconfig.json" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/llumscuinaconfig.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/llumscuinaconfig.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFwcGRhZW1vbi4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>as appapi</text>
+        <text>&quot;final&quot;:&quot;20:00:00&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IEFkZCBhY3R1YWwgbGlnaHQgc3dpdGNoCg==</text>
+      <register name="0" type="4">
+        <text>&quot;inici&quot;:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFwcGRhZW1vbi4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRoaXMgZ2V0cyBleGVjdXRlZCB3aGVuIHRoZSBmaXJzdCBwZXJzb24gZ2V0cyBpbnRvIGFuIGVtcHR5IGhvdXNlCg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIExsdW1zQ3VpbmEoc2VsZik6CiAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJ1bl9hdF9zdW5zZXQoc2VsZi5zdW5zZXRfY2IsIDApCg==</text>
+        <text encoding="base64">ICAgWwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdW5zZXRfY2Ioc2VsZiwgYXJncywga3dhcmdzKToKICAgICAgICBzZWxmLnR1cm5fb24oc2VsZi5hcmdzWyJvbl9zY2VuZSJdKQo=</text>
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdW5yaXNlX2NiKHNlbGYsIGFyZ3MsIGt3YXJncyk6Cg==</text>
+        <text encoding="base64">ICAiaW5pY2kiOiBbCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdW5yaXNlX2NiKHNlbGYsIGFyZ3MsIGt3YXJncyk6CiAgICAgICAgc2VsZi50dXJuX29uKHNlbGYuYXJnc1sib2ZmX3NjZW5lIl0pCgogICAgZGVmIHN1bnNldF9jYihzZWxmLCBhcmdzLCBrd2FyZ3MpOgogICAgICAgIHNlbGYudHVybl9vbihzZWxmLmFyZ3NbIm9uX3NjZW5lIl0pCg==</text>
+        <text encoding="base64">ICAgIGlmIHRpbWVsaXN0IGlzIE5vbmU6CiAgICAgICAgdGltZWxpc3QgPSBbXQogICAgaG91ciwgbWludXRlLCBzZWNvbmQgPSB0aW1lbGlzdAogICAgcmV0dXJuIGRhdGV0aW1lLnRpbWUoaG91ciwgbWludXRlLCBzZWNvbmQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VJZCA9IFNFUlZJQ0VTWzBdCiAgICBzZXJ2aWNlTGluZSA9IGNyZWF0ZURTTGluZShzZXJ2aWNlSWQpCiAgICBjaGVja0RTTGluZShzZXJ2aWNlTGluZSkKICAgICMgd2l0aCBvcGVuKCdjOi90ZW1wL2ZpbGVzLmRhdCcsIG1vZGU9J3cnKSBhcyB0ZXN0OgogICAgIyAgICAgZm9yIHNlcnZpY2UgaW4gU0VSVklDRVM6CiAgICAjICAgICAgICAgdGVzdC53cml0ZShjcmVhdGVEU0xpbmUoc2VydmljZSkgKyAnXG4nKQogICAgIyAgICAgICAgIHByaW50IGNyZWF0ZURTTGluZShzZXJ2aWNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB0YXJnZXQgPT0gImluaWNpIjoKICAgICAgICAgICAgc2VsZi5ydW5fZGFpbHkoc2VsZi5lbmNlbmRyZV9sbHVtcywgdGltZSkKICAgICAgICBlbGlmIHRhcmdldCA9PSAiZmluYWwiOgogICAgICAgICAgICBzZWxmLnJ1bl9kYWlseShzZWxmLmFwYWdhcl9sbHVtcywgdGltZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
