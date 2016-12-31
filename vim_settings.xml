@@ -699,6 +699,10 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/Development/python/appdaemondev/appdaemon/conf/examples/presence.py" timestamp="1483210649770">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/Misc/ServerConfig/Fedora/nfs.yml" timestamp="1474907299207">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -911,6 +915,11 @@
       </file>
       <file name="C:/Development/legacy_functions/src/test_invoice_printing.py" timestamp="1479200053475">
         <mark key="'" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/python/appdaemondev/src/LlumsCuina.py" timestamp="1483210656404">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/angularstart/app.js" timestamp="1445105755371">
         <mark key="[" line="8" column="16" />
@@ -1396,8 +1405,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/python/appdaemondev/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFwcGFwaQo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1406,34 +1415,34 @@
         <text encoding="base64">XDxpc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lID0gcmV0dXJudGltZSh0aW1lbGlzdFsiaW5pY2kiXSkK</text>
+        <text encoding="base64">aW1wb3J0IGFwcGRhZW1vbi5hcHBhcGkgYXMgYXBwYXBpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHRhcmdldCA9PSAiZmluYWwiOgo=</text>
+        <text encoding="base64">aW1wb3J0IGFwcGFwaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0YXJnZXQgPT0gImluaWNpIjoK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHRhcmdldCA9PSAiZmluYWwiOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbc2VsZi5zZXRzY2hlZHVsZXIodGltZWxpc3QsICJmaW5hbCIpIGZvciB0aW1lbGlzdCBpbiBzZWxmLnNjaGVkdWxlcmRhdGFbImZpbmFsIl1dCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0YXJnZXQgPT0gImluaWNpIjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZi5zZXRzY2hlZHVsZXIodGltZWxpc3QsICJmaW5hbCIpIGZvciB0aW1lbGlzdCBpbiBzZWxmLnNjaGVkdWxlcmRhdGFbImZpbmFsIl1dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgWwo=</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBdLAo=</text>
+        <text encoding="base64">ICAgWwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiaW5pY2kiOiBbCg==</text>
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
