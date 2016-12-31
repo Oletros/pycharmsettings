@@ -479,12 +479,12 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" timestamp="1483188130348">
-        <mark key="'" line="28" column="26" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="34" column="66" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" timestamp="1483194945143">
+        <mark key="'" line="39" column="23" />
+        <mark key="[" line="30" column="44" />
+        <mark key="]" line="30" column="48" />
+        <mark key="^" line="30" column="48" />
+        <mark key="." line="30" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" timestamp="1470767082633">
         <mark key="'" line="34" column="22" />
@@ -539,7 +539,7 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483136808483">
+      <file name="/Dummy.txt" timestamp="1483194436159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Javascript/mastering-typescript/example03.ts" timestamp="1469963990817">
@@ -1277,9 +1277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async02.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.js" />
       <jump line="17" column="22" filename="$USER_HOME$/Documents/dev/masteringts/async03.ts" />
       <jump line="25" column="5" filename="$USER_HOME$/Documents/dev/masteringts/error_helper.js" />
       <jump line="1" column="32" filename="$USER_HOME$/Documents/dev/masteringts/ErrorHelper.d.ts" />
@@ -1340,7 +1337,6 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
       <jump line="29" column="4" filename="$USER_HOME$/Documents/dev/appdaemondev/src/llumscuinaconfig.json" />
-      <jump line="4" column="13" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
       <jump line="2" column="9" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
       <jump line="10" column="8" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
@@ -1377,46 +1373,50 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/llumscuinaconfig.json" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/llumscuinaconfig.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/llumscuinaconfig.json" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="39" column="23" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;final&quot;:&quot;20:00:00&quot;</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;inici&quot;:</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aW1lID0gcmV0dXJudGltZSh0aW1lbGlzdFsiaW5pY2kiXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHRhcmdldCA9PSAiZmluYWwiOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB0YXJnZXQgPT0gImluaWNpIjoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZi5zZXRzY2hlZHVsZXIodGltZWxpc3QsICJmaW5hbCIpIGZvciB0aW1lbGlzdCBpbiBzZWxmLnNjaGVkdWxlcmRhdGFbImZpbmFsIl1dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgWwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBdLAo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiaW5pY2kiOiBbCg==</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIHRpbWVsaXN0IGlzIE5vbmU6CiAgICAgICAgdGltZWxpc3QgPSBbXQogICAgaG91ciwgbWludXRlLCBzZWNvbmQgPSB0aW1lbGlzdAogICAgcmV0dXJuIGRhdGV0aW1lLnRpbWUoaG91ciwgbWludXRlLCBzZWNvbmQpCg==</text>
+        <text encoding="base64">ICAgWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0YXJnZXQgPT0gImluaWNpIjoKICAgICAgICAgICAgc2VsZi5ydW5fZGFpbHkoc2VsZi5lbmNlbmRyZV9sbHVtcywgdGltZSkKICAgICAgICBlbGlmIHRhcmdldCA9PSAiZmluYWwiOgogICAgICAgICAgICBzZWxmLnJ1bl9kYWlseShzZWxmLmFwYWdhcl9sbHVtcywgdGltZSkK</text>
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ICAiaW5pY2kiOiBbCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
