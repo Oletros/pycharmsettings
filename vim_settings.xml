@@ -32,7 +32,7 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1483174444964">
+      <file name="/a.dummy" timestamp="1484304401638">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/only.js" timestamp="1445964407884">
@@ -962,6 +962,13 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="43" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" timestamp="1484305819402">
+        <mark key="'" line="17" column="18" />
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="27" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="21" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/events/6listeners.js" timestamp="1444075701796">
         <mark key="'" line="14" column="18" />
         <mark key="[" line="0" column="0" />
@@ -1288,7 +1295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="11" filename="$USER_HOME$/Documents/dev/masteringts/mvc01/view01.html" />
       <jump line="84" column="17" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
       <jump line="39" column="19" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
@@ -1388,46 +1394,47 @@
       <jump line="137" column="26" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="0" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="179" column="28" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="5" column="18" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>REO</text>
+        <text>'SELECT top 10 * FROM dbo.tbl_File'</text>
       </register>
       <register name="-" type="4">
-        <text>REO</text>
+        <text>'SELECT top 10 * FROM dbo.tbl_File'</text>
       </register>
       <register name="/" type="4">
         <text>configure</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">L0xfU1JFTz1ZIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">UHJvZHVjdGlvblBhdGggPSByIiRcSW5hdG9yM1xUUkNcQnJhbmNoZXNcVGVjaCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCdFeGVjdXRpbmcgcG93ZXJnZW4gYmVmb3JlIGJ1aWxkaW5nIHBiZCBhbmQgZXhlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhcmdzLnR5cGUgPT0gJ2J1aWxkJzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCdFeGVjdXRpbmcgcG93ZXJnZW4gYmVmb3JlIGJ1aWxkaW5nIHBiZCBhbmQgZXhlJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHRhcmdldCA9PSAiZmluYWwiOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBhcmdzLnR5cGUgPT0gJ2J1aWxkJzoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0YXJnZXQgPT0gImluaWNpIjoK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHRhcmdldCA9PSAiZmluYWwiOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbc2VsZi5zZXRzY2hlZHVsZXIodGltZWxpc3QsICJmaW5hbCIpIGZvciB0aW1lbGlzdCBpbiBzZWxmLnNjaGVkdWxlcmRhdGFbImZpbmFsIl1dCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0YXJnZXQgPT0gImluaWNpIjoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZi5zZXRzY2hlZHVsZXIodGltZWxpc3QsICJmaW5hbCIpIGZvciB0aW1lbGlzdCBpbiBzZWxmLnNjaGVkdWxlcmRhdGFbImZpbmFsIl1dCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgWwo=</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
