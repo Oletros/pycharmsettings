@@ -854,7 +854,7 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1484554509587">
+      <file name="/Python Console" timestamp="1486377256366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1479283413257">
@@ -941,6 +941,13 @@
         <mark key="]" line="11" column="20" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1486377253691">
+        <mark key="'" line="40" column="29" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="24" column="123" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/generics03.ts" timestamp="1470200781388">
         <mark key="'" line="17" column="0" />
@@ -1302,8 +1309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="19" filename="C:/Development/legacy_functions/src/createDSfile.py" />
-      <jump line="76" column="40" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="39" column="12" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="21" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="109" column="25" filename="C:/Development/legacy_functions/src/createDSfile.py" />
@@ -1402,46 +1407,49 @@
       <jump line="94" column="0" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="202" column="0" filename="$USER_HOME$/Documents/Development/Python/checkvariables/src/checkvariables.py" />
       <jump line="210" column="0" filename="$USER_HOME$/Documents/Development/Python/checkvariables/src/checkvariables.py" />
+      <jump line="18" column="15" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="32" column="29" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TechDiskPath</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvciBpbnZvaWNlIGluIGludm9pY2VzOgogICAgICAgIHByaW50KGludm9pY2UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>TechDiskPath</text>
+        <text>C:\HISCollection\Inator3\TRC\Current\PowerBuilder.NET\PDFExport\PDFExport.out\bin\Release\PDFExport.exe</text>
       </register>
       <register name="/" type="4">
         <text>configure</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRhcmdldHBhdGggPSBvcy5wYXRoLmpvaW4oVGFyZ2V0UGF0aCwgInRhcmdldCIpCiAgICBmb3IgZmlsZSBpbiBjb21tb25maWxlczoKICAgICAgICBjb3B5ZmlsZXMoZmlsZSwgVGVjaERpc2tQYXRoLCB0YXJnZXRwYXRoKQogICAgICAgIHByaW50KGZpbGUpCg==</text>
+        <text encoding="base64">ICAgIGV4ZXBhdGggPSByIkM6XEhJU0NvbGxlY3Rpb25cSW5hdG9yM1xUUkNcQ3VycmVudFxQb3dlckJ1aWxkZXIuTkVUXFBERkV4cG9ydFxQREZFeHBvcnQub3V0XGJpblxSZWxlYXNlXFBERkV4cG9ydC5leGUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwK</text>
+        <text encoding="base64">ICAgIGZvciBpbnZvaWNlIGluIGludm9pY2VzOgogICAgICAgIHByaW50KGludm9pY2UpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaHV0aWwuY29weShzb3VyY2VwYXRoLCBkZXN0cGF0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRhcmdldHBhdGg9Cg==</text>
+      <register name="5" type="4">
+        <text>select top 100 id_factura from factura_cabecera
+            order by id_factura desc</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBmaWxlIGluIGZpbGVzOgo=</text>
+        <text encoding="base64">ICAgIHNlcnZlciA9ICJNTEdNVUMwMFNRTDEyMSIKICAgIGRhdGFiYXNlID0gIlRSX0RFX0lOVEVHIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGNyZWF0ZXBhdGgoYmFzZXBhdGgsIGZpbGVuYW1lKToKICAgIHdob2xlcGF0aCA9IG9zLnBhdGguam9pbihiYXNlcGF0aCwgZmlsZW5hbWUpCiAgICB3aG9sZXBhdGggPSBvcy5wYXRoLm5vcm1wYXRoKHdob2xlcGF0aCkKICAgIGxlYWZwYXRoID0gb3MucGF0aC5zcGxpdCh3aG9sZXBhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJJRD0lZCIgJSAocm93WydpZF9mYWN0dXJhJ10pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVwYXRoKHRhcmdldHBhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmNhbGxwcm9jKCdGaW5kUGVyc29uJywgKCdKYW5lIERvZScsKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9zLm1ha2VkaXJzKGxlYWZwYXRoLCBleGlzdF9vaz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ1JFQVRFIFBST0NFRFVSRSBGaW5kUGVyc29uCiAgICAgICAgICAgICAgICBAbmFtZSBWQVJDSEFSKDEwMCkKICAgICAgICAgICAgQVMgQkVHSU4KICAgICAgICAgICAgICAgIFNFTEVDVCAqIEZST00gcGVyc29ucyBXSEVSRSBuYW1lID0gQG5hbWUKICAgICAgICAgICAgRU5ECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
