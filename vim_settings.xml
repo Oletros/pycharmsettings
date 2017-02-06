@@ -854,7 +854,7 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1486377256366">
+      <file name="/Python Console" timestamp="1486378366311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1479283413257">
@@ -942,12 +942,12 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1486377253691">
-        <mark key="'" line="40" column="29" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="24" column="123" />
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1486379489878">
+        <mark key="'" line="27" column="29" />
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="46" column="13" />
+        <mark key="." line="46" column="13" />
+        <mark key="^" line="46" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/generics03.ts" timestamp="1470200781388">
         <mark key="'" line="17" column="0" />
@@ -1149,6 +1149,9 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="C:/Python/Python27/Lib/multiprocessing/pool.py" timestamp="1486378409010">
+        <mark key="'" line="583" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/thenable.js" timestamp="1445601239869">
         <mark key="[" line="21" column="5" />
         <mark key="]" line="21" column="5" />
@@ -1309,12 +1312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="12" filename="C:/Development/legacy_functions/src/createDSfile.py" />
-      <jump line="21" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
-      <jump line="109" column="25" filename="C:/Development/legacy_functions/src/createDSfile.py" />
-      <jump line="110" column="6" filename="C:/Development/legacy_functions/src/createDSfile.py" />
-      <jump line="58" column="20" filename="C:/Development/legacy_functions/src/createDSfile.py" />
-      <jump line="132" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="135" column="21" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="0" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="121" column="10" filename="C:/Development/legacy_functions/src/createDSfile.py" />
@@ -1409,13 +1406,19 @@
       <jump line="210" column="0" filename="$USER_HOME$/Documents/Development/Python/checkvariables/src/checkvariables.py" />
       <jump line="18" column="15" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="32" column="29" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="26" column="88" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="576" column="15" filename="C:/Python/Python27/Lib/multiprocessing/pool.py" />
+      <jump line="34" column="61" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="583" column="34" filename="C:/Python/Python27/Lib/multiprocessing/pool.py" />
+      <jump line="27" column="29" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBpbnZvaWNlIGluIGludm9pY2VzOgogICAgICAgIHByaW50KGludm9pY2UpCg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>C:\HISCollection\Inator3\TRC\Current\PowerBuilder.NET\PDFExport\PDFExport.out\bin\Release\PDFExport.exe</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>configure</text>
@@ -1424,32 +1427,32 @@
         <text encoding="base64">ICAgIGV4ZXBhdGggPSByIkM6XEhJU0NvbGxlY3Rpb25cSW5hdG9yM1xUUkNcQ3VycmVudFxQb3dlckJ1aWxkZXIuTkVUXFBERkV4cG9ydFxQREZFeHBvcnQub3V0XGJpblxSZWxlYXNlXFBERkV4cG9ydC5leGUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBpbnZvaWNlIGluIGludm9pY2VzOgogICAgICAgIHByaW50KGludm9pY2UpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGl0LmdldCgxMDApKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciByZXN1bHQgaW4gaXQ6CiAgICAgICAgcHJpbnQoaXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiKQo=</text>
+        <text encoding="base64">ICAgIGV4ZXBhdGggPSByIkM6XEhJU0NvbGxlY3Rpb25cSW5hdG9yM1xUUkNcQ3VycmVudFxQb3dlckJ1aWxkZXIuTkVUXFBERkV4cG9ydFxQREZFeHBvcnQub3V0XGJpblxSZWxlYXNlXFBERkV4cG9ydC5leGUiCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGZvciBpbnZvaWNlIGluIGludm9pY2VzOgogICAgICAgIHByaW50KGludm9pY2UpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIiIiKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>select top 100 id_factura from factura_cabecera
             order by id_factura desc</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlcnZlciA9ICJNTEdNVUMwMFNRTDEyMSIKICAgIGRhdGFiYXNlID0gIlRSX0RFX0lOVEVHIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJJRD0lZCIgJSAocm93WydpZF9mYWN0dXJhJ10pKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmNhbGxwcm9jKCdGaW5kUGVyc29uJywgKCdKYW5lIERvZScsKSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ1JFQVRFIFBST0NFRFVSRSBGaW5kUGVyc29uCiAgICAgICAgICAgICAgICBAbmFtZSBWQVJDSEFSKDEwMCkKICAgICAgICAgICAgQVMgQkVHSU4KICAgICAgICAgICAgICAgIFNFTEVDVCAqIEZST00gcGVyc29ucyBXSEVSRSBuYW1lID0gQG5hbWUKICAgICAgICAgICAgRU5ECg==</text>
+        <text encoding="base64">ICAgIHNlcnZlciA9ICJNTEdNVUMwMFNRTDEyMSIKICAgIGRhdGFiYXNlID0gIlRSX0RFX0lOVEVHIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
