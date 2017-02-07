@@ -854,7 +854,7 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1486380554158">
+      <file name="/Python Console" timestamp="1486475494294">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1479283413257">
@@ -942,12 +942,12 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1486382171368">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="45" column="25" />
-        <mark key="." line="45" column="25" />
-        <mark key="^" line="45" column="25" />
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1486475832001">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="50" column="13" />
+        <mark key="]" line="50" column="14" />
+        <mark key="." line="50" column="14" />
+        <mark key="^" line="50" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/generics03.ts" timestamp="1470200781388">
         <mark key="'" line="17" column="0" />
@@ -1312,9 +1312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
-      <jump line="121" column="10" filename="C:/Development/legacy_functions/src/createDSfile.py" />
-      <jump line="36" column="30" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="27" column="40" filename="C:/Development/awesome-test/server.ts" />
       <jump line="35" column="7" filename="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/tslint.json" />
       <jump line="5" column="15" filename="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/src/main.ts" />
@@ -1412,13 +1409,16 @@
       <jump line="32" column="41" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="50" column="10" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="36" column="7" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INTEG</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>INTEG</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>configure</text>
@@ -1427,32 +1427,31 @@
         <text encoding="base64">ICAgIGV4ZXBhdGggPSByIkM6XEhJU0NvbGxlY3Rpb25cSW5hdG9yM1xUUkNcQ3VycmVudFxQb3dlckJ1aWxkZXIuTkVUXFBERkV4cG9ydFxQREZFeHBvcnQub3V0XGJpblxSZWxlYXNlXFBERkV4cG9ydC5leGUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGl0ID0gcC5hcHBseV9hc3luYyhwcmludHdpdGhEQiwgaW52b2ljZXMsIDUpCg==</text>
+        <text encoding="base64">ICAgIGZvciByZXN1bHQgaW4gcmVzdWx0czoKICAgICAgICBwcmludChyZXN1bHQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGl0LmdldCgxMDApKQo=</text>
+        <text encoding="base64">ICAgIGl0ID0gcC5hcHBseV9hc3luYyhwcmludHdpdGhEQiwgaW52b2ljZXMsIDUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciByZXN1bHQgaW4gaXQ6CiAgICAgICAgcHJpbnQoaXQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGl0LmdldCgxMDApKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4ZXBhdGggPSByIkM6XEhJU0NvbGxlY3Rpb25cSW5hdG9yM1xUUkNcQ3VycmVudFxQb3dlckJ1aWxkZXIuTkVUXFBERkV4cG9ydFxQREZFeHBvcnQub3V0XGJpblxSZWxlYXNlXFBERkV4cG9ydC5leGUiCg==</text>
+        <text encoding="base64">ICAgIGZvciByZXN1bHQgaW4gaXQ6CiAgICAgICAgcHJpbnQoaXQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBpbnZvaWNlIGluIGludm9pY2VzOgogICAgICAgIHByaW50KGludm9pY2UpCg==</text>
+        <text encoding="base64">ICAgIGV4ZXBhdGggPSByIkM6XEhJU0NvbGxlY3Rpb25cSW5hdG9yM1xUUkNcQ3VycmVudFxQb3dlckJ1aWxkZXIuTkVUXFBERkV4cG9ydFxQREZFeHBvcnQub3V0XGJpblxSZWxlYXNlXFBERkV4cG9ydC5leGUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBpbnZvaWNlIGluIGludm9pY2VzOgogICAgICAgIHByaW50KGludm9pY2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIiKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>select top 100 id_factura from factura_cabecera
-            order by id_factura desc</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
