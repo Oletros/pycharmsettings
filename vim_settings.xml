@@ -942,12 +942,12 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1486565667444">
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1486569033110">
         <mark key="'" line="78" column="19" />
-        <mark key="[" line="75" column="25" />
-        <mark key="]" line="75" column="25" />
-        <mark key="." line="75" column="25" />
-        <mark key="^" line="75" column="25" />
+        <mark key="[" line="74" column="13" />
+        <mark key="]" line="74" column="14" />
+        <mark key="." line="74" column="14" />
+        <mark key="^" line="78" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/generics03.ts" timestamp="1470200781388">
         <mark key="'" line="17" column="0" />
@@ -1415,10 +1415,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>11</text>
+        <text>,3,4</text>
       </register>
       <register name="-" type="4">
-        <text>11</text>
+        <text>,3,4</text>
       </register>
       <register name="/" type="4">
         <text>configure</text>
