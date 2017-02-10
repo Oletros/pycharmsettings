@@ -942,12 +942,12 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1486713963098">
-        <mark key="'" line="71" column="8" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="81" column="3" />
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1486722763581">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="73" column="46" />
+        <mark key="]" line="73" column="47" />
+        <mark key="^" line="73" column="46" />
+        <mark key="." line="73" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/generics03.ts" timestamp="1470200781388">
         <mark key="'" line="17" column="0" />
@@ -1312,7 +1312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
       <jump line="27" column="13" filename="$USER_HOME$/Documents/dev/appdaemondev/src/test.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
@@ -1378,7 +1377,6 @@
       <jump line="34" column="61" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="583" column="34" filename="C:/Python/Python27/Lib/multiprocessing/pool.py" />
-      <jump line="27" column="29" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="32" column="41" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="50" column="10" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
@@ -1404,7 +1402,6 @@
       <jump line="40" column="24" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="55" column="43" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="83" column="31" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="47" column="18" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="53" column="35" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
@@ -1412,13 +1409,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="93" column="8" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="71" column="8" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="27" column="29" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="84" column="32" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCJXb3JrZXJzOiB7d29ya2VyfSwgRW5kIHRpbWU6e3N0YXJ0fSIuZm9ybWF0KHdvcmtlcj13b3JrZXIsIHN0YXJ0PWRhdGV0aW1lLm5vdygpKSkK</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>configure</text>
@@ -1427,31 +1427,31 @@
         <text encoding="base64">ICAgIGV4ZXBhdGggPSByIkM6XEhJU0NvbGxlY3Rpb25cSW5hdG9yM1xUUkNcQ3VycmVudFxQb3dlckJ1aWxkZXIuTkVUXFBERkV4cG9ydFxQREZFeHBvcnQub3V0XGJpblxSZWxlYXNlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCJXb3JrZXJzOiB7d29ya2VyfSwgRW5kIHRpbWU6e3N0YXJ0fSIuZm9ybWF0KHdvcmtlcj13b3JrZXIsIHN0YXJ0PWRhdGV0aW1lLm5vdygpKSkK</text>
+        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFBvb2wK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCJXb3JrZXJzOiB7d29ya2VyfSwgU3RhcnQgdGltZTp7c3RhcnR9Ii5mb3JtYXQod29ya2VyPXdvcmtlciwgc3RhcnQ9ZGF0ZXRpbWUubm93KCkpKQogICAgICAgICMgaW52b2ljZXMgPSBbMSwgMl0K</text>
+        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHBhcnRpYWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdvcmtlciA9IDYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnR3aXRoREIgPSBwYXJ0aWFsKHByaW50SW52b2ljZSwgc2VydmVyLCBkYXRhYmFzZSwgcGF0aCkKICAgICMgZm9yIHdvcmtlciBpbiByYW5nZSgxLCA3KToK</text>
+        <text encoding="base64">ZGVmIGYoeCk6CiAgICByZXR1cm4geCAqIHgKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYmF0Y2ggaW4gc3BsaXRpbnZvaWNlczoK</text>
+        <text encoding="base64">ICAgICMgaW52b2ljZXMgPSBbNjEzODI3NV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggY29uY3VycmVudC5mdXR1cmVzLlRocmVhZFBvb2xFeGVjdXRvcihtYXhfd29ya2Vycz04KSBhcyBleGVjdXRvcjoKICAgICAgICAjIFN0YXJ0IHRoZSBsb2FkIG9wZXJhdGlvbnMgYW5kIG1hcmsgZWFjaCBmdXR1cmUgd2l0aCBpdHMgVVJMCiAgICAgICAgZnV0dXJlX3RvX3Vudm9pY2UgPSB7ZXhlY3V0b3Iuc3VibWl0KHByaW50SW52b2ljZSwgc2VydmVyLCBkYXRhYmFzZSwgcGF0aCwgaW52b2ljZSk6IGludm9pY2UgZm9yIGludm9pY2UgaW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnZvaWNlc30KICAgICAgICBmb3IgZnV0dXJlIGluIGNvbmN1cnJlbnQuZnV0dXJlcy5hc19jb21wbGV0ZWQoZnV0dXJlX3RvX3Vudm9pY2UpOgogICAgICAgICAgICBpbnZvaWNlID0gZnV0dXJlX3RvX3Vudm9pY2VbZnV0dXJlXQogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBkYXRhID0gZnV0dXJlLnJlc3VsdCgpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOgogICAgICAgICAgICAgICAgcHJpbnQoJ3tpbnZvaWNlfSBnZW5lcmF0ZWQgYW4gZXhjZXB0aW9uOiB7ZXhjZXB0aW9ufScuZm9ybWF0KGludm9pY2U9aW52b2ljZSwgZXhjZXB0aW9uPWV4YykpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwcmludCgne2ludm9pY2V9OiB7cmVzdWx0fScuZm9ybWF0KGludm9pY2U9aW52b2ljZSwgcmVzdWx0PWRhdGEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJXb3JrZXJzOiB7d29ya2VyfSwgRW5kIHRpbWU6e3N0YXJ0fSIuZm9ybWF0KHdvcmtlcj13b3JrZXIsIHN0YXJ0PWRhdGV0aW1lLm5vdygpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcnZlciA9ICJNTEdNVUMwMFNRTDEzOSIK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJXb3JrZXJzOiB7d29ya2VyfSwgU3RhcnQgdGltZTp7c3RhcnR9Ii5mb3JtYXQod29ya2VyPXdvcmtlciwgc3RhcnQ9ZGF0ZXRpbWUubm93KCkpKQogICAgICAgICMgaW52b2ljZXMgPSBbMSwgMl0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcnZlciA9ICJNTEdNVUMwMFNRTDEzOSIK</text>
+        <text encoding="base64">ICAgIHdvcmtlciA9IDYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGludm9pY2VJZCkK</text>
+        <text encoding="base64">ICAgICMgcHJpbnR3aXRoREIgPSBwYXJ0aWFsKHByaW50SW52b2ljZSwgc2VydmVyLCBkYXRhYmFzZSwgcGF0aCkKICAgICMgZm9yIHdvcmtlciBpbiByYW5nZSgxLCA3KToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
