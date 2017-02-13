@@ -601,7 +601,7 @@
         <mark key="^" line="15" column="45" />
         <mark key="." line="15" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483195572044">
+      <file name="/Dummy.txt" timestamp="1486992513440">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/2pipe/1basic.js" timestamp="1444163884878">
@@ -949,12 +949,12 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1486985030661">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="73" column="47" />
-        <mark key="]" line="73" column="47" />
-        <mark key="^" line="73" column="46" />
-        <mark key="." line="73" column="47" />
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1486991712791">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="75" column="30" />
+        <mark key="]" line="76" column="17" />
+        <mark key="^" line="76" column="17" />
+        <mark key="." line="76" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/generics03.ts" timestamp="1470200781388">
         <mark key="'" line="17" column="0" />
@@ -1421,8 +1421,8 @@
       <jump line="244" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/.tfignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBkbyBzb21ldGhpbmcgd2l0aCBgZWxlbWAK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -1434,31 +1434,31 @@
         <text encoding="base64">dmVudi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFBvb2wK</text>
+        <text encoding="base64">IyBkbyBzb21ldGhpbmcgd2l0aCBgZWxlbWAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHBhcnRpYWwK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFBvb2wK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGYoeCk6CiAgICByZXR1cm4geCAqIHgKCg==</text>
+        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHBhcnRpYWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgaW52b2ljZXMgPSBbNjEzODI3NV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCJXb3JrZXJzOiB7d29ya2VyfSwgRW5kIHRpbWU6e3N0YXJ0fSIuZm9ybWF0KHdvcmtlcj13b3JrZXIsIHN0YXJ0PWRhdGV0aW1lLm5vdygpKSkK</text>
+        <text encoding="base64">ZGVmIGYoeCk6CiAgICByZXR1cm4geCAqIHgKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCJXb3JrZXJzOiB7d29ya2VyfSwgU3RhcnQgdGltZTp7c3RhcnR9Ii5mb3JtYXQod29ya2VyPXdvcmtlciwgc3RhcnQ9ZGF0ZXRpbWUubm93KCkpKQogICAgICAgICMgaW52b2ljZXMgPSBbMSwgMl0K</text>
+        <text encoding="base64">ICAgICMgaW52b2ljZXMgPSBbNjEzODI3NV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdvcmtlciA9IDYK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJXb3JrZXJzOiB7d29ya2VyfSwgRW5kIHRpbWU6e3N0YXJ0fSIuZm9ybWF0KHdvcmtlcj13b3JrZXIsIHN0YXJ0PWRhdGV0aW1lLm5vdygpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnR3aXRoREIgPSBwYXJ0aWFsKHByaW50SW52b2ljZSwgc2VydmVyLCBkYXRhYmFzZSwgcGF0aCkKICAgICMgZm9yIHdvcmtlciBpbiByYW5nZSgxLCA3KToK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJXb3JrZXJzOiB7d29ya2VyfSwgU3RhcnQgdGltZTp7c3RhcnR9Ii5mb3JtYXQod29ya2VyPXdvcmtlciwgc3RhcnQ9ZGF0ZXRpbWUubm93KCkpKQogICAgICAgICMgaW52b2ljZXMgPSBbMSwgMl0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
