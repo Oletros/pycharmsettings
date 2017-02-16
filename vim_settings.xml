@@ -9,8 +9,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1487224828850">
-        <mark key="[" line="0" column="0" />
+      <file name="restClient/response7.xml" timestamp="1487176728859">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
       </file>
       <file name="restClient/response48.txt" timestamp="1487003943484">
         <mark key="[" line="0" column="0" />
@@ -22,16 +24,21 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2374214" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1487004716902">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="restClient/response0.txt" timestamp="1487176506829">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+      </file>
       <file name="restClient/response57.txt" timestamp="1487004672088">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="18" column="18" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1487060203919">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="restClient/response39.txt" timestamp="1487001105226">
         <mark key="'" line="0" column="14" />
@@ -48,27 +55,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/.gitignore" timestamp="1487139159632">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="502" column="0" />
-        <mark key="]" line="502" column="0" />
-        <mark key="." line="502" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1487004716902">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="restClient/response56.txt" timestamp="1487004668382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="18" column="18" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1487176765879">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="restClient/response59.txt" timestamp="1487004823114">
         <mark key="'" line="0" column="541" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18084" />
+      </file>
+      <file name="restClient/response11.txt" timestamp="1487177656582">
+        <mark key="'" line="0" column="336" />
       </file>
       <file name="restClient/response71.txt" timestamp="1487060208848">
         <mark key="'" line="0" column="0" />
@@ -101,20 +104,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/script0.py" timestamp="1487225055452">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="7" />
-      </file>
       <file name="restClient/response36.txt" timestamp="1487001063858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" timestamp="1487138678499">
-        <mark key="'" line="39" column="23" />
       </file>
       <file name="restClient/response37.txt" timestamp="1487001081600">
         <mark key="'" line="0" column="0" />
@@ -127,12 +120,6 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" timestamp="1487225242583">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="3" column="10" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="restClient/response54.txt" timestamp="1487004470399">
         <mark key="'" line="0" column="407" />
         <mark key="[" line="0" column="0" />
@@ -143,14 +130,22 @@
         <mark key="]" line="15" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/myfile.py" timestamp="1487225143789">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1487060203919">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="39" column="23" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
+      <jump line="102" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="139" column="44" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="105" column="16" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="137" column="26" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="0" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="179" column="28" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="5" column="18" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="15" column="27" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="30" column="30" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
@@ -242,34 +237,26 @@
       <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
       <jump line="0" column="0" filename="restClient/response71.txt" />
-      <jump line="26" column="19" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
-      <jump line="39" column="23" filename="$USER_HOME$/Documents/dev/appdaemondev/src/LlumsCuina.py" />
-      <jump line="9" column="10" filename="$USER_HOME$/Documents/dev/learningpython/.gitignore" />
-      <jump line="501" column="0" filename="$USER_HOME$/Documents/dev/learningpython/.gitignore" />
-      <jump line="106" column="0" filename="$USER_HOME$/Documents/dev/learningpython/.gitignore" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/script0.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/script0.py" />
+      <jump line="0" column="336" filename="restClient/response11.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoYSxiLGMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>configure</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoYSxiLGMpCg==</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNvYXAxMjpFbnZlbG9wZSB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIgogICAgICAgICAgICAgICAgIHhtbG5zOnNvYXAxMj0iaHR0cDovL3d3dy53My5vcmcvMjAwMy8wNS9zb2FwLWVudmVsb3BlIj4KICAgIDxzb2FwMTI6Qm9keT4KICAgICAgICA8R2V0SW1hZ2VzQXR0YWNobWVudHMgeG1sbnM9Imh0dHA6Ly9PYmplY3RGbG93L1B1YmxpYyI+CiAgICAgICAgICAgIDxhcnJJbWdJZD4KICAgICAgICAgICAgICAgIDxsb25nPjgyOTgwMDM8L2xvbmc+CiAgICAgICAgICAgIDwvYXJySW1nSWQ+CiAgICAgICAgICAgIDxhcnJMZW4+CiAgICAgICAgICAgICAgICA8bG9uZz4xPC9sb25nPgogICAgICAgICAgICA8L2Fyckxlbj4KICAgICAgICAgICAgPGFyckltZz5iYXNlNjRCaW5hcnk8L2FyckltZz4KICAgICAgICA8L0dldEltYWdlc0F0dGFjaG1lbnRzPgogICAgPC9zb2FwMTI6Qm9keT4KPC9zb2FwMTI6RW52ZWxvcGU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnByaW50KDIgKiogMTAwKQo=</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHNvYXA6RW52ZWxvcGUgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgeG1sbnM6c29hcD0iaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvc29hcC9lbnZlbG9wZS8iPiAgIDxzb2FwOkJvZHk+ICAgICA8R2V0SGlzdG9yaWNvSm9iIHhtbG5zPSJodHRwOi8vdGVtcHVyaS5vcmcvIj4gICAgICAgPGpvYkZvSm9iaWQ+NzQ0MTA5MTwvam9iRm9Kb2JpZD4gICAgIDwvR2V0SGlzdG9yaWNvSm9iPiAgIDwvc29hcDpCb2R5PiA8L3NvYXA6RW52ZWxvcGU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3JjL0NoYXB0ZXIwMi8Kc3JjL0NoYXB0ZXIwMy8Kc3JjL0NoYXB0ZXIwNC8Kc3JjL0NoYXB0ZXIwNS8Kc3JjL0NoYXB0ZXIwNi8Kc3JjL0NoYXB0ZXIwNy8Kc3JjL0NoYXB0ZXIwOC8Kc3JjL0NoYXB0ZXIwOS8K</text>
+        <text encoding="base64">b3AK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHNvYXAxMjpFbnZlbG9wZSB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiAgICAgICAgICAgICAgICAgIHhtbG5zOnNvYXAxMj0iaHR0cDovL3d3dy53My5vcmcvMjAwMy8wNS9zb2FwLWVudmVsb3BlIj4gICAgIDxzb2FwMTI6Qm9keT4gICAgICAgICA8R2V0SW1hZ2VzQXR0YWNobWVudHMgeG1sbnM9Imh0dHA6Ly9PYmplY3RGbG93L1B1YmxpYyI+ICAgICAgICAgICAgIDxhcnJJbWdJZD4gPGxvbmc+ODI5ODAwMzwvbG9uZz4gPGxvbmc+ODI5NzY1MTwvbG9uZz4gPGxvbmc+ODI5NzY1MTwvbG9uZz4gPGxvbmc+ODI5NzY1MTwvbG9uZz4gPGxvbmc+ODI5MTM4NDwvbG9uZz4gPGxvbmc+ODI5MTM4NDwvbG9uZz4gPGxvbmc+ODI5MTM4NDwvbG9uZz4gPGxvbmc+ODEwNTM2MjwvbG9uZz4gPGxvbmc+ODEwNTM2MzwvbG9uZz4gPGxvbmc+ODI4NDY5MTwvbG9uZz4gPGxvbmc+ODI5NTYxNTwvbG9uZz4gPGxvbmc+ODI5NzczMTwvbG9uZz4gPGxvbmc+ODI5NzczMTwvbG9uZz4gPGxvbmc+ODI5NzczMTwvbG9uZz4gPGxvbmc+ODI5NzIyNjwvbG9uZz4gPGxvbmc+ODI1NDg1ODwvbG9uZz4gPGxvbmc+ODI5NzIyNjwvbG9uZz4gPGxvbmc+ODI1NDg1ODwvbG9uZz4gPGxvbmc+ODE5MjcwNzwvbG9uZz4gPGxvbmc+ODI5NzMzMjwvbG9uZz4gPGxvbmc+ODE5MjcwNzwvbG9uZz4gPGxvbmc+ODI5NzMzMjwvbG9uZz4gPGxvbmc+NzcyNzE0MTwvbG9uZz4gPGxvbmc+NzcyNzE0MTwvbG9uZz4gPGxvbmc+NDk5NTUwOTwvbG9uZz4gPGxvbmc+ODI5NzU5ODwvbG9uZz4gPGxvbmc+ODI5NzU5ODwvbG9uZz4gPGxvbmc+ODI5NzU5ODwvbG9uZz4gPGxvbmc+ODI2MDM2OTwvbG9uZz4gPGxvbmc+ODI1NjgwNDwvbG9uZz4gPGxvbmc+ODI1NjA3MjwvbG9uZz4gPGxvbmc+ODI3MjQ5MTwvbG9uZz4gPGxvbmc+ODI1NjgwNDwvbG9uZz4gPGxvbmc+ODI1NjA3MjwvbG9uZz4gPGxvbmc+ODI3MjQ5MTwvbG9uZz4gPGxvbmc+ODI4NDYyMDwvbG9uZz4gPGxvbmc+ODI4MzU0MzwvbG9uZz4gPGxvbmc+ODI5MTIzOTwvbG9uZz4gPGxvbmc+ODI4NzE0MDwvbG9uZz4gPGxvbmc+ODI4Njk1MDwvbG9uZz4gPGxvbmc+ODI5MTM4ODwvbG9uZz4gPGxvbmc+ODIzMTgyOTwvbG9uZz4gPGxvbmc+ODI1MzY3NDwvbG9uZz4gPGxvbmc+ODIzMTc3NTwvbG9uZz4gPGxvbmc+ODI3ODA5MzwvbG9uZz4gPGxvbmc+ODI2ODEzNDwvbG9uZz4gPGxvbmc+ODI4MjQxMTwvbG9uZz4gPGxvbmc+ODI5MzIzMDwvbG9uZz4gPGxvbmc+ODI5MTM0MjwvbG9uZz4gPGxvbmc+ODI5NTY4ODwvbG9uZz4gPGxvbmc+ODI5MzIzMDwvbG9uZz4gPGxvbmc+ODI5MTM0MjwvbG9uZz4gPGxvbmc+ODI5NTY4ODwvbG9uZz4gPGxvbmc+ODI4NDYzMDwvbG9uZz4gPGxvbmc+ODI4MzA1NTwvbG9uZz4gPGxvbmc+ODI4ODQ0OTwvbG9uZz4gPGxvbmc+ODI4NDYxMzwvbG9uZz4gPGxvbmc+ODI4MjE3MTwvbG9uZz4gPGxvbmc+ODI4ODUwNTwvbG9uZz4gPGxvbmc+ODI3ODE5MTwvbG9uZz4gPGxvbmc+ODI4NTAyOTwvbG9uZz4gPGxvbmc+ODI4Njk1MjwvbG9uZz4gPGxvbmc+ODI3ODE5MTwvbG9uZz4gPGxvbmc+ODI4NTAyOTwvbG9uZz4gPGxvbmc+ODI4Njk1MjwvbG9uZz4gPGxvbmc+ODI0NjAwMTwvbG9uZz4gPGxvbmc+ODI3MjYxNTwvbG9uZz4gPGxvbmc+ODI3MzIxMTwvbG9uZz4gPGxvbmc+ODI0NjAwMTwvbG9uZz4gPGxvbmc+ODI3MjYxNTwvbG9uZz4gPGxvbmc+ODI3MzIxMTwvbG9uZz4gPGxvbmc+ODI5NzEzNTwvbG9uZz4gPGxvbmc+ODI5MDk2NjwvbG9uZz4gPGxvbmc+ODI4ODQ5MzwvbG9uZz4gPGxvbmc+Nzg1MjYyNjwvbG9uZz4gPGxvbmc+Nzg2OTc0MTwvbG9uZz4gPGxvbmc+Nzg4MDY1NzwvbG9uZz4gPGxvbmc+Nzg0NjQzNTwvbG9uZz4gPGxvbmc+Nzg0ODg3MTwvbG9uZz4gPGxvbmc+Nzg0OTkwMzwvbG9uZz4gPGxvbmc+ODI4NjkwNTwvbG9uZz4gPGxvbmc+ODI3ODE4OTwvbG9uZz4gPGxvbmc+ODI4NTAzODwvbG9uZz4gPGxvbmc+ODI4NjkwNTwvbG9uZz4gPGxvbmc+ODI3ODE4OTwvbG9uZz4gPGxvbmc+ODI4NTAzODwvbG9uZz4gPGxvbmc+ODIzMjcxNzwvbG9uZz4gPGxvbmc+ODIzMjcxNzwvbG9uZz4gPGxvbmc+ODI5ODAwMzwvbG9uZz4gPGxvbmc+ODI5ODAwMzwvbG9uZz4gPGxvbmc+NzY5NzE1MjwvbG9uZz4gPGxvbmc+NzgxNDM4NjwvbG9uZz4gPGxvbmc+ODMwMjI1NDwvbG9uZz4gPGxvbmc+ODI5NTQ1MTwvbG9uZz4gPGxvbmc+ODE4NzA3NDwvbG9uZz4gPGxvbmc+ODI0NjU0ODwvbG9uZz4gPGxvbmc+ODMwMjI1NDwvbG9uZz4gPGxvbmc+ODI5NTQ1MTwvbG9uZz4gPGxvbmc+ODE4NzA3NDwvbG9uZz4gPGxvbmc+ODI0NjU0ODwvbG9uZz4gPGxvbmc+NzI0NzkxMTwvbG9uZz4gPGxvbmc+NzQzOTcyNDwvbG9uZz4gPGxvbmc+ODMwMTM1NDwvbG9uZz4gPGxvbmc+ODI5NzM3ODwvbG9uZz4gPGxvbmc+ODI5NTcwODwvbG9uZz4gPGxvbmc+NzA4NDQ4MDwvbG9uZz4gPGxvbmc+ODI5NTYwMDwvbG9uZz4gPGxvbmc+ODMwMTc5MjwvbG9uZz4gPGxvbmc+ODIwMjI2MTwvbG9uZz4gPGxvbmc+ODI1MjkwMzwvbG9uZz4gPGxvbmc+ODI1MjkwMzwvbG9uZz4gPGxvbmc+ODMwMjI1MjwvbG9uZz4gPGxvbmc+ODMwMjI1MjwvbG9uZz4gPGxvbmc+MTEyMjk8L2xvbmc+IDxsb25nPjExMjI5PC9sb25nPiA8bG9uZz44Mjg2NDM1PC9sb25nPiA8bG9uZz44Mjg2NDM1PC9sb25nPiA8bG9uZz44Mjk2ODYwPC9sb25nPiA8bG9uZz44Mjg3ODkyPC9sb25nPiA8bG9uZz44Mjk2ODYwPC9sb25nPiA8bG9uZz44Mjg3ODkyPC9sb25nPiA8bG9uZz44MjgzMDQ1PC9sb25nPiA8bG9uZz44MjQ5MzYxPC9sb25nPiA8bG9uZz44MjgzMDQ1PC9sb25nPiA8bG9uZz44MjQ5MzYxPC9sb25nPiA8bG9uZz44Mjk4MTk2PC9sb25nPiA8bG9uZz44Mjk4MTg3PC9sb25nPiA8bG9uZz44Mjk4MTk2PC9sb25nPiA8bG9uZz44Mjk4MTg3PC9sb25nPiA8bG9uZz44Mjk1ODgwPC9sb25nPiA8bG9uZz44MjkxMzMwPC9sb25nPiA8bG9uZz44MjkzMjU2PC9sb25nPiA8bG9uZz44Mjk1ODgwPC9sb25nPiA8bG9uZz44MjkxMzMwPC9sb25nPiA8bG9uZz44MjkzMjU2PC9sb25nPiA8bG9uZz44Mjk4MTkzPC9sb25nPiA8bG9uZz44Mjk4MTAyPC9sb25nPiA8bG9uZz44Mjk4MTkzPC9sb25nPiA8bG9uZz44Mjk4MTAyPC9sb25nPiA8bG9uZz44Mjk0ODk1PC9sb25nPiA8bG9uZz44Mjk0ODk1PC9sb25nPiA8bG9uZz44MjgyNDA3PC9sb25nPiA8bG9uZz44MjcwMDE0PC9sb25nPiA8bG9uZz44MjcyMjgyPC9sb25nPiA8bG9uZz44Mjk2ODAxPC9sb25nPiA8bG9uZz44Mjk2ODAxPC9sb25nPiA8bG9uZz44Mjk0ODMxPC9sb25nPiA8bG9uZz44MjkxMzEyPC9sb25nPiA8bG9uZz44MjY0ODAwPC9sb25nPiA8bG9uZz44Mjk0ODMxPC9sb25nPiA8bG9uZz44MjkxMzEyPC9sb25nPiA8bG9uZz44MjY0ODAwPC9sb25nPiA8bG9uZz44MjgwNDU1PC9sb25nPiA8bG9uZz44MjgwMTE4PC9sb25nPiA8bG9uZz44Mjc4NTA1PC9sb25nPiA8bG9uZz44Mjc5ODk5PC9sb25nPiA8bG9uZz44MjgwMTE4PC9sb25nPiA8bG9uZz44Mjc4NTA1PC9sb25nPiA8bG9uZz44Mjc5ODk5PC9sb25nPiA8bG9uZz44MzAxNzQ3PC9sb25nPiA8bG9uZz44MzAxNzgzPC9sb25nPiA8bG9uZz44MzAxNzQ3PC9sb25nPiA8bG9uZz44MzAxNzgzPC9sb25nPiA8bG9uZz43OTQyODEzPC9sb25nPiA8bG9uZz43OTQyODEzPC9sb25nPiA8bG9uZz44MzAwNDYwPC9sb25nPiA8bG9uZz44MzAwNDYwPC9sb25nPiA8bG9uZz44MzAxNDk3PC9sb25nPiA8bG9uZz44Mjk4OTMwPC9sb25nPiA8bG9uZz44MzAxNDgwPC9sb25nPiA8bG9uZz44Mjk4OTM4PC9sb25nPiA8bG9uZz44MzAxNDgwPC9sb25nPiA8bG9uZz44Mjk4OTM4PC9sb25nPiA8bG9uZz44MjU1NzUzPC9sb25nPiA8bG9uZz44MjU1NzUzPC9sb25nPiA8bG9uZz44MzAxNDU0PC9sb25nPiA8bG9uZz44Mjk4OTQxPC9sb25nPiA8bG9uZz44MzAwOTIzPC9sb25nPiA8bG9uZz44MzAwOTIzPC9sb25nPiA8bG9uZz44MzAwNTQ3PC9sb25nPiA8bG9uZz44MzAwNzE3PC9sb25nPiA8bG9uZz44Mjk4NzI1PC9sb25nPiA8bG9uZz44MzAwNzE3PC9sb25nPiA8bG9uZz44Mjk4NzI1PC9sb25nPiA8bG9uZz44Mjk5NTA3PC9sb25nPiA8bG9uZz44Mjk5NTA3PC9sb25nPiA8bG9uZz44Mjk5OTU3PC9sb25nPiA8bG9uZz44Mjk5NjU1PC9sb25nPiA8bG9uZz44Mjk5OTU3PC9sb25nPiA8bG9uZz44Mjk5NjU1PC9sb25nPiA8bG9uZz44Mjk4Njc0PC9sb25nPiA8bG9uZz44Mjk4Njc0PC9sb25nPiA8bG9uZz44Mjk5NjcxPC9sb25nPiA8bG9uZz44Mjk4NzM2PC9sb25nPiA8bG9uZz44Mjk5Njg0PC9sb25nPiA8bG9uZz44Mjk5NjQ5PC9sb25nPiA8bG9uZz44Mjk0MDI2PC9sb25nPiA8bG9uZz44Mjk5Njg0PC9sb25nPiA8bG9uZz44Mjk5NjQ5PC9sb25nPiA8bG9uZz44Mjk0MDI2PC9sb25nPiAgICAgICAgICAgICA8L2FyckltZ0lkPiAgICAgICAgICAgICA8YXJyTGVuPiAgICAgICAgICAgICAgICAgPGxvbmc+MTwvbG9uZz4gICAgICAgICAgICAgPC9hcnJMZW4+ICAgICAgICAgICAgIDxhcnJJbWc+YmFzZTY0QmluYXJ5PC9hcnJJbWc+ICAgICAgICAgPC9HZXRJbWFnZXNBdHRhY2htZW50cz4gICAgIDwvc29hcDEyOkJvZHk+IDwvc29hcDEyOkVudmVsb3BlPiAgCg==</text>
