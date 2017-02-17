@@ -84,6 +84,12 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1487317952149">
+        <mark key="[" line="88" column="45" />
+        <mark key="]" line="88" column="47" />
+        <mark key="." line="88" column="47" />
+        <mark key="^" line="88" column="47" />
+      </file>
       <file name="restClient/response70.txt" timestamp="1487060164718">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -241,10 +247,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text>12</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>12</text>
       </register>
       <register name="/" type="4">
         <text>configure</text>
