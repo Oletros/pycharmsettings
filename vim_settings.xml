@@ -84,12 +84,12 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1487580457366">
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1487587224871">
         <mark key="'" line="88" column="0" />
-        <mark key="[" line="83" column="77" />
-        <mark key="]" line="83" column="77" />
-        <mark key="." line="83" column="77" />
-        <mark key="^" line="83" column="77" />
+        <mark key="[" line="90" column="45" />
+        <mark key="]" line="90" column="46" />
+        <mark key="." line="90" column="46" />
+        <mark key="^" line="90" column="46" />
       </file>
       <file name="restClient/response70.txt" timestamp="1487060164718">
         <mark key="'" line="0" column="0" />
@@ -247,11 +247,11 @@
       <jump line="88" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGFiYXNlcyA9IHsnREVWJzogeydzZXJ2ZXInOiAiTUxHQkNOMDAxOSIsICdkYXRhYmFzZSc6ICJUUl9ERV9ERVZfRERTIn0sCiAgICAgICAgICAgICAgICAgJ0xPQ0FMJzogeydzZXJ2ZXInOiAiV0xHRVNPTDAwMDUwIiwgJ2RhdGFiYXNlJzogIlRSX0RFX0RFVl9ERFMifSwKICAgICAgICAgICAgICAgICAnVEVTVCc6IHsnc2VydmVyJzogIk1MR01VQzAwU1FMMTM5IiwgJ2RhdGFiYXNlJzogIlRSX0RFX1RFU1RfRERTIn19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2500</text>
       </register>
       <register name="-" type="4">
-        <text>DEV_DDS</text>
+        <text>2500</text>
       </register>
       <register name="/" type="4">
         <text>configure</text>
