@@ -90,12 +90,12 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1487605488756">
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1487606841784">
         <mark key="'" line="110" column="56" />
-        <mark key="[" line="117" column="110" />
-        <mark key="]" line="117" column="62" />
-        <mark key="." line="117" column="62" />
-        <mark key="^" line="117" column="62" />
+        <mark key="[" line="95" column="23" />
+        <mark key="]" line="95" column="23" />
+        <mark key="." line="95" column="23" />
+        <mark key="^" line="111" column="94" />
       </file>
       <file name="restClient/response70.txt" timestamp="1487060164718">
         <mark key="'" line="0" column="0" />
@@ -253,11 +253,11 @@
       <jump line="101" column="56" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtZmlsZXM9Y291bnRhbmRkZWxldGVwZGYoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>configure</text>
