@@ -9,6 +9,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1487829928642">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="restClient/response7.xml" timestamp="1487176728859">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -252,11 +258,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQK</text>
+      <register name="&quot;" type="4">
+        <text>chars.c</text>
       </register>
       <register name="-" type="4">
-        <text>12</text>
+        <text>chars.c</text>
       </register>
       <register name="/" type="4">
         <text>configure</text>
