@@ -145,12 +145,11 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" timestamp="1488263005516">
-        <mark key="'" line="6" column="16" />
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-        <mark key="^" line="2" column="34" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" timestamp="1488349158994">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="restClient/response54.txt" timestamp="1487004470399">
         <mark key="'" line="0" column="407" />
@@ -164,9 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="31" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
-      <jump line="45" column="37" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
-      <jump line="50" column="42" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
@@ -259,51 +255,54 @@
       <jump line="7" column="8" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="20" column="4" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="10" column="6" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="2" column="18" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="5" column="4" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="3" column="4" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="1" column="16" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="11" column="12" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="9" column="28" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="2" column="17" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="4" column="6" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQocmVkdWNlKGxhbWJkYSB0OiB0ICsgMSwgTCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>configure</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">TFsxOl0gPSBbXQo=</text>
+      <register name="0" type="4">
+        <text>(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">cHJpbnQocmVkdWNlKGxhbWJkYSB0OiB0ICsgMSwgTCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YiA9IDEwCndoaWxlIGEgPCBiOgogICAgcHJpbnQoYSwgZW5kPScgJykKICAgIGEgKz0gMQo=</text>
+        <text encoding="base64">aXRlbXMgPSBbImFhYSIsIDExMSwgKDQsIDUpLCAyLjAxXQp0ZXN0cyA9IFsoNCwgNSksIDMuMTRdCgpmb3Iga2V5IGluIHRlc3RzOgogICAgZm9yIGl0ZW0gaW4gaXRlbXM6CiAgICAgICAgaWYgaXRlbSA9PSBrZXk6CiAgICAgICAgICAgIHByaW50KGtleSwgIndhcyBmb3VuZCIpCiAgICAgICAgICAgIGJyZWFrCiAgICBlbHNlOgogICAgICAgIHByaW50KGtleSwgIm5vdCBmb3VuZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eCA9ICdzcGFtJwp3aGlsZSB4OgogICAgcHJpbnQoeCwgZW5kPScgJykKICAgIHggPSB4WzE6XQoKYSA9IDAK</text>
+        <text encoding="base64">ZGVmIGZsYXR0ZW4obGlzdCwgcmVzdWx0PVtdKToKICAgIGZvciBlbGVtZW50IGluIGxpc3Q6CiAgICAgICAgaWYgaXNpbnN0YW5jZShlbGVtZW50LCBsaXN0KToKICAgICAgICAgICAgcmVzdWx0ID0gZmxhdHRlbihlbGVtZW50LCByZXN1bHQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVzdWx0LmFwcGVuZChlbGVtZW50KQogICAgcmV0dXJuIHJlc3VsdAoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBvdXJsaXN0ID0gWzEsIDIsIFszXSwgMywgWzQsIFs1LCA2XV1dCiAgICBwcmludChmbGF0dGVuKG91cmxpc3QpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ClkgPSAxClogPSAyCmlmIFg6CiAgICBBID0gWQplbHNlOgogICAgQSA9IFoKcHJpbnQoQSkKCkEgPSBZIGlmIFggZWxzZSBaCnByaW50KEEpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoMiA8IDMsIDMgPCAyKQpwcmludCgyIG9yIDMsIDMgb3IgMikKcHJpbnQoW10gb3IgMykKcHJpbnQoW10gb3Ige30pCg==</text>
+        <text encoding="base64">YiA9IDEwCndoaWxlIGEgPCBiOgogICAgcHJpbnQoYSwgZW5kPScgJykKICAgIGEgKz0gMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnggPSAxCmlmIHg6CiAgICB5ID0gMgogICAgaWYgeToKICAgICAgICBwcmludCgnYmxvY2syJykKICAgIHByaW50KCdibG9jazEnKQpwcmludCgnYmxvY2swJykKCnggPSAnU1BBTScKaWYgJ3J1YmJlcnknIGluICdzaHJ1YmJlcnknOgogICAgcHJpbnQoeCAqIDgpCiAgICB4ICs9ICdOSScKICAgIGlmIHguZW5kc3dpdGgoJ05JJyk6CiAgICAgICAgeCAqPSAyCiAgICAgICAgcHJpbnQoeCkKCmlmIChhID09IGIgYW5kCiAgICAgICAgICAgIGMgPT0gZCBhbmQKICAgICAgICAgICAgZCA9PSBlIGFuZAogICAgICAgICAgICBmID09IGcpOgogICAgcHJpbnQoJ29sZGUnKQo=</text>
+        <text encoding="base64">eCA9ICdzcGFtJwp3aGlsZSB4OgogICAgcHJpbnQoeCwgZW5kPScgJykKICAgIHggPSB4WzE6XQoKYSA9IDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eCA9IDEKaWYgeDoKICAgIHkgPSAyCiAgICBpZiB5OgogICAgICAgIHByaW50KCdibG9jazInKQogICAgcHJpbnQoJ2Jsb2NrMScpCnByaW50KCdibG9jazAnKQoKeCA9ICdTUEFNJwppZiAncnViYmVyeScgaW4gJ3NocnViYmVyeSc6CiAgICBwcmludCh4ICogOCkKICAgIHggKz0gJ05JJwogICAgaWYgeC5lbmRzd2l0aCgnTkknKToKICAgICAgICB4ICo9IDIKICAgICAgICBwcmludCh4KQoKaWYgKGEgPT0gYiBhbmQKICAgICAgICAgICAgYyA9PSBkIGFuZAogICAgICAgICAgICBkID09IGUgYW5kCiAgICAgICAgICAgIGYgPT0gZyk6CiAgICBwcmludCgnb2xkZScpCg==</text>
+        <text encoding="base64">ClkgPSAxClogPSAyCmlmIFg6CiAgICBBID0gWQplbHNlOgogICAgQSA9IFoKcHJpbnQoQSkKCkEgPSBZIGlmIFggZWxzZSBaCnByaW50KEEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aGlsZSBUcnVlOgogICAgcmVwbHkgPSBpbnB1dCgnRW50ZXIgdGV4dDogJykKICAgIGlmIHJlcGx5ID09ICdzdG9wJzoKICAgICAgICBicmVhawogICAgZWxpZiBub3QgcmVwbHkuaXNkaWdpdCgpOgogICAgICAgIHByaW50KCdCYWQnICogOCkKICAgIGVsc2U6CiAgICAgICAgcHJpbnQocmVwbHkudXBwZXIoKSkK</text>
+        <text encoding="base64">cHJpbnQoMiA8IDMsIDMgPCAyKQpwcmludCgyIG9yIDMsIDMgb3IgMikKcHJpbnQoW10gb3IgMykKcHJpbnQoW10gb3Ige30pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aGlsZSBUcnVlOgogICAgcmVwbHkgPSBpbnB1dCgnRW50ZXIgdGV4dDogJykKICAgIGlmIHJlcGx5ID09ICdzdG9wJzoKICAgICAgICBicmVhawogICAgZWxpZiBub3QgcmVwbHkuaXNkaWdpdCgpOgogICAgICAgIHByaW50KCdCYWQnICogOCkKICAgIGVsc2U6CiAgICAgICAgcHJpbnQocmVwbHkudXBwZXIoKSkK</text>
+        <text encoding="base64">CnggPSAxCmlmIHg6CiAgICB5ID0gMgogICAgaWYgeToKICAgICAgICBwcmludCgnYmxvY2syJykKICAgIHByaW50KCdibG9jazEnKQpwcmludCgnYmxvY2swJykKCnggPSAnU1BBTScKaWYgJ3J1YmJlcnknIGluICdzaHJ1YmJlcnknOgogICAgcHJpbnQoeCAqIDgpCiAgICB4ICs9ICdOSScKICAgIGlmIHguZW5kc3dpdGgoJ05JJyk6CiAgICAgICAgeCAqPSAyCiAgICAgICAgcHJpbnQoeCkKCmlmIChhID09IGIgYW5kCiAgICAgICAgICAgIGMgPT0gZCBhbmQKICAgICAgICAgICAgZCA9PSBlIGFuZAogICAgICAgICAgICBmID09IGcpOgogICAgcHJpbnQoJ29sZGUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
