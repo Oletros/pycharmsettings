@@ -103,12 +103,12 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1488536738527">
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1488538141840">
         <mark key="'" line="99" column="20" />
-        <mark key="[" line="110" column="4" />
-        <mark key="]" line="110" column="4" />
-        <mark key="." line="110" column="4" />
-        <mark key="^" line="104" column="42" />
+        <mark key="[" line="105" column="13" />
+        <mark key="]" line="105" column="14" />
+        <mark key="." line="105" column="14" />
+        <mark key="^" line="104" column="41" />
       </file>
       <file name="restClient/response70.txt" timestamp="1487060164718">
         <mark key="'" line="0" column="0" />
@@ -267,16 +267,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>numfiles</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>numfiles</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TFsxOl0gPSBbXQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoIkVuZGVkIGluIHt0aW1lfSwgY3JlYXRlZCB7bnVtfSBpbnZvaWNlcyIuZm9ybWF0KHRpbWU9dG90YWx0aW1lLCBudW09bnVtZmlsZXMpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbnZvaWNlcz1bNjEzNzYwNF0K</text>
