@@ -20,6 +20,12 @@
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/learningpython/datafile.txt" timestamp="1487916332145">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="restClient/response48.txt" timestamp="1487003943484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -30,6 +36,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2374214" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1487004716902">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="restClient/response0.txt" timestamp="1487176506829">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -39,12 +51,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="18" column="18" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1487060203919">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="restClient/response39.txt" timestamp="1487001105226">
         <mark key="'" line="0" column="14" />
@@ -61,11 +67,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1487004716902">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" timestamp="1488176687343">
+        <mark key="'" line="3" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="restClient/response56.txt" timestamp="1487004668382">
         <mark key="[" line="0" column="0" />
@@ -96,6 +103,13 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1488784697152">
+        <mark key="'" line="118" column="68" />
+        <mark key="[" line="99" column="22" />
+        <mark key="]" line="99" column="22" />
+        <mark key="." line="99" column="22" />
+        <mark key="^" line="97" column="40" />
+      </file>
       <file name="restClient/response70.txt" timestamp="1487060164718">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -116,23 +130,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/datafile.txt" timestamp="1487916332145">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="restClient/response36.txt" timestamp="1487001063858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1488445529990">
-        <mark key="'" line="21" column="39" />
-        <mark key="[" line="103" column="50" />
-        <mark key="]" line="104" column="24" />
-        <mark key="." line="104" column="24" />
-        <mark key="^" line="104" column="24" />
       </file>
       <file name="restClient/response37.txt" timestamp="1487001081600">
         <mark key="'" line="0" column="0" />
@@ -145,13 +146,6 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" timestamp="1488781129838">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="39" />
-        <mark key="." line="1" column="39" />
-        <mark key="^" line="1" column="39" />
-      </file>
       <file name="restClient/response54.txt" timestamp="1487004470399">
         <mark key="'" line="0" column="407" />
         <mark key="[" line="0" column="0" />
@@ -162,10 +156,14 @@
         <mark key="]" line="15" column="18" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1487060203919">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="7" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="42" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="27" column="21" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
@@ -220,7 +218,6 @@
       <jump line="71" column="8" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="27" column="29" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="84" column="32" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="7" column="16" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/.tfignore" />
       <jump line="414" column="4" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/.tfignore" />
       <jump line="244" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/.tfignore" />
@@ -262,58 +259,61 @@
       <jump line="10" column="6" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="3" column="5" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="21" column="39" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="4" column="15" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="113" column="4" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="104" column="4" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="99" column="20" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
+      <jump line="118" column="68" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcyA9IFtdCiAgICBmb3IgeCBpbiBzZXExOgogICAgICAgIGlmIHggaW4gc2VxMjoKICAgICAgICAgICAgcmVzLmFwcGVuZCh4KQogICAgcmV0dXJuIHJlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>configure</text>
+        <text encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TFsxOl0gPSBbXQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoIkVuZGVkIGluIHt0aW1lfSwgY3JlYXRlZCB7bnVtfSBpbnZvaWNlcyIuZm9ybWF0KHRpbWU9dG90YWx0aW1lLCBudW09bnVtZmlsZXMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcyA9IFtdCiAgICBmb3IgeCBpbiBzZXExOgogICAgICAgIGlmIHggaW4gc2VxMjoKICAgICAgICAgICAgcmVzLmFwcGVuZCh4KQogICAgcmV0dXJuIHJlcwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnZvaWNlcz1bNjEzNzYwNF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHRpbWVzKHgsIHkpOgogICAgcmV0dXJuIHggKiB5CgoKcHJpbnQodGltZXMoMiwgNCkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dGltZXMzID0gdGltZXMoMiwgeCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGVmIHRpbWVzMygK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwoKUyA9ICdzcGFtJwpmb3IgaSBpbiByYW5nZShsZW4oUykpOgogICAgUyA9IFNbMTpdICsgU1s6MV0KICAgIHByaW50KFMsIGVuZD0nICcpCnByaW50KCkKUyA9ICdhYmNkZWZnaGlqaycKcHJpbnQoU1s6OjJdKQpMID0gWzEsIDIsIDMsIDQsIDVdCnggPSAwCmZvciB4IGluIEw6CiAgICB4ICs9IDEKcHJpbnQoTCkKcHJpbnQoeCkKCk0gPSBtYXAobGFtYmRhIHg6IDIgKiogeCwgcmFuZ2UoMykpCmZvciBpIGluIE06IHByaW50KGkpCmZvciBpIGluIE06IHByaW50KGkpCgoKZGVmIGRpcjEoeCk6CiAgICByZXR1cm4gW2EgZm9yIGEgaW4gZGlyKHgpIGlmIG5vdCBhLnN0YXJ0c3dpdGgoJ19fJyldCgoKcHJpbnQoZGlyMSh0dXBsZSkpCnByaW50KGRpcjEoc3RyKSA9PSBkaXIoJycpKQpwcmludChzeXMuZ2V0cmVmY291bnQuX19kb2NfXykK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGludm9pY2VzPVs2MTM4MjkxXSAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ClkgPSAxClogPSAyCmlmIFg6CiAgICBBID0gWQplbHNlOgogICAgQSA9IFoKcHJpbnQoQSkKCkEgPSBZIGlmIFggZWxzZSBaCnByaW50KEEpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">cHJpbnQoMiA8IDMsIDMgPCAyKQpwcmludCgyIG9yIDMsIDMgb3IgMikKcHJpbnQoW10gb3IgMykKcHJpbnQoW10gb3Ige30pCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CnggPSAxCmlmIHg6CiAgICB5ID0gMgogICAgaWYgeToKICAgICAgICBwcmludCgnYmxvY2syJykKICAgIHByaW50KCdibG9jazEnKQpwcmludCgnYmxvY2swJykKCnggPSAnU1BBTScKaWYgJ3J1YmJlcnknIGluICdzaHJ1YmJlcnknOgogICAgcHJpbnQoeCAqIDgpCiAgICB4ICs9ICdOSScKICAgIGlmIHguZW5kc3dpdGgoJ05JJyk6CiAgICAgICAgeCAqPSAyCiAgICAgICAgcHJpbnQoeCkKCmlmIChhID09IGIgYW5kCiAgICAgICAgICAgIGMgPT0gZCBhbmQKICAgICAgICAgICAgZCA9PSBlIGFuZAogICAgICAgICAgICBmID09IGcpOgogICAgcHJpbnQoJ29sZGUnKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">eCA9IDEKaWYgeDoKICAgIHkgPSAyCiAgICBpZiB5OgogICAgICAgIHByaW50KCdibG9jazInKQogICAgcHJpbnQoJ2Jsb2NrMScpCnByaW50KCdibG9jazAnKQoKeCA9ICdTUEFNJwppZiAncnViYmVyeScgaW4gJ3NocnViYmVyeSc6CiAgICBwcmludCh4ICogOCkKICAgIHggKz0gJ05JJwogICAgaWYgeC5lbmRzd2l0aCgnTkknKToKICAgICAgICB4ICo9IDIKICAgICAgICBwcmludCh4KQoKaWYgKGEgPT0gYiBhbmQKICAgICAgICAgICAgYyA9PSBkIGFuZAogICAgICAgICAgICBkID09IGUgYW5kCiAgICAgICAgICAgIGYgPT0gZyk6CiAgICBwcmludCgnb2xkZScpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aGlsZSBUcnVlOgogICAgcmVwbHkgPSBpbnB1dCgnRW50ZXIgdGV4dDogJykKICAgIGlmIHJlcGx5ID09ICdzdG9wJzoKICAgICAgICBicmVhawogICAgZWxpZiBub3QgcmVwbHkuaXNkaWdpdCgpOgogICAgICAgIHByaW50KCdCYWQnICogOCkKICAgIGVsc2U6CiAgICAgICAgcHJpbnQocmVwbHkudXBwZXIoKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aGlsZSBUcnVlOgogICAgcmVwbHkgPSBpbnB1dCgnRW50ZXIgdGV4dDogJykKICAgIGlmIHJlcGx5ID09ICdzdG9wJzoKICAgICAgICBicmVhawogICAgZWxpZiBub3QgcmVwbHkuaXNkaWdpdCgpOgogICAgICAgIHByaW50KCdCYWQnICogOCkKICAgIGVsc2U6CiAgICAgICAgcHJpbnQocmVwbHkudXBwZXIoKSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">RCA9IHsnc3BhbSc6IDIsCiAgICAgJ2hhbSc6IDEsCiAgICAgJ2VnZ3MnOiAzfQoKcHJpbnQoRFsnc3BhbSddKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>configure</last-search>
+      <last-search encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</last-search>
       <last-offset />
-      <last-pattern>configure</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -332,6 +332,7 @@
         <entry>TEMPLATE12600</entry>
         <entry>normal</entry>
         <entry>configure</entry>
+        <entry encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
