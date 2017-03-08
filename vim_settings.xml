@@ -145,11 +145,12 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" timestamp="1488867948407">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="3" column="31" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" timestamp="1488954025286">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="12" />
       </file>
       <file name="restClient/response54.txt" timestamp="1487004470399">
         <mark key="'" line="0" column="407" />
@@ -163,8 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="21" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
-      <jump line="6" column="38" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="7" column="28" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="74" column="18" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
@@ -246,12 +245,9 @@
       <jump line="0" column="0" filename="restClient/response71.txt" />
       <jump line="0" column="336" filename="restClient/response11.txt" />
       <jump line="74" column="22" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="0" column="9" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/dev/learningpython/datafile.txt" />
       <jump line="20" column="4" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="2" column="3" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="10" column="6" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="3" column="5" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="21" column="39" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
@@ -260,16 +256,21 @@
       <jump line="99" column="20" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="118" column="68" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="9" column="7" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="4" column="16" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="1" column="26" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="9" column="11" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="0" column="4" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="4" column="5" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="10" column="13" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIG1ha2VyKE4pOgogICAgcmV0dXJuIGxhbWJkYSBYOiBYICoqIE4KCgpmID0gbWFrZXIoMikKcHJpbnQoZigzKSkKcHJpbnQoZig0KSkK</text>
+      <register name="&quot;" type="4">
+        <text>99</text>
       </register>
       <register name="-" type="4">
-        <text>print(X)</text>
+        <text>99</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</text>
@@ -278,31 +279,31 @@
         <text encoding="base64">ICAgICMgcHJpbnQoIkVuZGVkIGluIHt0aW1lfSwgY3JlYXRlZCB7bnVtfSBpbnZvaWNlcyIuZm9ybWF0KHRpbWU9dG90YWx0aW1lLCBudW09bnVtZmlsZXMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIG1ha2VyKE4pOgogICAgcmV0dXJuIGxhbWJkYSBYOiBYICoqIE4KCgpmID0gbWFrZXIoMikKcHJpbnQoZigzKSkKcHJpbnQoZig0KSkK</text>
+        <text encoding="base64">WCA9ICdPcmlnaW5hbCBTUEFNJwoKCmRlZiBmdW5jKCk6CiAgICBYID0gJ05JJwoKICAgIGRlZiBuZXN0ZWQoKToKICAgICAgICBub25sb2NhbCBYCiAgICAgICAgWCA9ICdTUEFNJwoKICAgIG5lc3RlZCgpCiAgICBwcmludChYKQoKCmZ1bmMoKQpwcmludChYKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBhY3Rpb24oWCk6CiAgICAgICAgcmV0dXJuIFggKiBOCgogICAgcmV0dXJuIGFjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChYKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WCA9IDk5CgoKZGVmIGZ1bmMoWSk6CiAgICBaID0gWCArIFkKICAgIHJldHVybiBaCgoKcHJpbnQoZnVuYygxKSkKcHJpbnQoWCkK</text>
+        <text encoding="base64">ZGVmIHRlc3RlcihzdGFydCk6CiAgICBkZWYgbmVzdGVkKGxhYmVsKToKICAgICAgICBwcmludChsYWJlbCwgbmVzdGVkLnN0YXRlKQogICAgICAgIG5lc3RlZC5zdGF0ZSArPSAxCgogICAgbmVzdGVkLnN0YXRlID0gc3RhcnQKICAgIHJldHVybiBuZXN0ZWQKCgpGID0gdGVzdGVyKDEpCkYoJ3NkJykKRignaGFtJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFggPSA4OAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZSA9IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGludGVyc2VxKHNlcTEsIHNlcTIpOgogICAgcmV0dXJuIFt4IGZvciB4IGluIHNlcTEgaWYgeCBpbiBzZXEyXQoKCnMxID0gJ1NQQU0nCnMyID0gJ1NDQU0nCnByaW50KGludGVyc2VxKHMxLCBzMikpCg==</text>
+        <text encoding="base64">ICAgICAgICBub25sb2NhbCBzdGFydAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZvaWNlcz1bNjEzNzYwNF0K</text>
+        <text encoding="base64">ZGVmIG1ha2VBY3Rpb25zKCk6CiAgICBhY3QgPSBbXQogICAgZm9yIGkgaW4gcmFuZ2UoNSk6CiAgICAgICAgYWN0LmFwcGVuZChsYW1iZGEgeCwgaT1pOiBpICoqIHgpCiAgICByZXR1cm4gYWN0CgoKYWN0cyA9IG1ha2VBY3Rpb25zKCkKcHJpbnQoYWN0c1syXSgzKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludm9pY2VzPVs2MTM4MjkxXSAK</text>
+        <text encoding="base64">ZGVmIG1ha2VyKE4pOgogICAgcmV0dXJuIGxhbWJkYSBYOiBYICoqIE4KCgpmID0gbWFrZXIoMikKcHJpbnQoZigzKSkKcHJpbnQoZig0KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ClkgPSAxClogPSAyCmlmIFg6CiAgICBBID0gWQplbHNlOgogICAgQSA9IFoKcHJpbnQoQSkKCkEgPSBZIGlmIFggZWxzZSBaCnByaW50KEEpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBhY3Rpb24oWCk6CiAgICAgICAgcmV0dXJuIFggKiBOCgogICAgcmV0dXJuIGFjdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoMiA8IDMsIDMgPCAyKQpwcmludCgyIG9yIDMsIDMgb3IgMikKcHJpbnQoW10gb3IgMykKcHJpbnQoW10gb3Ige30pCg==</text>
+        <text encoding="base64">WCA9IDk5CgoKZGVmIGZ1bmMoWSk6CiAgICBaID0gWCArIFkKICAgIHJldHVybiBaCgoKcHJpbnQoZnVuYygxKSkKcHJpbnQoWCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
