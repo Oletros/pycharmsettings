@@ -99,6 +99,12 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/timeseqs.py" timestamp="1490076104597">
+        <mark key="[" line="25" column="3" />
+        <mark key="]" line="40" column="56" />
+        <mark key="^" line="40" column="56" />
+        <mark key="." line="40" column="56" />
+      </file>
       <file name="restClient/response70.txt" timestamp="1487060164718">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -155,8 +161,8 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" timestamp="1489990740709">
-        <mark key="'" line="38" column="0" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" timestamp="1490075920948">
+        <mark key="'" line="8" column="15" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="38" column="57" />
         <mark key="." line="38" column="57" />
@@ -172,9 +178,15 @@
         <mark key="]" line="15" column="18" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/timer2.py" timestamp="1490076388758">
+        <mark key="'" line="40" column="66" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="40" column="66" />
+        <mark key="^" line="40" column="66" />
+        <mark key="." line="40" column="66" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="15" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="32" column="16" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="66" column="15" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
       <jump line="37" column="27" filename="$USER_HOME$/PycharmProjects/ListTFS/src/ListObjects.py" />
@@ -266,7 +278,6 @@
       <jump line="24" column="30" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="7" column="36" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="21" column="58" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/permute.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="0" column="9" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="3" column="12" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
@@ -274,6 +285,8 @@
       <jump line="37" column="21" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="8" column="15" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
+      <jump line="40" column="66" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/timer2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
