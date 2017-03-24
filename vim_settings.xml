@@ -9,7 +9,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1490162498467">
+      <file name="/Python Console" timestamp="1490335984496">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -25,10 +25,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="restClient/response35.txt" timestamp="1487000992663">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/eggs.py" timestamp="1490335973107">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2374214" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="restClient/response0.txt" timestamp="1487176506829">
         <mark key="[" line="4" column="18" />
@@ -40,16 +41,14 @@
         <mark key="]" line="18" column="18" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/spam.py" timestamp="1490335859363">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1487060203919">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="18" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="restClient/response39.txt" timestamp="1487001105226">
-        <mark key="'" line="0" column="14" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4093502" />
       </file>
       <file name="restClient/response64.txt" timestamp="1487056764385">
         <mark key="[" line="0" column="0" />
@@ -86,13 +85,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="restClient/response59.txt" timestamp="1487004823114">
-        <mark key="'" line="0" column="541" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18084" />
-      </file>
       <file name="restClient/response11.txt" timestamp="1487177656582">
         <mark key="'" line="0" column="336" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" timestamp="1490335835614">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="restClient/response71.txt" timestamp="1487060208848">
         <mark key="'" line="0" column="0" />
@@ -117,11 +114,6 @@
         <mark key="]" line="40" column="56" />
         <mark key="^" line="40" column="56" />
         <mark key="." line="40" column="56" />
-      </file>
-      <file name="restClient/response70.txt" timestamp="1487060164718">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4739" />
       </file>
       <file name="restClient/response29.txt" timestamp="1487000812972">
         <mark key="[" line="0" column="0" />
@@ -187,11 +179,6 @@
         <mark key="]" line="38" column="57" />
         <mark key="." line="38" column="57" />
         <mark key="^" line="38" column="57" />
-      </file>
-      <file name="restClient/response54.txt" timestamp="1487004470399">
-        <mark key="'" line="0" column="407" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14543" />
       </file>
       <file name="restClient/response45.txt" timestamp="1487003652822">
         <mark key="[" line="0" column="0" />
