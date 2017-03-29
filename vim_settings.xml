@@ -100,11 +100,12 @@
       <file name="restClient/response11.txt" timestamp="1487177656582">
         <mark key="'" line="0" column="336" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" timestamp="1490592045560">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="51" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" timestamp="1490678552814">
+        <mark key="'" line="23" column="10" />
+        <mark key="[" line="52" column="5" />
+        <mark key="]" line="53" column="6" />
+        <mark key="." line="53" column="6" />
+        <mark key="^" line="53" column="6" />
       </file>
       <file name="restClient/response71.txt" timestamp="1487060208848">
         <mark key="'" line="0" column="0" />
@@ -215,15 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="61" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="583" column="34" filename="C:/Python/Python27/Lib/multiprocessing/pool.py" />
-      <jump line="32" column="41" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="50" column="10" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="20" column="8" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="45" column="44" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="66" column="16" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="42" column="10" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
@@ -315,13 +307,22 @@
       <jump line="3" column="32" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="8" column="8" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="5" column="22" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="15" column="10" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="10" column="51" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="21" column="49" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="24" column="25" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="18" column="43" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="27" column="25" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="23" column="10" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkaXIxIGltcG9ydCB6IGFzIG1vZHoKZnJvbSBodHRwLnNlcnZlciBpbXBvcnQgQ0dJSFRUUFJlcXVlc3RIYW5kbGVyCmZyb20gdGtpbnRlci5maWxlZGlhbG9nIGltcG9ydCBhc2tvcGVuZmlsZW5hbWUKZnJvbSBlbWFpbC5tZXNzYWdlIGltcG9ydCBNZXNzYWdlCgpwcmludChtb2R6KQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.dir2.mod</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</text>
@@ -330,31 +331,31 @@
         <text encoding="base64">ICAgICMgcHJpbnQoIkVuZGVkIGluIHt0aW1lfSwgY3JlYXRlZCB7bnVtfSBpbnZvaWNlcyIuZm9ybWF0KHRpbWU9dG90YWx0aW1lLCBudW09bnVtZmlsZXMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkaXIxIGltcG9ydCB6IGFzIG1vZHoKZnJvbSBodHRwLnNlcnZlciBpbXBvcnQgQ0dJSFRUUFJlcXVlc3RIYW5kbGVyCmZyb20gdGtpbnRlci5maWxlZGlhbG9nIGltcG9ydCBhc2tvcGVuZmlsZW5hbWUKZnJvbSBlbWFpbC5tZXNzYWdlIGltcG9ydCBNZXNzYWdlCgpwcmludChtb2R6KQo=</text>
+        <text encoding="base64">ZnJvbSBmb3JtYXRzIGltcG9ydCBtb25leQoKWCA9IDU0MzIxLjk4NwoKcHJpbnQobW9uZXkoWCksIG1vbmV5KFgsIDAsICcnKSkKcHJpbnQobW9uZXkoWCwgY3VycmVuY3k9dSdceEEzJyksIG1vbmV5KFgsIGN1cnJlbmN5PXUnXHUwMEE1JykpCnByaW50KG1vbmV5KFgsIGN1cnJlbmN5PWInXHhBMycuZGVjb2RlKCdsYXRpbi0xJykpKQoKcHJpbnQobW9uZXkoWCwgY3VycmVuY3k9dSdcdTIwQUMnKSwgbW9uZXkoWCwgMCwgYidceEE0Jy5kZWNvZGUoJ2lzby04ODU5LTE1JykpKQpwcmludChtb25leShYLCBjdXJyZW5jeT1iJ1x4QTQnLmRlY29kZSgnbGF0aW4tMScpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkaXIxCg==</text>
+        <text encoding="base64">ZnJvbSBkaXIxIGltcG9ydCB6IGFzIG1vZHoKZnJvbSBodHRwLnNlcnZlciBpbXBvcnQgQ0dJSFRUUFJlcXVlc3RIYW5kbGVyCmZyb20gdGtpbnRlci5maWxlZGlhbG9nIGltcG9ydCBhc2tvcGVuZmlsZW5hbWUKZnJvbSBlbWFpbC5tZXNzYWdlIGltcG9ydCBNZXNzYWdlCgpwcmludChtb2R6KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNtYWxsCgo=</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkaXIxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmZvciBrZXkgaW4gc21hbGwuX19kaWN0X18ua2V5cygpOgogICAgcHJpbnQoa2V5KQo=</text>
+        <text encoding="base64">aW1wb3J0IHNtYWxsCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoJ1N0YXJ0aW5nIHRvIGxvYWQuLi4nKQppbXBvcnQgc3lzCgpuYW1lID0gNDIKCgpkZWYgZnVuYygpOiBwYXNzCgoKY2xhc3Mga2xhc3M6IHBhc3MKCgpwcmludCgnRG9uZSBsb2FkaW5nLicpCg==</text>
+        <text encoding="base64">CmZvciBrZXkgaW4gc21hbGwuX19kaWN0X18ua2V5cygpOgogICAgcHJpbnQoa2V5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtleQo=</text>
+        <text encoding="base64">cHJpbnQoJ1N0YXJ0aW5nIHRvIGxvYWQuLi4nKQppbXBvcnQgc3lzCgpuYW1lID0gNDIKCgpkZWYgZnVuYygpOiBwYXNzCgoKY2xhc3Mga2xhc3M6IHBhc3MKCgpwcmludCgnRG9uZSBsb2FkaW5nLicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c21hbGwuc3lzCg==</text>
+        <text encoding="base64">ICAgIGtleQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Yi5zcGFtKCdndW1ieScpCg==</text>
+        <text encoding="base64">c21hbGwuc3lzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eCA9IDEKeSA9IFsxLCAyXQo=</text>
+        <text encoding="base64">Yi5zcGFtKCdndW1ieScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
