@@ -60,9 +60,6 @@
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/timer.py" timestamp="1489990771563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="restClient/response11.txt" timestamp="1487177656582">
-        <mark key="'" line="0" column="336" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" timestamp="1491196938603">
         <mark key="'" line="7" column="35" />
         <mark key="[" line="13" column="16" />
@@ -95,6 +92,13 @@
         <mark key="]" line="52" column="30" />
         <mark key="^" line="46" column="22" />
         <mark key="." line="52" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/classtools.py" timestamp="1491283306393">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="37" column="45" />
+        <mark key="." line="37" column="45" />
+        <mark key="^" line="37" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/permute.py" timestamp="1489644911600">
         <mark key="'" line="21" column="58" />
@@ -149,24 +153,15 @@
         <mark key="^" line="40" column="66" />
         <mark key="." line="40" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" timestamp="1491197060862">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" timestamp="1491283127904">
+        <mark key="'" line="37" column="23" />
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="42" column="11" />
+        <mark key="." line="42" column="11" />
+        <mark key="^" line="42" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="39" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="87" column="31" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="36" column="44" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="78" column="46" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="85" column="8" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="48" column="15" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="40" column="24" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="55" column="43" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="83" column="31" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
       <jump line="53" column="35" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
@@ -257,46 +252,56 @@
       <jump line="23" column="11" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="7" column="35" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="2" column="3" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="1" column="43" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="8" column="3" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="10" column="45" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="26" column="20" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="22" column="22" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="18" column="45" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="37" column="23" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/classtools.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgRmlyc3RDbGFzczoKICAgIGRlZiBzZXRkYXRhKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmRhdGEgPSB2YWx1ZQoKICAgIGRlZiBkaXNwbGF5KHNlbGYpOgogICAgICAgIHByaW50KHNlbGYuZGF0YSkKCgpjbGFzcyBTZWNvbmRDbGFzcyhGaXJzdENsYXNzKToKICAgIGRlZiBkaXNwbGF5KHNlbGYpOgogICAgICAgIHByaW50KCdDdXJyZW50IHZhbHVlID0gInswfSInLmZvcm1hdChzZWxmLmRhdGEpKQoKCmNsYXNzIFRoaXJkQ2xhc3MoU2Vjb25kQ2xhc3MpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmRhdGEgPSB2YWx1ZQoKICAgIGRlZiBfX2FkZF9fKHNlbGYsIG90aGVyKToKICAgICAgICByZXR1cm4gVGhpcmRDbGFzcyhzZWxmLmRhdGEgKyBvdGhlcikKCiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gJ1tUaGlyZENsYXNzOiB7MH1dJy5mb3JtYXQoc2VsZi5kYXRhKQoKICAgIGRlZiBtdWwoc2VsZiwgb3RoZXIpOgogICAgICAgIHNlbGYuZGF0YSAqPSBvdGhlcgoKCnggPSBGaXJzdENsYXNzKCkKeSA9IEZpcnN0Q2xhc3MoKQoKeC5zZXRkYXRhKCdLaW5nIEFydGh1cicpCnkuc2V0ZGF0YSgzLjE0MTU5MikKCnguZGlzcGxheSgpCnkuZGlzcGxheSgpCgp6ID0gU2Vjb25kQ2xhc3MoKQp6LnNldGRhdGEoNDIpCnouZGlzcGxheSgpCgphID0gVGhpcmRDbGFzcygnYWJjJykKYS5kaXNwbGF5KCkKcHJpbnQoYSkKYiA9IGEgKyAneHl6JwpiLmRpc3BsYXkoKQpwcmludChiKQphLm11bCgzKQpwcmludChhKQo=</text>
+      <register name="&quot;" type="4">
+        <text>person</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogMw==</text>
+        <text>person</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoIkVuZGVkIGluIHt0aW1lfSwgY3JlYXRlZCB7bnVtfSBpbnZvaWNlcyIuZm9ybWF0KHRpbWU9dG90YWx0aW1lLCBudW09bnVtZmlsZXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGVyc29uIGluIHNlbGYubWVtYmVyczoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgRmlyc3RDbGFzczoKICAgIGRlZiBzZXRkYXRhKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmRhdGEgPSB2YWx1ZQoKICAgIGRlZiBkaXNwbGF5KHNlbGYpOgogICAgICAgIHByaW50KHNlbGYuZGF0YSkKCgpjbGFzcyBTZWNvbmRDbGFzcyhGaXJzdENsYXNzKToKICAgIGRlZiBkaXNwbGF5KHNlbGYpOgogICAgICAgIHByaW50KCdDdXJyZW50IHZhbHVlID0gInswfSInLmZvcm1hdChzZWxmLmRhdGEpKQoKCmNsYXNzIFRoaXJkQ2xhc3MoU2Vjb25kQ2xhc3MpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmRhdGEgPSB2YWx1ZQoKICAgIGRlZiBfX2FkZF9fKHNlbGYsIG90aGVyKToKICAgICAgICByZXR1cm4gVGhpcmRDbGFzcyhzZWxmLmRhdGEgKyBvdGhlcikKCiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gJ1tUaGlyZENsYXNzOiB7MH1dJy5mb3JtYXQoc2VsZi5kYXRhKQoKICAgIGRlZiBtdWwoc2VsZiwgb3RoZXIpOgogICAgICAgIHNlbGYuZGF0YSAqPSBvdGhlcgoKCnggPSBGaXJzdENsYXNzKCkKeSA9IEZpcnN0Q2xhc3MoKQoKeC5zZXRkYXRhKCdLaW5nIEFydGh1cicpCnkuc2V0ZGF0YSgzLjE0MTU5MikKCnguZGlzcGxheSgpCnkuZGlzcGxheSgpCgp6ID0gU2Vjb25kQ2xhc3MoKQp6LnNldGRhdGEoNDIpCnouZGlzcGxheSgpCgphID0gVGhpcmRDbGFzcygnYWJjJykKYS5kaXNwbGF5KCkKcHJpbnQoYSkKYiA9IGEgKyAneHl6JwpiLmRpc3BsYXkoKQpwcmludChiKQphLm11bCgzKQpwcmludChhKQo=</text>
+        <text encoding="base64">CiAgICBwcmludChib2IubmFtZSwgYm9iLnBheSkKICAgIHByaW50KHN1ZS5uYW1lLCBzdWUucGF5KQogICAgcHJpbnQoYm9iLmxhc3RuYW1lKCkpCiAgICBzdWUuZ2l2ZVJhaXNlKC4xMCkKICAgIHByaW50KHN1ZS5wYXkpCiAgICBwcmludChzdWUpCiAgICB0b20uZ2l2ZVJhaXNlKC4xMCkKICAgIHByaW50KHRvbSkKICAgIGZvciBvYmogaW4gW2JvYiwgc3VlLCB0b21dOgogICAgICAgIG9iai5naXZlUmFpc2UoMC4xMCkKICAgICAgICBwcmludChvYmopCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBmb3JtYXRzIGltcG9ydCBtb25leSwgY29tbWFzCgpwcmludChtb25leSgxMjMuNDU2KSkK</text>
+        <text encoding="base64">ICAgIHRvbSA9IE1hbmFnZXIoJ1RvbSBKb25lcycsIDUwMDAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cm0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoJ0kgYW06IHswfScuZm9ybWF0KF9fbmFtZV9fKSkKCgpkZWYgbWlubWF4KHRlc3QsICphcmdzKToKICAgIHJlcyA9IGFyZ3NbMF0KICAgIGZvciBhcmcgaW4gYXJnc1sxOl06CiAgICAgICAgaWYgdGVzdChhcmcsIHJlcyk6CiAgICAgICAgICAgIHJlcyA9IGFyZwogICAgcmV0dXJuIHJlcwoKCmRlZiBsZXNzdGhhbih4LCB5KTogcmV0dXJuIHggPCB5CgoKZGVmIGdydHRoYW4oeCwgeSk6IHJldHVybiB4ID4geQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBwcmludChtaW5tYXgobGVzc3RoYW4sIDQsIDIsIDEsIDUsIDYsIDMpKQogICAgcHJpbnQobWlubWF4KGdydHRoYW4sIDQsIDIsIDEsIDUsIDYsIDMpKQo=</text>
+        <text encoding="base64">Y2xhc3MgRmlyc3RDbGFzczoKICAgIGRlZiBzZXRkYXRhKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmRhdGEgPSB2YWx1ZQoKICAgIGRlZiBkaXNwbGF5KHNlbGYpOgogICAgICAgIHByaW50KHNlbGYuZGF0YSkKCgpjbGFzcyBTZWNvbmRDbGFzcyhGaXJzdENsYXNzKToKICAgIGRlZiBkaXNwbGF5KHNlbGYpOgogICAgICAgIHByaW50KCdDdXJyZW50IHZhbHVlID0gInswfSInLmZvcm1hdChzZWxmLmRhdGEpKQoKCmNsYXNzIFRoaXJkQ2xhc3MoU2Vjb25kQ2xhc3MpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmRhdGEgPSB2YWx1ZQoKICAgIGRlZiBfX2FkZF9fKHNlbGYsIG90aGVyKToKICAgICAgICByZXR1cm4gVGhpcmRDbGFzcyhzZWxmLmRhdGEgKyBvdGhlcikKCiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gJ1tUaGlyZENsYXNzOiB7MH1dJy5mb3JtYXQoc2VsZi5kYXRhKQoKICAgIGRlZiBtdWwoc2VsZiwgb3RoZXIpOgogICAgICAgIHNlbGYuZGF0YSAqPSBvdGhlcgoKCnggPSBGaXJzdENsYXNzKCkKeSA9IEZpcnN0Q2xhc3MoKQoKeC5zZXRkYXRhKCdLaW5nIEFydGh1cicpCnkuc2V0ZGF0YSgzLjE0MTU5MikKCnguZGlzcGxheSgpCnkuZGlzcGxheSgpCgp6ID0gU2Vjb25kQ2xhc3MoKQp6LnNldGRhdGEoNDIpCnouZGlzcGxheSgpCgphID0gVGhpcmRDbGFzcygnYWJjJykKYS5kaXNwbGF5KCkKcHJpbnQoYSkKYiA9IGEgKyAneHl6JwpiLmRpc3BsYXkoKQpwcmludChiKQphLm11bCgzKQpwcmludChhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQobWlubWF4KGxlc3N0aGFuLCA0LCAyLCAxLCA1LCA2LCAzKSkKcHJpbnQobWlubWF4KGdydHRoYW4sIDQsIDIsIDEsIDUsIDYsIDMpKQo=</text>
+        <text encoding="base64">ZnJvbSBmb3JtYXRzIGltcG9ydCBtb25leSwgY29tbWFzCgpwcmludChtb25leSgxMjMuNDU2KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">Cm0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgRmlyc3RDbGFzczoKICAgIGRlZiBzZXRkYXRhKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmRhdGEgPSB2YWx1ZQoKICAgIGRlZiBkaXNwbGF5KHNlbGYpOgogICAgICAgIHByaW50KHNlbGYuZGF0YSkKCgpjbGFzcyBTZWNvbmRDbGFzcyhGaXJzdENsYXNzKToKICAgIGRlZiBkaXNwbGF5KHNlbGYpOgogICAgICAgIHByaW50KCdDdXJyZW50IHZhbHVlID0gezB9Jy5mb3JtYXQoc2VsZi5kYXRhKSkKCgpjbGFzcyBUaGlyZENsYXNzKFNlY29uZENsYXNzKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB2YWx1ZSk6CiAgICAgICAgc2VsZi5kYXRhID0gdmFsdWUKCiAgICBkZWYgX19hZGRfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIFRoaXJkQ2xhc3Moc2VsZi5kYXRhICsgb3RoZXIpCgogICAgZGVmIF9fc3RyX18oc2VsZik6CiAgICAgICAgcmV0dXJuICdbVGhpcmRDbGFzczogezB9Jy5mb3JtYXQoc2VsZi5kYXRhKQoKICAgIGRlZiBtdWwoc2VsZiwgb3RoZXIpOgogICAgICAgIHNlbGYuZGF0YSAqPSBvdGhlcgoKICAgIGRlZiBfX211bF9fKHNlbGYsIG90aGVyKToKICAgICAgICBzZWxmLmRhdGEgKj0gb3RoZXIKCgp4ID0gRmlyc3RDbGFzcygpCnkgPSBGaXJzdENsYXNzKCkKCnguc2V0ZGF0YSgnS2luZyBBcnRodXInKQp5LnNldGRhdGEoMy4xNDE1OTIpCgp4LmRpc3BsYXkoKQp5LmRpc3BsYXkoKQoKeiA9IFNlY29uZENsYXNzKCkKei5zZXRkYXRhKDQyKQoKei5kaXNwbGF5KCkKCmEgPSBUaGlyZENsYXNzKCdhYmMnKQphLmRpc3BsYXkoKQpwcmludChhKQpiID0gYSArICd4eXonCmIuZGlzcGxheSgpCnByaW50KGIpCmEubXVsKDMpCnByaW50KGEpCmEgKiAzCnByaW50KGEpCg==</text>
+        <text encoding="base64">cHJpbnQoJ0kgYW06IHswfScuZm9ybWF0KF9fbmFtZV9fKSkKCgpkZWYgbWlubWF4KHRlc3QsICphcmdzKToKICAgIHJlcyA9IGFyZ3NbMF0KICAgIGZvciBhcmcgaW4gYXJnc1sxOl06CiAgICAgICAgaWYgdGVzdChhcmcsIHJlcyk6CiAgICAgICAgICAgIHJlcyA9IGFyZwogICAgcmV0dXJuIHJlcwoKCmRlZiBsZXNzdGhhbih4LCB5KTogcmV0dXJuIHggPCB5CgoKZGVmIGdydHRoYW4oeCwgeSk6IHJldHVybiB4ID4geQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBwcmludChtaW5tYXgobGVzc3RoYW4sIDQsIDIsIDEsIDUsIDYsIDMpKQogICAgcHJpbnQobWlubWF4KGdydHRoYW4sIDQsIDIsIDEsIDUsIDYsIDMpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBmb3JtYXRzIGltcG9ydCBtb25leQoKWCA9IDU0MzIxLjk4NwoKcHJpbnQobW9uZXkoWCksIG1vbmV5KFgsIDAsICcnKSkKcHJpbnQobW9uZXkoWCwgY3VycmVuY3k9dSdceEEzJyksIG1vbmV5KFgsIGN1cnJlbmN5PXUnXHUwMEE1JykpCnByaW50KG1vbmV5KFgsIGN1cnJlbmN5PWInXHhBMycuZGVjb2RlKCdsYXRpbi0xJykpKQoKcHJpbnQobW9uZXkoWCwgY3VycmVuY3k9dSdcdTIwQUMnKSwgbW9uZXkoWCwgMCwgYidceEE0Jy5kZWNvZGUoJ2lzby04ODU5LTE1JykpKQpwcmludChtb25leShYLCBjdXJyZW5jeT1iJ1x4QTQnLmRlY29kZSgnbGF0aW4tMScpKSkK</text>
+        <text encoding="base64">cHJpbnQobWlubWF4KGxlc3N0aGFuLCA0LCAyLCAxLCA1LCA2LCAzKSkKcHJpbnQobWlubWF4KGdydHRoYW4sIDQsIDIsIDEsIDUsIDYsIDMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkaXIxIGltcG9ydCB6IGFzIG1vZHoKZnJvbSBodHRwLnNlcnZlciBpbXBvcnQgQ0dJSFRUUFJlcXVlc3RIYW5kbGVyCmZyb20gdGtpbnRlci5maWxlZGlhbG9nIGltcG9ydCBhc2tvcGVuZmlsZW5hbWUKZnJvbSBlbWFpbC5tZXNzYWdlIGltcG9ydCBNZXNzYWdlCgpwcmludChtb2R6KQo=</text>
+        <text encoding="base64">ICAgIHByCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
