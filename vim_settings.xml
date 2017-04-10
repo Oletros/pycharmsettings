@@ -3,58 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/timer2.py" timestamp="1490162513486">
-        <mark key="'" line="31" column="15" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/timer.py" timestamp="1489990771563">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="40" column="66" />
-        <mark key="^" line="40" column="66" />
-        <mark key="." line="40" column="66" />
       </file>
-      <file name="restClient/response52.txt" timestamp="1487004446346">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/personapp.py" timestamp="1491541820362">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+        <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/spam.py" timestamp="1490937270023">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="2" column="49" />
-        <mark key="." line="2" column="49" />
-        <mark key="^" line="2" column="49" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" timestamp="1491196938603">
+        <mark key="'" line="7" column="35" />
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
       </file>
-      <file name="restClient/response7.xml" timestamp="1487176728859">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/datafile.txt" timestamp="1487916332145">
-        <mark key="'" line="3" column="0" />
+      <file name="/Python Console" timestamp="1490335984496">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="restClient/response48.txt" timestamp="1487003943484">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/permute.py" timestamp="1489644911600">
-        <mark key="'" line="21" column="58" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="58" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="58" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1487004716902">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="restClient/response0.txt" timestamp="1487176506829">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/eggs.py" timestamp="1490335973107">
         <mark key="[" line="0" column="0" />
@@ -68,30 +37,6 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="restClient/response57.txt" timestamp="1487004672088">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/b.py" timestamp="1490162958901">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-      </file>
-      <file name="restClient/response64.txt" timestamp="1487056764385">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/timer.py" timestamp="1489990771563">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="restClient/response43.txt" timestamp="1487003624901">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/small.py" timestamp="1490249493244">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="0" column="3" />
@@ -99,12 +44,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" timestamp="1490075920948">
-        <mark key="'" line="8" column="15" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="57" />
-        <mark key="." line="38" column="57" />
-        <mark key="^" line="38" column="57" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/timeseqs.py" timestamp="1490076104597">
+        <mark key="[" line="25" column="3" />
+        <mark key="]" line="40" column="56" />
+        <mark key="^" line="40" column="56" />
+        <mark key="." line="40" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/formats.py" timestamp="1490937431262">
         <mark key="'" line="52" column="29" />
@@ -113,60 +57,25 @@
         <mark key="^" line="46" column="22" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="restClient/response56.txt" timestamp="1487004668382">
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/classtools.py" timestamp="1491368982911">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
+        <mark key="^" line="39" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/permute.py" timestamp="1489644911600">
+        <mark key="'" line="21" column="58" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="21" column="58" />
+        <mark key="^" line="21" column="58" />
+        <mark key="." line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" timestamp="1490937517891">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1487176765879">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="restClient/response11.txt" timestamp="1487177656582">
-        <mark key="'" line="0" column="336" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/__init__.py" timestamp="1490590999080">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
-      <file name="restClient/response71.txt" timestamp="1487060208848">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="restClient/response33.txt" timestamp="1487000879818">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1489401053639">
-        <mark key="'" line="24" column="30" />
-        <mark key="[" line="104" column="21" />
-        <mark key="]" line="104" column="21" />
-        <mark key="." line="104" column="21" />
-        <mark key="^" line="109" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/dir2/__init__.py" timestamp="1490591034906">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
-      <file name="restClient/response29.txt" timestamp="1487000812972">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/spam.py" timestamp="1490937270023">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="2" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/a.py" timestamp="1490249581933">
         <mark key="'" line="0" column="0" />
@@ -175,77 +84,68 @@
         <mark key="." line="4" column="9" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/timeseqs.py" timestamp="1490076104597">
-        <mark key="[" line="25" column="3" />
-        <mark key="]" line="40" column="56" />
-        <mark key="^" line="40" column="56" />
-        <mark key="." line="40" column="56" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/b.py" timestamp="1490162958901">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="20" />
       </file>
-      <file name="restClient/response40.txt" timestamp="1487002985223">
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/__init__.py" timestamp="1490590999080">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="54" column="18" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
-      <file name="restClient/response55.txt" timestamp="1487004619091">
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/makedb.py" timestamp="1491369310675">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/dir2/__init__.py" timestamp="1490591034906">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
-      <file name="restClient/response36.txt" timestamp="1487001063858">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" timestamp="1489401053639">
+        <mark key="'" line="24" column="30" />
+        <mark key="[" line="104" column="21" />
+        <mark key="]" line="104" column="21" />
+        <mark key="." line="104" column="21" />
+        <mark key="^" line="109" column="41" />
       </file>
-      <file name="restClient/response37.txt" timestamp="1487001081600">
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/listinstance.py" timestamp="1491542394855">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="restClient/response49.txt" timestamp="1487003949514">
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" timestamp="1490075920948">
+        <mark key="'" line="8" column="15" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="38" column="57" />
+        <mark key="." line="38" column="57" />
+        <mark key="^" line="38" column="57" />
       </file>
-      <file name="restClient/response45.txt" timestamp="1487003652822">
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/timer2.py" timestamp="1490162513486">
+        <mark key="'" line="31" column="15" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="40" column="66" />
+        <mark key="^" line="40" column="66" />
+        <mark key="." line="40" column="66" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1487060203919">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" timestamp="1491455910748">
+        <mark key="'" line="25" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="7" column="0" />
+        <mark key="]" line="47" column="13" />
+        <mark key="." line="47" column="13" />
+        <mark key="^" line="47" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="46" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="51" column="48" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="52" column="37" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="79" column="39" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="87" column="31" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="36" column="44" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="78" column="46" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="85" column="8" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="48" column="15" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="40" column="24" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="55" column="43" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="83" column="31" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="53" column="35" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="93" column="8" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="71" column="8" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="27" column="29" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="84" column="32" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="7" column="16" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/.tfignore" />
-      <jump line="414" column="4" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/.tfignore" />
-      <jump line="244" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/.tfignore" />
-      <jump line="0" column="0" filename="restClient/response35.txt" />
       <jump line="0" column="0" filename="restClient/response37.txt" />
       <jump line="0" column="14" filename="restClient/response39.txt" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" />
@@ -305,61 +205,87 @@
       <jump line="6" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="8" column="8" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="5" column="22" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
-      <jump line="15" column="10" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
-      <jump line="10" column="51" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
-      <jump line="21" column="49" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
-      <jump line="24" column="25" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="18" column="43" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="27" column="25" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
-      <jump line="23" column="10" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="45" column="3" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
-      <jump line="3" column="26" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="0" column="32" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/spam.py" />
       <jump line="34" column="44" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/formats.py" />
       <jump line="52" column="29" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/formats.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="10" column="51" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="24" column="25" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="21" column="32" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="23" column="11" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="7" column="35" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
+      <jump line="2" column="3" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="8" column="3" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="10" column="45" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="26" column="20" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="22" column="22" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="18" column="45" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="37" column="23" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/classtools.py" />
+      <jump line="33" column="15" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/classtools.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/classtools.py" />
+      <jump line="4" column="5" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/makedb.py" />
+      <jump line="0" column="33" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/makedb.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/makedb.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
+      <jump line="3" column="3" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/personapp.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/personapp.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/personapp.py" />
+      <jump line="23" column="33" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/listinstance.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/listinstance.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/listinstance.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cm0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>−</text>
+        <text>Ò</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoIkVuZGVkIGluIHt0aW1lfSwgY3JlYXRlZCB7bnVtfSBpbnZvaWNlcyIuZm9ybWF0KHRpbWU9dG90YWx0aW1lLCBudW09bnVtZmlsZXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGVyc29uIGluIHNlbGYubWVtYmVyczoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cm0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoJ0kgYW06IHswfScuZm9ybWF0KF9fbmFtZV9fKSkKCgpkZWYgbWlubWF4KHRlc3QsICphcmdzKToKICAgIHJlcyA9IGFyZ3NbMF0KICAgIGZvciBhcmcgaW4gYXJnc1sxOl06CiAgICAgICAgaWYgdGVzdChhcmcsIHJlcyk6CiAgICAgICAgICAgIHJlcyA9IGFyZwogICAgcmV0dXJuIHJlcwoKCmRlZiBsZXNzdGhhbih4LCB5KTogcmV0dXJuIHggPCB5CgoKZGVmIGdydHRoYW4oeCwgeSk6IHJldHVybiB4ID4geQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBwcmludChtaW5tYXgobGVzc3RoYW4sIDQsIDIsIDEsIDUsIDYsIDMpKQogICAgcHJpbnQobWlubWF4KGdydHRoYW4sIDQsIDIsIDEsIDUsIDYsIDMpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2F0dHJuYW1lcyhzZWxmKToKICAgICAgICByZXN1bHQgPSAnJwogICAgICAgIGZvciBhdHRyIGluIHNvcnRlZChzZWxmLl9fZGljdF9fKToKICAgICAgICAgICAgcmVzdWx0ICs9ICdcdCVzPSVzXG4nICUgKGF0dHIsIHNlbGYuX19kaWN0X19bYXR0cl0pCiAgICAgICAgcmV0dXJuIHJlc3VsdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQobWlubWF4KGxlc3N0aGFuLCA0LCAyLCAxLCA1LCA2LCAzKSkKcHJpbnQobWlubWF4KGdydHRoYW4sIDQsIDIsIDEsIDUsIDYsIDMpKQo=</text>
+        <text encoding="base64">Y2xhc3MgYWRkZXI6CiAgICBkZWYgX19pbml0X18oc2VsZiwgdmFsdWU9MCk6CiAgICAgICAgc2VsZi5kYXRhID0gdmFsdWUKCiAgICBkZWYgX19hZGRfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIHNlbGYuZGF0YSArIG90aGVyCgogICAgZGVmIF9fcmFkZF9fKHNlbGYsIG90aGVyKToKICAgICAgICByZXR1cm4gb3RoZXIgKyBzZWxmLmRhdGEKCgpjbGFzcyBhZGRzdHIoYWRkZXIpOgogICAgZGVmIF9fc3RyX18oc2VsZik6CiAgICAgICAgcmV0dXJuICdbVmFsdWU6IHtkYXRhfV0nLmZvcm1hdChkYXRhPXNlbGYuZGF0YSkKCgp4ID0gYWRkc3RyKDMpCnByaW50KHN0cih4ICsgMSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+        <text encoding="base64">eCA9IHggKyAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgRmlyc3RDbGFzczoKICAgIGRlZiBzZXRkYXRhKHNlbGYsIHZhbHVlKToKICAgICAgICBzZWxmLmRhdGEgPSB2YWx1ZQoKICAgIGRlZiBkaXNwbGF5KHNlbGYpOgogICAgICAgIHByaW50KHNlbGYuZGF0YSkKCgpjbGFzcyBTZWNvbmRDbGFzcyhGaXJzdENsYXNzKToKICAgIGRlZiBkaXNwbGF5KHNlbGYpOgogICAgICAgIHByaW50KCdDdXJyZW50IHZhbHVlID0gezB9Jy5mb3JtYXQoc2VsZi5kYXRhKSkKCgpjbGFzcyBUaGlyZENsYXNzKFNlY29uZENsYXNzKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB2YWx1ZSk6CiAgICAgICAgc2VsZi5kYXRhID0gdmFsdWUKCiAgICBkZWYgX19hZGRfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIFRoaXJkQ2xhc3Moc2VsZi5kYXRhICsgb3RoZXIpCgogICAgZGVmIF9fc3RyX18oc2VsZik6CiAgICAgICAgcmV0dXJuICdbVGhpcmRDbGFzczogezB9Jy5mb3JtYXQoc2VsZi5kYXRhKQoKICAgIGRlZiBtdWwoc2VsZiwgb3RoZXIpOgogICAgICAgIHNlbGYuZGF0YSAqPSBvdGhlcgoKICAgIGRlZiBfX211bF9fKHNlbGYsIG90aGVyKToKICAgICAgICBzZWxmLmRhdGEgKj0gb3RoZXIKCgp4ID0gRmlyc3RDbGFzcygpCnkgPSBGaXJzdENsYXNzKCkKCnguc2V0ZGF0YSgnS2luZyBBcnRodXInKQp5LnNldGRhdGEoMy4xNDE1OTIpCgp4LmRpc3BsYXkoKQp5LmRpc3BsYXkoKQoKeiA9IFNlY29uZENsYXNzKCkKei5zZXRkYXRhKDQyKQoKei5kaXNwbGF5KCkKCmEgPSBUaGlyZENsYXNzKCdhYmMnKQphLmRpc3BsYXkoKQpwcmludChhKQpiID0gYSArICd4eXonCmIuZGlzcGxheSgpCnByaW50KGIpCmEubXVsKDMpCnByaW50KGEpCmEgKiAzCnByaW50KGEpCg==</text>
+        <text encoding="base64">ZnJvbSBwZXJzb24gaW1wb3J0IFBlcnNvbgoKYm9iID0gUGVyc29uKCdCb2IgU21pdGgnKQpwcmludChsaXN0KGJvYi5fX2RpY3RfXy5rZXlzKCkpKQpwcmludChkaXIoYm9iKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmb3JtYXRzIGltcG9ydCBtb25leQoKWCA9IDU0MzIxLjk4NwoKcHJpbnQobW9uZXkoWCksIG1vbmV5KFgsIDAsICcnKSkKcHJpbnQobW9uZXkoWCwgY3VycmVuY3k9dSdceEEzJyksIG1vbmV5KFgsIGN1cnJlbmN5PXUnXHUwMEE1JykpCnByaW50KG1vbmV5KFgsIGN1cnJlbmN5PWInXHhBMycuZGVjb2RlKCdsYXRpbi0xJykpKQoKcHJpbnQobW9uZXkoWCwgY3VycmVuY3k9dSdcdTIwQUMnKSwgbW9uZXkoWCwgMCwgYidceEE0Jy5kZWNvZGUoJ2lzby04ODU5LTE1JykpKQpwcmludChtb25leShYLCBjdXJyZW5jeT1iJ1x4QTQnLmRlY29kZSgnbGF0aW4tMScpKSkK</text>
+        <text encoding="base64">Y2xhc3MgUGVyc29uOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG5hbWUsIGpvYj1Ob25lLCBwYXk9MCk6CiAgICAgICAgc2VsZi5uYW1lID0gbmFtZQogICAgICAgIHNlbGYuam9iID0gam9iCiAgICAgICAgc2VsZi5wYXkgPSBwYXkKCiAgICBkZWYgbGFzdG5hbWUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYubmFtZS5zcGxpdCgpWy0xXQoKICAgIGRlZiBnaXZlUmFpc2Uoc2VsZiwgcGVyY2VudCk6CiAgICAgICAgc2VsZi5wYXkgPSBpbnQoc2VsZi5wYXkgKiAoMSArIHBlcmNlbnQpKQoKICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gJ1tQZXJzb246IHtuYW1lfSwge3BheX0nLmZvcm1hdChuYW1lPXNlbGYubmFtZSwgcGF5PXNlbGYucGF5KQoKCmNsYXNzIE1hbmFnZXIoUGVyc29uKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuYW1lLCBwYXkpOgogICAgICAgIFBlcnNvbi5fX2luaXRfXyhzZWxmLCBuYW1lLCAnbWdyJywgcGF5KQoKICAgIGRlZiBnaXZlUmFpc2Uoc2VsZiwgcGVyY2VudCwgYm9udXM9MC4xMCk6CiAgICAgICAgUGVyc29uLmdpdmVSYWlzZShzZWxmLCBwZXJjZW50ICsgYm9udXMpCgoKY2xhc3MgRGVwYXJ0bWVudDoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncyk6CiAgICAgICAgc2VsZi5tZW1iZXJzID0gbGlzdChhcmdzKQoKICAgIGRlZiBhZGRNZW1iZXIoc2VsZiwgcGVyc29uKToKICAgICAgICBzZWxmLm1lbWJlcnMuYXBwZW5kKHBlcnNvbikKCiAgICBkZWYgZ2l2ZVJhaXNlcyhzZWxmLCBwZXJjZW50KToKICAgICAgICBmb3IgcGVyc29uIGluIHNlbGYubWVtYmVyczoKICAgICAgICAgICAgcGVyc29uLmdpdmVSYWlzZShwZXJjZW50KQoKICAgIGRlZiBzaG93QWxsKHNlbGYpOgogICAgICAgIGZvciBwZXJzb24gaW4gc2VsZi5tZW1iZXJzOgogICAgICAgICAgICBwcmludChwZXJzb24pCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGJvYiA9IFBlcnNvbignQm9iIFNtaXRoJykKICAgIHN1ZSA9IFBlcnNvbignU3VlIEpvbmVzJywgam9iPSdkZXYnLCBwYXk9MTAwMDAwKQogICAgdG9tID0gTWFuYWdlcignVG9tIEpvbmVzJywgNTAwMDApCgogICAgZGV2ZWxvcG1lbnQgPSBEZXBhcnRtZW50KGJvYiwgc3VlKQogICAgZGV2ZWxvcG1lbnQuYWRkTWVtYmVyKHRvbSkKICAgIGRldmVsb3BtZW50LmdpdmVSYWlzZXMoMC4xMCkKICAgIGRldmVsb3BtZW50LnNob3dBbGwoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkaXIxIGltcG9ydCB6IGFzIG1vZHoKZnJvbSBodHRwLnNlcnZlciBpbXBvcnQgQ0dJSFRUUFJlcXVlc3RIYW5kbGVyCmZyb20gdGtpbnRlci5maWxlZGlhbG9nIGltcG9ydCBhc2tvcGVuZmlsZW5hbWUKZnJvbSBlbWFpbC5tZXNzYWdlIGltcG9ydCBNZXNzYWdlCgpwcmludChtb2R6KQo=</text>
+        <text encoding="base64">CiAgICBwcmludChib2IubmFtZSwgYm9iLnBheSkKICAgIHByaW50KHN1ZS5uYW1lLCBzdWUucGF5KQogICAgcHJpbnQoYm9iLmxhc3RuYW1lKCkpCiAgICBzdWUuZ2l2ZVJhaXNlKC4xMCkKICAgIHByaW50KHN1ZS5wYXkpCiAgICBwcmludChzdWUpCiAgICB0b20uZ2l2ZVJhaXNlKC4xMCkKICAgIHByaW50KHRvbSkKICAgIGZvciBvYmogaW4gW2JvYiwgc3VlLCB0b21dOgogICAgICAgIG9iai5naXZlUmFpc2UoMC4xMCkKICAgICAgICBwcmludChvYmopCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkaXIxCg==</text>
+        <text encoding="base64">ICAgIHRvbSA9IE1hbmFnZXIoJ1RvbSBKb25lcycsIDUwMDAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNtYWxsCgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
