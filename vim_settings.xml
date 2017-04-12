@@ -114,11 +114,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/executePB.py" timestamp="1491902414315">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="11" column="24" />
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/executePB.py" timestamp="1491994765069">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="7" column="66" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/small.py" timestamp="1490249493244">
         <mark key="'" line="6" column="0" />
@@ -143,8 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="restClient/response37.txt" />
-      <jump line="0" column="14" filename="restClient/response39.txt" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" />
       <jump line="12" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" />
       <jump line="10" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
@@ -243,10 +242,12 @@
       <jump line="23" column="33" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/listinstance.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/listinstance.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/listinstance.py" />
+      <jump line="5" column="12" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/executePB.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/executePB.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -258,31 +259,31 @@
         <text encoding="base64">ICAgICAgICBmb3IgcGVyc29uIGluIHNlbGYubWVtYmVyczoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvdXRzLCBlcnJzKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcm9jLnJldHVybmNvZGUpCg==</text>
+        <text encoding="base64">UEJQYXRoID0gJ0M6L1Byb2dyYW0gRmlsZXMgKHg4NikvU3liYXNlL1Bvd2VyQnVpbGRlciAxMi42L1BCMTI2LkVYRScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLlBvcGVuKGFyZ3M9W1BCUGF0aF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvdXRzLCBlcnJzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwcm9jLnJldHVybmNvZGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJwcm9jZXNzLlBvcGVuKGFyZ3M9W1BCUGF0aF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2F0dHJuYW1lcyhzZWxmKToKICAgICAgICByZXN1bHQgPSAnJwogICAgICAgIGZvciBhdHRyIGluIHNvcnRlZChzZWxmLl9fZGljdF9fKToKICAgICAgICAgICAgcmVzdWx0ICs9ICdcdCVzPSVzXG4nICUgKGF0dHIsIHNlbGYuX19kaWN0X19bYXR0cl0pCiAgICAgICAgcmV0dXJuIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgIGV4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgYWRkZXI6CiAgICBkZWYgX19pbml0X18oc2VsZiwgdmFsdWU9MCk6CiAgICAgICAgc2VsZi5kYXRhID0gdmFsdWUKCiAgICBkZWYgX19hZGRfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIHNlbGYuZGF0YSArIG90aGVyCgogICAgZGVmIF9fcmFkZF9fKHNlbGYsIG90aGVyKToKICAgICAgICByZXR1cm4gb3RoZXIgKyBzZWxmLmRhdGEKCgpjbGFzcyBhZGRzdHIoYWRkZXIpOgogICAgZGVmIF9fc3RyX18oc2VsZik6CiAgICAgICAgcmV0dXJuICdbVmFsdWU6IHtkYXRhfV0nLmZvcm1hdChkYXRhPXNlbGYuZGF0YSkKCgp4ID0gYWRkc3RyKDMpCnByaW50KHN0cih4ICsgMSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eCA9IHggKyAxCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2F0dHJuYW1lcyhzZWxmKToKICAgICAgICByZXN1bHQgPSAnJwogICAgICAgIGZvciBhdHRyIGluIHNvcnRlZChzZWxmLl9fZGljdF9fKToKICAgICAgICAgICAgcmVzdWx0ICs9ICdcdCVzPSVzXG4nICUgKGF0dHIsIHNlbGYuX19kaWN0X19bYXR0cl0pCiAgICAgICAgcmV0dXJuIHJlc3VsdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBwZXJzb24gaW1wb3J0IFBlcnNvbgoKYm9iID0gUGVyc29uKCdCb2IgU21pdGgnKQpwcmludChsaXN0KGJvYi5fX2RpY3RfXy5rZXlzKCkpKQpwcmludChkaXIoYm9iKSkK</text>
+        <text encoding="base64">Y2xhc3MgYWRkZXI6CiAgICBkZWYgX19pbml0X18oc2VsZiwgdmFsdWU9MCk6CiAgICAgICAgc2VsZi5kYXRhID0gdmFsdWUKCiAgICBkZWYgX19hZGRfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIHNlbGYuZGF0YSArIG90aGVyCgogICAgZGVmIF9fcmFkZF9fKHNlbGYsIG90aGVyKToKICAgICAgICByZXR1cm4gb3RoZXIgKyBzZWxmLmRhdGEKCgpjbGFzcyBhZGRzdHIoYWRkZXIpOgogICAgZGVmIF9fc3RyX18oc2VsZik6CiAgICAgICAgcmV0dXJuICdbVmFsdWU6IHtkYXRhfV0nLmZvcm1hdChkYXRhPXNlbGYuZGF0YSkKCgp4ID0gYWRkc3RyKDMpCnByaW50KHN0cih4ICsgMSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
