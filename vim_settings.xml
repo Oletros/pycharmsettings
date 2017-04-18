@@ -107,11 +107,12 @@
         <mark key="^" line="40" column="56" />
         <mark key="." line="40" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" timestamp="1492519162308">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="19" />
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" timestamp="1492522931332">
+        <mark key="'" line="26" column="27" />
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="13" />
+        <mark key="^" line="33" column="13" />
+        <mark key="." line="33" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/listinstance.py" timestamp="1491542394855">
         <mark key="'" line="0" column="0" />
@@ -150,9 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
-      <jump line="13" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
-      <jump line="8" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
       <jump line="1" column="0" filename="restClient/response52.txt" />
       <jump line="0" column="407" filename="restClient/response54.txt" />
       <jump line="9" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
@@ -250,46 +248,49 @@
       <jump line="3" column="40" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
       <jump line="4" column="21" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
+      <jump line="12" column="23" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
+      <jump line="14" column="27" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVuY29kaW5nID0gbS5idWZmZXIoYmxvYikgICMgInV0Zi04IiAidXMtYXNjaWkiIGV0Ywo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGZpbGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>load()</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcGVyc29uIGluIHNlbGYubWVtYmVyczoK</text>
+        <text encoding="base64">ICAgIGZvciByb290LCBkaXJzLCBmaWxlcyBpbiBvcy53YWxrKHN0YXJ0cGF0aCk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuY29kaW5nID0gbS5idWZmZXIoYmxvYikgICMgInV0Zi04IiAidXMtYXNjaWkiIGV0Ywo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGZpbGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hZ2ljLk1hZ2ljKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGZpbGUsIGVuY29kaW5nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hZ2ljLmZyb21fZmlsZSgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGZpbGUsIGVuY29kaW5nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG0gPSBtYWdpYy5vcGVuKG1hZ2ljLk1BR0lDX01JTUVfRU5DT0RJTkcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGV4dCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJsb2IgPSBvcGVuKGZpbGUpLnJlYWQoKQo=</text>
+        <text encoding="base64">ICAgIGZpbGUgPSByIkM6XEhJU0NvbGxlY3Rpb25cSW5hdG9yM1xUUkNcQnJhbmNoZXNcUmVsZWFzZXNcMjEuMDUuMDVcRGF0YWJhc2VcU2NoZW1hUHJvamVjdHNcVFJDXHRyX2RhdGFcRnVuY3Rpb25zXEludm9pY2VzXHVmX0dldERlc2NyaXB0aW9uVGV4dEZyb21JbnZvaWNlLnNxbCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJsb2IgPSBvcGVuKGZpbGUpLnJlYWQoKQo=</text>
+        <text encoding="base64">ICAgIGZpbGUgPSByIkM6XEhJU0NvbGxlY3Rpb25cSW5hdG9yM1xUUkNcQnJhbmNoZXNcUmVsZWFzZXNcMjEuMDUuMDVcRGF0YWJhc2VcU2NoZW1hUHJvamVjdHNcVFJDXHRyX2RhdGFcRnVuY3Rpb25zXEludm9pY2VzXHVmX0dldEZyZWVJbnZvaWNlc0J5QmlsbGluZ1RyZWF0bWVudC5zcWwiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bS4K</text>
+        <text encoding="base64">ICAgIHByaW50KGVuY29kaW5nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBpcAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjEyNTIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGlwLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
