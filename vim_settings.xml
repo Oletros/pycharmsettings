@@ -124,10 +124,10 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/executePB.py" timestamp="1494571678788">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="7" column="66" />
-        <mark key="]" line="8" column="17" />
+      <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/executePB.py" timestamp="1494832087160">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="21" />
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
@@ -154,8 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="541" filename="restClient/response59.txt" />
-      <jump line="6" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" />
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" />
       <jump line="2" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
       <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
@@ -254,10 +252,12 @@
       <jump line="20" column="28" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
       <jump line="9" column="26" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
+      <jump line="13" column="35" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/executePB.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/executePB.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MKCgpkZWYgcnVuUHJvZ3JhbShwYXRoKToKICAgIHRyaWVzID0gMQogICAgZmFpbGVkID0gVHJ1ZQogICAgd2hpbGUgZmFpbGVkOgogICAgICAgIHByaW50KCJOdW1iZXIgb2YgZXhlY3V0aW9uczoge3RyaWVzfSIuZm9ybWF0KHRyaWVzPXRyaWVzKSkKICAgICAgICB0cmllcyArPSAxCiAgICAgICAgcHJvYyA9IHN1YnByb2Nlc3MuUG9wZW4oYXJncz1bUEJQYXRoXSkKICAgICAgICB0cnk6CiAgICAgICAgICAgIGZhaWxlZCA9IEZhbHNlCiAgICAgICAgICAgIG91dHMsIGVycnMgPSBwcm9jLmNvbW11bmljYXRlKHRpbWVvdXQ9MTApCiAgICAgICAgICAgIGlmIHByb2MucmV0dXJuY29kZSAhPSAwOgogICAgICAgICAgICAgICAgZmFpbGVkID0gVHJ1ZQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvciBhcyBjYWxsZXJyb3I6CiAgICAgICAgICAgIGZhaWxlZCA9IFRydWUKICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5UaW1lb3V0RXhwaXJlZCBhcyB0aW1lb3V0OgogICAgICAgICAgICBmYWlsZWQgPSBGYWxzZQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBQQlBhdGggPSAnQzovUHJvZ3JhbSBGaWxlcyAoeDg2KS9TeWJhc2UvUG93ZXJCdWlsZGVyIDEyLjYvUEIxMjYuRVhFJwogICAgcnVuUHJvZ3JhbShQQlBhdGgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>encoding</text>
