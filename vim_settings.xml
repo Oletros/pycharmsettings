@@ -55,8 +55,12 @@
         <mark key="." line="47" column="13" />
         <mark key="^" line="47" column="13" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1496818394876">
-        <mark key="'" line="201" column="8" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1496819243260">
+        <mark key="'" line="206" column="8" />
+        <mark key="[" line="130" column="44" />
+        <mark key="]" line="130" column="47" />
+        <mark key="." line="130" column="47" />
+        <mark key="^" line="130" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" timestamp="1492525591298">
         <mark key="'" line="10" column="0" />
@@ -129,6 +133,12 @@
         <mark key="." line="104" column="21" />
         <mark key="^" line="109" column="41" />
       </file>
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1496820403408">
+        <mark key="'" line="225" column="8" />
+        <mark key="[" line="54" column="35" />
+        <mark key="]" line="54" column="36" />
+        <mark key="." line="54" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/dir2/__init__.py" timestamp="1490591034906">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -160,16 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
-      <jump line="0" column="0" filename="restClient/response70.txt" />
-      <jump line="7" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
-      <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
-      <jump line="0" column="0" filename="restClient/response71.txt" />
-      <jump line="0" column="336" filename="restClient/response11.txt" />
-      <jump line="74" column="22" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/MultiPrint.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/dev/learningpython/datafile.txt" />
       <jump line="20" column="4" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="2" column="3" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="10" column="6" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
@@ -260,19 +260,29 @@
       <jump line="90" column="9" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/trc_build_script_testing.py" />
       <jump line="21" column="48" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="201" column="8" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="450" column="36" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="27" column="57" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="53" column="57" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="125" column="93" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="131" column="11" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="137" column="59" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="142" column="40" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="174" column="51" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="187" column="25" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="225" column="8" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MKCgpkZWYgcnVuUHJvZ3JhbShwYXRoKToKICAgIHRyaWVzID0gMQogICAgZmFpbGVkID0gVHJ1ZQogICAgd2hpbGUgZmFpbGVkOgogICAgICAgIHByaW50KCJOdW1iZXIgb2YgZXhlY3V0aW9uczoge3RyaWVzfSIuZm9ybWF0KHRyaWVzPXRyaWVzKSkKICAgICAgICB0cmllcyArPSAxCiAgICAgICAgcHJvYyA9IHN1YnByb2Nlc3MuUG9wZW4oYXJncz1bUEJQYXRoXSkKICAgICAgICB0cnk6CiAgICAgICAgICAgIGZhaWxlZCA9IEZhbHNlCiAgICAgICAgICAgIG91dHMsIGVycnMgPSBwcm9jLmNvbW11bmljYXRlKHRpbWVvdXQ9MTApCiAgICAgICAgICAgIGlmIHByb2MucmV0dXJuY29kZSAhPSAwOgogICAgICAgICAgICAgICAgZmFpbGVkID0gVHJ1ZQogICAgICAgIGV4Y2VwdCBzdWJwcm9jZXNzLkNhbGxlZFByb2Nlc3NFcnJvciBhcyBjYWxsZXJyb3I6CiAgICAgICAgICAgIGZhaWxlZCA9IFRydWUKICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5UaW1lb3V0RXhwaXJlZCBhcyB0aW1lb3V0OgogICAgICAgICAgICBmYWlsZWQgPSBGYWxzZQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBQQlBhdGggPSAnQzovUHJvZ3JhbSBGaWxlcyAoeDg2KS9TeWJhc2UvUG93ZXJCdWlsZGVyIDEyLjYvUEIxMjYuRVhFJwogICAgcnVuUHJvZ3JhbShQQlBhdGgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>encoding</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</text>
+        <text>inc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciByb290LCBkaXJzLCBmaWxlcyBpbiBvcy53YWxrKHN0YXJ0cGF0aCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBleGVjdHlwZSBpbiAoJ2J1aWxkJywnc2xpbWJ1aWxkJyk6CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdFeGVjdXRpbmcgcG93ZXJnZW4gdG8gYnVpbGQgUEJEIGFuZCBFWEUgZmlsZXMnKQogICAgICAgICAgICBjb21tYW5kID0gZXhlY29tbWFuZCArIG9wdGlvbnNbJ2J1aWxkJ10uZm9ybWF0KGdlbmZpbGU9Z2VuZmlsZSkKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0NvbW1hbmQ6IHtjb21tYW5kfScuZm9ybWF0KGNvbW1hbmQ9Y29tbWFuZCkpCiAgICAgICAgICAgIHJlc3VsdCA9IGV4ZWN1dGVDb21tYW5kKGNvbW1hbmQsIGVycmZpbGUsIG91dGZpbGUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -306,10 +316,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</last-search>
+      <last-search>inc</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>inc</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -329,6 +339,7 @@
         <entry>normal</entry>
         <entry>configure</entry>
         <entry encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</entry>
+        <entry>inc</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
