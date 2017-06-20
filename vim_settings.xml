@@ -10,10 +10,10 @@
         <mark key="^" line="40" column="66" />
         <mark key="." line="40" column="66" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1497956031110">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1497964109974">
         <mark key="'" line="16" column="32" />
-        <mark key="[" line="28" column="68" />
-        <mark key="]" line="28" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="26" column="29" />
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/classtools.py" timestamp="1491368982911">
@@ -279,7 +279,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLyoKICAgICAgKiAgIFNTTUEgd2FybmluZyBtZXNzYWdlczoKICAgICAgKiAgIFMyU1MwMDE2OiBTUUwgU2VydmVyIG1pZ2h0IHVzZSBhIGRpZmZlcmVudCBlcnJvciBjb2RlLgogICAgICAqLwoKICAgICAgU0VMRUNUIEBlcnJubyA9IEBARVJST1IsIEByb3dzX2FmZmVjdGVkID0gQEBST1dDT1VOVCwgQG1zZyA9ICc4JwoKICAgICAgU0VMRUNUIEBlcnJtc2cgPSAnU1FMQ09ERScKCiAgICAgIEVYRUNVVEUgc3BfY29kZXJyVFJDIAogICAgICAgICAnQU1PUlRfMDAyJywgCiAgICAgICAgIEBlcnJubywgCiAgICAgICAgIEBlcnJtc2cgIE9VVFBVVCwgCiAgICAgICAgIDEsIAogICAgICAgICBAcm93c19hZmZlY3RlZAoKICAgICAgSUYgQGVycm1zZyA8PiAnT0snCiAgICAgICAgIEdPVE8gZXJyb3IKCg==</text>
+        <text encoding="base64">ICAgICAgIElOTkVSIEpPSU4gcGVyaW9kb19hYm9uYWJsZSAgQVMgcGEKICAgICAgIE9OIHBhLmlkX2Fib25vID0gZmFjdC5pZF9mYWN0dXJhCiAgICAgICBJTk5FUiBKT0lOIGZhY3R1cmFfY2FiZWNlcmEgIEFTIGZjCiAgICAgICBPTgogICAgICAgICAgZmMuc3RhdHVzID0gJ0QnIEFORAogICAgICAgICAgZmMuaWRfZmFjdHVyYSA9IHBhLmlkX2Fib25vIEFORAogICAgICAgICAgZmMudG90YWxfZmFjdHVyYSA8IDAK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
