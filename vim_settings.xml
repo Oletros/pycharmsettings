@@ -152,8 +152,8 @@
         <mark key="." line="104" column="21" />
         <mark key="^" line="109" column="41" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1501055177356">
-        <mark key="'" line="21" column="2" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1501056648657">
+        <mark key="'" line="214" column="27" />
         <mark key="[" line="341" column="43" />
         <mark key="]" line="341" column="43" />
         <mark key="." line="341" column="43" />
@@ -193,11 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="36" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="21" column="58" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/permute.py" />
-      <jump line="0" column="9" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="3" column="12" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="11" column="27" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="37" column="21" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
@@ -275,8 +270,6 @@
       <jump line="450" column="36" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="27" column="57" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="53" column="57" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="125" column="93" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="131" column="11" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="137" column="59" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="142" column="40" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="174" column="51" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
@@ -293,6 +286,13 @@
       <jump line="72" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="6" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build_Slim.msbuild" />
       <jump line="21" column="2" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="357" column="15" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="355" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="0" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="125" column="93" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="131" column="11" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="220" column="40" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="214" column="27" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -302,7 +302,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>inc</text>
+        <text>inc_re</text>
       </register>
       <register name="0" type="4">
         <text>$USER_HOME$/Desktop/Logs/</text>
@@ -339,9 +339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inc</last-search>
+      <last-search>inc_re</last-search>
       <last-offset />
-      <last-pattern>inc</last-pattern>
+      <last-pattern>inc_re</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -363,6 +363,7 @@
         <entry>configure</entry>
         <entry encoding="base64">XDxzcGxpdGludm9pY2VzXD4=</entry>
         <entry>inc</entry>
+        <entry>inc_re</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
