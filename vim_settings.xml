@@ -152,12 +152,12 @@
         <mark key="." line="104" column="21" />
         <mark key="^" line="109" column="41" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1501059759127">
-        <mark key="'" line="214" column="27" />
-        <mark key="[" line="354" column="20" />
-        <mark key="]" line="354" column="41" />
-        <mark key="." line="354" column="41" />
-        <mark key="^" line="354" column="41" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1501060905260">
+        <mark key="'" line="186" column="25" />
+        <mark key="[" line="227" column="22" />
+        <mark key="]" line="227" column="22" />
+        <mark key="." line="227" column="22" />
+        <mark key="^" line="227" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/dir2/__init__.py" timestamp="1490591034906">
         <mark key="[" line="0" column="0" />
@@ -193,12 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="21" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="8" column="15" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/threenames.py" />
-      <jump line="40" column="66" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/timer2.py" />
-      <jump line="31" column="15" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/timer2.py" />
       <jump line="1" column="8" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/small.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/a.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/small.py" />
@@ -287,52 +281,58 @@
       <jump line="21" column="2" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="357" column="15" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="355" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="0" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="125" column="93" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="131" column="11" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="220" column="40" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="214" column="27" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="60" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="371" column="36" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="199" column="8" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="369" column="95" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="0" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="125" column="93" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="131" column="11" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="143" column="40" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="173" column="51" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="186" column="25" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Time</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Time</text>
       </register>
       <register name="/" type="4">
         <text>inc_re</text>
       </register>
       <register name="0" type="4">
-        <text>$USER_HOME$/Desktop/Logs/</text>
+        <text encoding="base64">IGlmIGFyZ3MudHlwZSA9PSAnY2hlY2snIGVsc2UgTm9uZQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQobGluZXMpCg==</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MudHlwZT09J2NoZWNrJzoKICAgICAgICBwZXJmb3JtYnVpbGQocG93ZXJnZW5maWxlPXRyY2JhdGNoZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlLCBwYlZlcnNpb249cGJ2ZXJzaW9uKQogICAgZWxzZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
+        <text encoding="base64">cHJpbnQobGluZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lcyArPSAxCiAgICAgICAgaWYgKGxpbmVzID4gbGFzdExpbmVzKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGFzdExpbmVzID0gNDIxMjI1NDEgLSAxMDAwCg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcyArPSAxCiAgICAgICAgaWYgKGxpbmVzID4gbGFzdExpbmVzKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGluZXMgPSAwCg==</text>
+        <text encoding="base64">bGFzdExpbmVzID0gNDIxMjI1NDEgLSAxMDAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLyoKICAgICAgKiAgIFNTTUEgd2FybmluZyBtZXNzYWdlczoKICAgICAgKiAgIFMyU1MwMDE2OiBTUUwgU2VydmVyIG1pZ2h0IHVzZSBhIGRpZmZlcmVudCBlcnJvciBjb2RlLgogICAgICAqLwoKICAgICAgU0VMRUNUIEBlcnJubyA9IEBARVJST1IsIEByb3dzX2FmZmVjdGVkID0gQEBST1dDT1VOVCwgQG1zZyA9ICc4JwoKICAgICAgU0VMRUNUIEBlcnJtc2cgPSAnU1FMQ09ERScKCiAgICAgIEVYRUNVVEUgc3BfY29kZXJyVFJDIAogICAgICAgICAnQU1PUlRfMDAyJywgCiAgICAgICAgIEBlcnJubywgCiAgICAgICAgIEBlcnJtc2cgIE9VVFBVVCwgCiAgICAgICAgIDEsIAogICAgICAgICBAcm93c19hZmZlY3RlZAoKICAgICAgSUYgQGVycm1zZyA8PiAnT0snCiAgICAgICAgIEdPVE8gZXJyb3IKCg==</text>
+        <text encoding="base64">bGluZXMgPSAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIC8qCiAgICAgICogICBTU01BIHdhcm5pbmcgbWVzc2FnZXM6CiAgICAgICogICBTMlNTMDAxNjogU1FMIFNlcnZlciBtaWdodCB1c2UgYSBkaWZmZXJlbnQgZXJyb3IgY29kZS4KICAgICAgKi8KCiAgICAgIFNFTEVDVCBAZXJybm8gPSBAQEVSUk9SLCBAcm93c19hZmZlY3RlZCA9IEBAUk9XQ09VTlQsIEBtc2cgPSAnOCcKCiAgICAgIFNFTEVDVCBAZXJybXNnID0gJ1NRTENPREUnCgogICAgICBFWEVDVVRFIHNwX2NvZGVyclRSQyAKICAgICAgICAgJ0FNT1JUXzAwMicsIAogICAgICAgICBAZXJybm8sIAogICAgICAgICBAZXJybXNnICBPVVRQVVQsIAogICAgICAgICAxLCAKICAgICAgICAgQHJvd3NfYWZmZWN0ZWQKCiAgICAgIElGIEBlcnJtc2cgPD4gJ09LJwogICAgICAgICBHT1RPIGVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgLyoKICAgICAgKiAgIFNTTUEgd2FybmluZyBtZXNzYWdlczoKICAgICAgKiAgIFMyU1MwMDE2OiBTUUwgU2VydmVyIG1pZ2h0IHVzZSBhIGRpZmZlcmVudCBlcnJvciBjb2RlLgogICAgICAqLwoKICAgICAgU0VMRUNUIEBlcnJubyA9IEBARVJST1IsIEByb3dzX2FmZmVjdGVkID0gQEBST1dDT1VOVCwgQG1zZyA9ICc4JwoKICAgICAgU0VMRUNUIEBlcnJtc2cgPSAnU1FMQ09ERScKCiAgICAgIEVYRUNVVEUgc3BfY29kZXJyVFJDIAogICAgICAgICAnQU1PUlRfMDAyJywgCiAgICAgICAgIEBlcnJubywgCiAgICAgICAgIEBlcnJtc2cgIE9VVFBVVCwgCiAgICAgICAgIDEsIAogICAgICAgICBAcm93c19hZmZlY3RlZAoKICAgICAgSUYgQGVycm1zZyA8PiAnT0snCiAgICAgICAgIEdPVE8gZXJyb3IKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIC8qCiAgICAgICogICBTU01BIHdhcm5pbmcgbWVzc2FnZXM6CiAgICAgICogICBTMlNTMDAxNjogU1FMIFNlcnZlciBtaWdodCB1c2UgYSBkaWZmZXJlbnQgZXJyb3IgY29kZS4KICAgICAgKi8KCiAgICAgIFNFTEVDVCBAZXJybm8gPSBAQEVSUk9SLCBAcm93c19hZmZlY3RlZCA9IEBAUk9XQ09VTlQsIEBtc2cgPSAnOCcKCiAgICAgIFNFTEVDVCBAZXJybXNnID0gJ1NRTENPREUnCgogICAgICBFWEVDVVRFIHNwX2NvZGVyclRSQyAKICAgICAgICAgJ0FNT1JUXzAwMicsIAogICAgICAgICBAZXJybm8sIAogICAgICAgICBAZXJybXNnICBPVVRQVVQsIAogICAgICAgICAxLCAKICAgICAgICAgQHJvd3NfYWZmZWN0ZWQKCiAgICAgIElGIEBlcnJtc2cgPD4gJ09LJwogICAgICAgICBHT1RPIGVycm9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZm9yIHJvb3QsIGRpcnMsIGZpbGVzIGluIG9zLndhbGsoc3RhcnRwYXRoKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
