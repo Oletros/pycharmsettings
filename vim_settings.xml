@@ -67,8 +67,8 @@
         <mark key="." line="47" column="13" />
         <mark key="^" line="47" column="13" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1501059834963">
-        <mark key="'" line="60" column="0" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1501067014666">
+        <mark key="'" line="106" column="54" />
         <mark key="[" line="125" column="44" />
         <mark key="]" line="125" column="47" />
         <mark key="." line="125" column="47" />
@@ -155,12 +155,12 @@
         <mark key="." line="104" column="21" />
         <mark key="^" line="109" column="41" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1501063224609">
-        <mark key="'" line="292" column="20" />
-        <mark key="[" line="226" column="27" />
-        <mark key="]" line="227" column="20" />
-        <mark key="." line="227" column="20" />
-        <mark key="^" line="227" column="20" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1501067559790">
+        <mark key="'" line="231" column="23" />
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="383" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/dir2/__init__.py" timestamp="1490591034906">
         <mark key="[" line="0" column="0" />
@@ -196,11 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
-      <jump line="8" column="8" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
-      <jump line="5" column="22" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
-      <jump line="18" column="43" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
-      <jump line="27" column="25" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="45" column="3" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="0" column="32" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/main.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/spam.py" />
@@ -296,55 +291,60 @@
       <jump line="37" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="237" column="27" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="292" column="20" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="106" column="54" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="317" column="26" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="383" column="73" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="178" column="22" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="231" column="23" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGltZXN0YW1wPXRpbWVzdGFtcCwK</text>
+      <register name="&quot;" type="4">
+        <text>time</text>
       </register>
       <register name="-" type="4">
-        <text>1406126235</text>
+        <text>time</text>
       </register>
       <register name="/" type="4">
-        <text>avui</text>
+        <text>mkt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGltZXN0YW1wPXRpbWVzdGFtcCwK</text>
+      <register name="0" type="4">
+        <text>alreadycreatedpbls</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MudHlwZT09J2NoZWNrJzoKICAgICAgICBwZXJmb3JtYnVpbGQocG93ZXJnZW5maWxlPXRyY2JhdGNoZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlLCBwYlZlcnNpb249cGJ2ZXJzaW9uKQogICAgZWxzZToK</text>
+        <text encoding="base64">ICAgIGFsbHBibHMgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQobGluZXMpCg==</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MudHlwZT09J2NoZWNrJzoKICAgICAgICBwZXJmb3JtYnVpbGQocG93ZXJnZW5maWxlPXRyY2JhdGNoZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlLCBwYlZlcnNpb249cGJ2ZXJzaW9uKQogICAgZWxzZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
+        <text encoding="base64">cHJpbnQobGluZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lcyArPSAxCiAgICAgICAgaWYgKGxpbmVzID4gbGFzdExpbmVzKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGFzdExpbmVzID0gNDIxMjI1NDEgLSAxMDAwCg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcyArPSAxCiAgICAgICAgaWYgKGxpbmVzID4gbGFzdExpbmVzKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGluZXMgPSAwCg==</text>
+        <text encoding="base64">bGFzdExpbmVzID0gNDIxMjI1NDEgLSAxMDAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLyoKICAgICAgKiAgIFNTTUEgd2FybmluZyBtZXNzYWdlczoKICAgICAgKiAgIFMyU1MwMDE2OiBTUUwgU2VydmVyIG1pZ2h0IHVzZSBhIGRpZmZlcmVudCBlcnJvciBjb2RlLgogICAgICAqLwoKICAgICAgU0VMRUNUIEBlcnJubyA9IEBARVJST1IsIEByb3dzX2FmZmVjdGVkID0gQEBST1dDT1VOVCwgQG1zZyA9ICc4JwoKICAgICAgU0VMRUNUIEBlcnJtc2cgPSAnU1FMQ09ERScKCiAgICAgIEVYRUNVVEUgc3BfY29kZXJyVFJDIAogICAgICAgICAnQU1PUlRfMDAyJywgCiAgICAgICAgIEBlcnJubywgCiAgICAgICAgIEBlcnJtc2cgIE9VVFBVVCwgCiAgICAgICAgIDEsIAogICAgICAgICBAcm93c19hZmZlY3RlZAoKICAgICAgSUYgQGVycm1zZyA8PiAnT0snCiAgICAgICAgIEdPVE8gZXJyb3IKCg==</text>
+        <text encoding="base64">bGluZXMgPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIC8qCiAgICAgICogICBTU01BIHdhcm5pbmcgbWVzc2FnZXM6CiAgICAgICogICBTMlNTMDAxNjogU1FMIFNlcnZlciBtaWdodCB1c2UgYSBkaWZmZXJlbnQgZXJyb3IgY29kZS4KICAgICAgKi8KCiAgICAgIFNFTEVDVCBAZXJybm8gPSBAQEVSUk9SLCBAcm93c19hZmZlY3RlZCA9IEBAUk9XQ09VTlQsIEBtc2cgPSAnOCcKCiAgICAgIFNFTEVDVCBAZXJybXNnID0gJ1NRTENPREUnCgogICAgICBFWEVDVVRFIHNwX2NvZGVyclRSQyAKICAgICAgICAgJ0FNT1JUXzAwMicsIAogICAgICAgICBAZXJybm8sIAogICAgICAgICBAZXJybXNnICBPVVRQVVQsIAogICAgICAgICAxLCAKICAgICAgICAgQHJvd3NfYWZmZWN0ZWQKCiAgICAgIElGIEBlcnJtc2cgPD4gJ09LJwogICAgICAgICBHT1RPIGVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgLyoKICAgICAgKiAgIFNTTUEgd2FybmluZyBtZXNzYWdlczoKICAgICAgKiAgIFMyU1MwMDE2OiBTUUwgU2VydmVyIG1pZ2h0IHVzZSBhIGRpZmZlcmVudCBlcnJvciBjb2RlLgogICAgICAqLwoKICAgICAgU0VMRUNUIEBlcnJubyA9IEBARVJST1IsIEByb3dzX2FmZmVjdGVkID0gQEBST1dDT1VOVCwgQG1zZyA9ICc4JwoKICAgICAgU0VMRUNUIEBlcnJtc2cgPSAnU1FMQ09ERScKCiAgICAgIEVYRUNVVEUgc3BfY29kZXJyVFJDIAogICAgICAgICAnQU1PUlRfMDAyJywgCiAgICAgICAgIEBlcnJubywgCiAgICAgICAgIEBlcnJtc2cgIE9VVFBVVCwgCiAgICAgICAgIDEsIAogICAgICAgICBAcm93c19hZmZlY3RlZAoKICAgICAgSUYgQGVycm1zZyA8PiAnT0snCiAgICAgICAgIEdPVE8gZXJyb3IKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIC8qCiAgICAgICogICBTU01BIHdhcm5pbmcgbWVzc2FnZXM6CiAgICAgICogICBTMlNTMDAxNjogU1FMIFNlcnZlciBtaWdodCB1c2UgYSBkaWZmZXJlbnQgZXJyb3IgY29kZS4KICAgICAgKi8KCiAgICAgIFNFTEVDVCBAZXJybm8gPSBAQEVSUk9SLCBAcm93c19hZmZlY3RlZCA9IEBAUk9XQ09VTlQsIEBtc2cgPSAnOCcKCiAgICAgIFNFTEVDVCBAZXJybXNnID0gJ1NRTENPREUnCgogICAgICBFWEVDVVRFIHNwX2NvZGVyclRSQyAKICAgICAgICAgJ0FNT1JUXzAwMicsIAogICAgICAgICBAZXJybm8sIAogICAgICAgICBAZXJybXNnICBPVVRQVVQsIAogICAgICAgICAxLCAKICAgICAgICAgQHJvd3NfYWZmZWN0ZWQKCiAgICAgIElGIEBlcnJtc2cgPD4gJ09LJwogICAgICAgICBHT1RPIGVycm9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>avui</last-search>
+      <last-search>mkt</last-search>
       <last-offset />
-      <last-pattern>avui</last-pattern>
+      <last-pattern>mkt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -368,6 +368,7 @@
         <entry>inc</entry>
         <entry>inc_re</entry>
         <entry>avui</entry>
+        <entry>mkt</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
