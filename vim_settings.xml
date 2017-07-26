@@ -29,7 +29,7 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1500901980537">
+      <file name="/Python Console" timestamp="1501062093387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/permute.py" timestamp="1489644911600">
@@ -152,12 +152,12 @@
         <mark key="." line="104" column="21" />
         <mark key="^" line="109" column="41" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1501060905260">
-        <mark key="'" line="186" column="25" />
-        <mark key="[" line="227" column="22" />
-        <mark key="]" line="227" column="22" />
-        <mark key="." line="227" column="22" />
-        <mark key="^" line="227" column="26" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1501062160097">
+        <mark key="'" line="227" column="22" />
+        <mark key="[" line="227" column="12" />
+        <mark key="]" line="227" column="32" />
+        <mark key="." line="227" column="32" />
+        <mark key="^" line="227" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/dir2/__init__.py" timestamp="1490591034906">
         <mark key="[" line="0" column="0" />
@@ -193,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="8" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/small.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/a.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/small.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/a.py" />
@@ -293,13 +292,14 @@
       <jump line="143" column="40" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="173" column="51" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="186" column="25" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="227" column="22" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Time</text>
+        <text>timestamp=.</text>
       </register>
       <register name="-" type="4">
-        <text>Time</text>
+        <text>timestamp=.</text>
       </register>
       <register name="/" type="4">
         <text>inc_re</text>
