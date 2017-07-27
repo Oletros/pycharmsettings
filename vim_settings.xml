@@ -67,12 +67,12 @@
         <mark key="." line="47" column="13" />
         <mark key="^" line="47" column="13" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1501142720733">
-        <mark key="'" line="178" column="35" />
-        <mark key="[" line="95" column="46" />
-        <mark key="]" line="95" column="46" />
-        <mark key="." line="95" column="46" />
-        <mark key="^" line="95" column="46" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1501145472904">
+        <mark key="'" line="95" column="46" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="129" column="61" />
+        <mark key="." line="127" column="52" />
+        <mark key="^" line="127" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" timestamp="1492525591298">
         <mark key="'" line="10" column="0" />
@@ -196,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="45" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
       <jump line="37" column="23" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/classtools.py" />
       <jump line="33" column="15" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/classtools.py" />
@@ -296,19 +295,20 @@
       <jump line="101" column="93" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="178" column="35" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="210" column="11" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="95" column="46" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJmb3JtYnVpbGQocG93ZXJnZW5maWxlPXRyY2JhdGNoZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0V4ZWN1dGluZyBwb3dlcmdlbiBjcmVhdGluZyBQQkRzJykKICAgICAgICAgICAgY29tbWFuZCA9IGV4ZWNvbW1hbmQgKyBvcHRpb25zWydidWlsZF9wYmQnXS5mb3JtYXQoZ2VuZmlsZT1nZW5maWxlKQogICAgICAgICAgICBsb2dnZXIuaW5mbygnQ29tbWFuZDoge2NvbW1hbmR9Jy5mb3JtYXQoY29tbWFuZD1jb21tYW5kKSkKICAgICAgICAgICAgcmVzdWx0ID0gZXhlY3V0ZUNvbW1hbmQoY29tbWFuZCwgZXJyZmlsZSwgb3V0ZmlsZSkKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0V4ZWN1dGluZyBwb3dlcmdlbiBjcmVhdGluZyBFWEUnKQogICAgICAgICAgICBjb21tYW5kID0gZXhlY29tbWFuZCArIG9wdGlvbnNbJ2J1aWxkX2V4ZSddLmZvcm1hdChnZW5maWxlPWdlbmZpbGUpCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdDb21tYW5kOiB7Y29tbWFuZH0nLmZvcm1hdChjb21tYW5kPWNvbW1hbmQpKQogICAgICAgICAgICByZXN1bHQgPSBleGVjdXRlQ29tbWFuZChjb21tYW5kLCBlcnJmaWxlLCBvdXRmaWxlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>pbd</text>
       </register>
       <register name="/" type="4">
         <text>inc_reg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJmb3JtYnVpbGQocG93ZXJnZW5maWxlPXRyY2JhdGNoZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlKQogICAgICAgIHBlcmZvcm1idWlsZChwb3dlcmdlbmZpbGU9dHJjZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0V4ZWN1dGluZyBwb3dlcmdlbiBjcmVhdGluZyBQQkRzJykKICAgICAgICAgICAgY29tbWFuZCA9IGV4ZWNvbW1hbmQgKyBvcHRpb25zWydidWlsZF9wYmQnXS5mb3JtYXQoZ2VuZmlsZT1nZW5maWxlKQogICAgICAgICAgICBsb2dnZXIuaW5mbygnQ29tbWFuZDoge2NvbW1hbmR9Jy5mb3JtYXQoY29tbWFuZD1jb21tYW5kKSkKICAgICAgICAgICAgcmVzdWx0ID0gZXhlY3V0ZUNvbW1hbmQoY29tbWFuZCwgZXJyZmlsZSwgb3V0ZmlsZSkKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0V4ZWN1dGluZyBwb3dlcmdlbiBjcmVhdGluZyBFWEUnKQogICAgICAgICAgICBjb21tYW5kID0gZXhlY29tbWFuZCArIG9wdGlvbnNbJ2J1aWxkX2V4ZSddLmZvcm1hdChnZW5maWxlPWdlbmZpbGUpCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdDb21tYW5kOiB7Y29tbWFuZH0nLmZvcm1hdChjb21tYW5kPWNvbW1hbmQpKQogICAgICAgICAgICByZXN1bHQgPSBleGVjdXRlQ29tbWFuZChjb21tYW5kLCBlcnJmaWxlLCBvdXRmaWxlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwZXJmb3JtYnVpbGQocG93ZXJnZW5maWxlPXRyY2JhdGNoZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlKQo=</text>
