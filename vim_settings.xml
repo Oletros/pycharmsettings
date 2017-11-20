@@ -77,6 +77,9 @@
         <mark key="." line="127" column="52" />
         <mark key="^" line="127" column="52" />
       </file>
+      <file name="/PythonRegExp Fragment (powerbuilder_Build.py:4181).regexp" timestamp="1511173220651">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" timestamp="1492525591298">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="19" column="19" />
@@ -154,6 +157,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1511173583723">
+        <mark key="'" line="40" column="50" />
+        <mark key="[" line="88" column="35" />
+        <mark key="]" line="88" column="36" />
+        <mark key="." line="88" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/makedb.py" timestamp="1491369310675">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="0" column="5" />
@@ -218,11 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="33" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/makedb.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/makedb.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/person.py" />
-      <jump line="3" column="3" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/personapp.py" />
-      <jump line="6" column="7" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/personapp.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/personapp.py" />
       <jump line="23" column="33" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/listinstance.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/listinstance.py" />
@@ -318,13 +322,21 @@
       <jump line="554" column="55" filename="C:/temp/build/PowerBuilder/Automation/trc_build_script.py" />
       <jump line="272" column="0" filename="C:/temp/build/PowerBuilder/Automation/trc_build_script.py" />
       <jump line="98" column="26" filename="C:/temp/build/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="41" column="2" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="0" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="412" column="15" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="254" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="40" column="50" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>targetpath</text>
+        <text>&quot;&quot;&quot;</text>
+      </register>
+      <register name="d" type="4">
+        <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>targetpath</text>
+        <text>&quot;&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>inc_reg</text>
@@ -332,32 +344,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnQ29weWluZyBwcm94eSBkbGwgZmlsZXMnKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;&quot;&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHlhbWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MudHlwZSA9PSAnY2hlY2snOgogICAgICAgIGFscmVhZHljcmVhdGVkcGJscyA9IE5vbmUKICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHlhbWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJmb3JtYnVpbGQocG93ZXJnZW5maWxlPXRyY2JhdGNoZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlKQo=</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MudHlwZSA9PSAnY2hlY2snOgogICAgICAgIGFscmVhZHljcmVhdGVkcGJscyA9IE5vbmUKICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBwYnZlcnNpb246IERlZmluZXMgdGhlIHRhcmdldCBQQiB2ZXJzaW9uIHRvIHUgc2UK</text>
+        <text encoding="base64">ICAgICAgICBwZXJmb3JtYnVpbGQocG93ZXJnZW5maWxlPXRyY2JhdGNoZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZXhlY29tbWFuZCA9IG9zLnBhdGguam9pbihQT1dFUkdFTlBBVEgsICdwd3JnbntwYnZlcnNpb259LmV4ZScuZm9ybWF0KHBidmVyc2lvbj1wYlZlcnNpb24pKSArICcgJwogICAgIyBleGVjb21tYW5kID0gJ3N0YXJ0IC93YWl0IHtleGV9ICcuZm9ybWF0KGV4ZT1wb3dlcmdlbmV4ZSkK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBwYnZlcnNpb246IERlZmluZXMgdGhlIHRhcmdldCBQQiB2ZXJzaW9uIHRvIHUgc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYlZlcnNpb246Cg==</text>
+        <text encoding="base64">ICAgICMgZXhlY29tbWFuZCA9IG9zLnBhdGguam9pbihQT1dFUkdFTlBBVEgsICdwd3JnbntwYnZlcnNpb259LmV4ZScuZm9ybWF0KHBidmVyc2lvbj1wYlZlcnNpb24pKSArICcgJwogICAgIyBleGVjb21tYW5kID0gJ3N0YXJ0IC93YWl0IHtleGV9ICcuZm9ybWF0KGV4ZT1wb3dlcmdlbmV4ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcGJ1bml0cGF0aCA9IG9zLnBhdGguYWJzcGF0aChiYXNlcGF0aCArCiAgICAjICcuLlxcVW5pdFRlc3RcXFRSQ19UZXN0UnVubmVyXFxwYWNrYWdlc1xcUEJVbml0JykK</text>
+        <text encoding="base64">ICAgICAgICBwYlZlcnNpb246Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGRhdGEgPSBURU1QTEFURTEyNTAwICsgZGF0YQo=</text>
+        <text encoding="base64">ICAgICMgcGJ1bml0cGF0aCA9IG9zLnBhdGguYWJzcGF0aChiYXNlcGF0aCArCiAgICAjICcuLlxcVW5pdFRlc3RcXFRSQ19UZXN0UnVubmVyXFxwYWNrYWdlc1xcUEJVbml0JykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
