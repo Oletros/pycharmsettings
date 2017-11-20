@@ -232,12 +232,15 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511178780338">
-        <mark key="'" line="93" column="0" />
+      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511185886002">
+        <mark key="'" line="96" column="42" />
+        <mark key="[" line="96" column="32" />
+        <mark key="]" line="96" column="42" />
+        <mark key="." line="96" column="42" />
+        <mark key="^" line="96" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
       <jump line="4" column="21" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
       <jump line="12" column="23" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
       <jump line="14" column="27" filename="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" />
@@ -337,16 +340,17 @@
       <jump line="100" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="112" column="45" filename="C:/Development/trc_build_script/src/powergen.py" />
       <jump line="93" column="0" filename="C:/Development/trc_build_script/src/powergen.py" />
+      <jump line="96" column="42" filename="C:/Development/trc_build_script/src/powergen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;&quot;</text>
+        <text encoding="base64">IC9OUlA=</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;&quot;</text>
+        <text encoding="base64">IC9OUlA=</text>
       </register>
       <register name="/" type="4">
         <text>skip</text>
