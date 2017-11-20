@@ -232,12 +232,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511185886002">
+      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511197151526">
         <mark key="'" line="96" column="42" />
-        <mark key="[" line="96" column="32" />
-        <mark key="]" line="96" column="42" />
-        <mark key="." line="96" column="42" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
         <mark key="^" line="96" column="42" />
+        <mark key="." line="97" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -343,8 +343,8 @@
       <jump line="37" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ3JlZ2VuZXJhdGUnOiAnL0o9IntnZW5maWxlfSIgL1BCRyAvUlAnLAo=</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
@@ -359,31 +359,31 @@
         <text encoding="base64">ICAgIGluY19yZWdlbiA9IEZhbHNlCiAgICBpZiBhcmdzLnR5cGUgaW4gWydzbGltYnVpbGQnLCAnY2hlY2snXToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Z1bGwnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ3JlZ2VuZXJhdGUnOiAnL0o9IntnZW5maWxlfSIgL1BCRyAvUlAnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2ltcG9ydCddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ2ltcG9ydCc6ICcvSj0ie2dlbmZpbGV9IiAvUEJHIC9SUCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Z1bGwnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ2NoZWNrUEJSJzogJy9SPSJ7Z2VuZmlsZX0iIC9TJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3JlZ2VuZXJhdGUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ3N5bmNocm9uaXplJzogJy9LPSJ7Z2VuZmlsZX0iIC9QQkcgL05SUCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluY19yZWdlbiA9IGFyZ3MudHlwZSBpbiBbJ3NsaW1idWlsZCcsICdjaGVjayddCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ2J1aWxkX3BiZCc6ICcvUD0ie2dlbmZpbGV9IicsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ2NoZWNrUEJSJzogJy9SPSJ7Z2VuZmlsZX0iIC9TJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkID0gYXJncy50eXBlIGluIFsnYnVpbGQnLCAnc2xpbWJ1aWxkJywgJ2NoZWNrJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ3N5bmNocm9uaXplJzogJy9LPSJ7Z2VuZmlsZX0iIC9QQkcgL05SUCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lc3RhbXAgPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ2ltcG9ydCc6ICcvSj0ie2dlbmZpbGV9IiAvUEJHIC9SUCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW1lc3RhbXA9dGltZXN0YW1wLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ3JlZ2VuZXJhdGUnOiAnL0o9IntnZW5maWxlfSIgL1BCRyAvUlAnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
