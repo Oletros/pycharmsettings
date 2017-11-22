@@ -60,6 +60,9 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
+      <file name="C:/Development/trc_build_script/.gitignore" timestamp="1511343872897">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/b.py" timestamp="1490162958901">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="1" column="20" />
@@ -160,8 +163,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1511194695763">
-        <mark key="'" line="37" column="0" />
+      <file name="/code.py" timestamp="1511344174228">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1511344096346">
+        <mark key="'" line="318" column="49" />
         <mark key="[" line="268" column="40" />
         <mark key="]" line="268" column="40" />
         <mark key="^" line="268" column="41" />
@@ -219,6 +225,9 @@
         <mark key="]" line="26" column="29" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="C:/Development/trc_build_script/src/Structure.md" timestamp="1511344239600">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/trc_build_script_testing.py" timestamp="1496818368628">
         <mark key="'" line="90" column="9" />
       </file>
@@ -241,9 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="51" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="187" column="25" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="225" column="8" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="66" column="73" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="28" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
@@ -327,7 +333,6 @@
       <jump line="410" column="8" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="188" column="24" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="321" column="4" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="218" column="8" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="29" column="64" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="0" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="101" column="93" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
@@ -341,6 +346,10 @@
       <jump line="196" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="28" column="71" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="37" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="0" column="0" filename="C:/Development/trc_build_script/.gitignore" />
+      <jump line="340" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="218" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="318" column="49" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
