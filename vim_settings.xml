@@ -23,7 +23,7 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1511450308517">
+      <file name="/Python Console" timestamp="1511451464238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="5" />
@@ -166,12 +166,12 @@
       <file name="/code.py" timestamp="1511344174228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/test.py" timestamp="1511450778564">
+      <file name="C:/Development/trc_build_script/test.py" timestamp="1511451463022">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="67" column="10" />
-        <mark key="]" line="67" column="12" />
-        <mark key="^" line="67" column="12" />
-        <mark key="." line="67" column="12" />
+        <mark key="[" line="57" column="79" />
+        <mark key="]" line="57" column="79" />
+        <mark key="^" line="57" column="79" />
+        <mark key="." line="57" column="79" />
       </file>
       <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1511450468269">
         <mark key="'" line="102" column="37" />
@@ -263,12 +263,12 @@
         <mark key="^" line="94" column="47" />
         <mark key="." line="94" column="47" />
       </file>
-      <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1511450705687">
+      <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1511451272455">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="111" column="71" />
-        <mark key="]" line="112" column="31" />
-        <mark key="." line="112" column="31" />
-        <mark key="^" line="112" column="31" />
+        <mark key="[" line="60" column="23" />
+        <mark key="]" line="61" column="28" />
+        <mark key="." line="61" column="28" />
+        <mark key="^" line="61" column="28" />
       </file>
       <file name="C:/Development/trc_build_script/src/Application/Application.py" timestamp="1511347451660">
         <mark key="'" line="105" column="0" />
@@ -382,13 +382,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>path</text>
+        <text>list</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
         <text>modif</text>
