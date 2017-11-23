@@ -23,7 +23,7 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1507539511235">
+      <file name="/Python Console" timestamp="1511447508272">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="5" />
@@ -166,10 +166,17 @@
       <file name="/code.py" timestamp="1511344174228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1511437074973">
-        <mark key="'" line="74" column="11" />
-        <mark key="[" line="248" column="58" />
-        <mark key="]" line="249" column="3" />
+      <file name="C:/Development/trc_build_script/test.py" timestamp="1511446280885">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="63" column="26" />
+        <mark key="]" line="63" column="31" />
+        <mark key="^" line="63" column="31" />
+        <mark key="." line="63" column="31" />
+      </file>
+      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1511447434144">
+        <mark key="'" line="243" column="4" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="88" column="67" />
         <mark key="^" line="249" column="3" />
         <mark key="." line="249" column="3" />
       </file>
@@ -249,19 +256,19 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511438110369">
-        <mark key="'" line="65" column="15" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511446815215">
+        <mark key="'" line="156" column="8" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
         <mark key="^" line="95" column="42" />
-        <mark key="." line="4" column="0" />
+        <mark key="." line="20" column="20" />
       </file>
-      <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1511443602875">
-        <mark key="'" line="145" column="22" />
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="8" />
-        <mark key="." line="61" column="8" />
-        <mark key="^" line="160" column="98" />
+      <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1511447503259">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="116" column="23" />
+        <mark key="]" line="116" column="36" />
+        <mark key="." line="116" column="36" />
+        <mark key="^" line="116" column="36" />
       </file>
       <file name="C:/Development/trc_build_script/src/Application/Application.py" timestamp="1511347451660">
         <mark key="'" line="105" column="0" />
@@ -272,29 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="93" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="178" column="35" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
-      <jump line="210" column="11" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="95" column="46" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
-      <jump line="56" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="0" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="140" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="27" column="38" filename="C:/temp/build/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="3" column="15" filename="C:/temp/build/PowerBuilder/Automation/trc_build_script.py" />
-      <jump line="554" column="55" filename="C:/temp/build/PowerBuilder/Automation/trc_build_script.py" />
-      <jump line="272" column="0" filename="C:/temp/build/PowerBuilder/Automation/trc_build_script.py" />
-      <jump line="98" column="26" filename="C:/temp/build/PowerBuilder/Automation/powerbuilder_Build.py" />
-      <jump line="41" column="2" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="412" column="15" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="254" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="40" column="50" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="122" column="21" filename="C:/Development/trc_build_script/src/utils.py" />
-      <jump line="421" column="56" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="81" column="4" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="343" column="9" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="330" column="4" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="423" column="48" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="190" column="20" filename="C:/Development/trc_build_script/src/powergen.py" />
       <jump line="112" column="45" filename="C:/Development/trc_build_script/src/powergen.py" />
       <jump line="93" column="0" filename="C:/Development/trc_build_script/src/powergen.py" />
       <jump line="96" column="42" filename="C:/Development/trc_build_script/src/powergen.py" />
@@ -346,7 +330,6 @@
       <jump line="53" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="242" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="113" column="0" filename="C:/Development/trc_build_script/src/Application.py" />
-      <jump line="168" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="178" column="14" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="0" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="39" column="72" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
@@ -361,7 +344,6 @@
       <jump line="68" column="0" filename="C:/Development/trc_build_script/src/Application.py" />
       <jump line="125" column="38" filename="C:/Development/trc_build_script/src/Utils.py" />
       <jump line="116" column="0" filename="C:/Development/trc_build_script/src/Application.py" />
-      <jump line="160" column="8" filename="C:/Development/trc_build_script/src/Application.py" />
       <jump line="0" column="0" filename="C:/Development/trc_build_script/src/Application.py" />
       <jump line="251" column="3" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="97" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
@@ -372,49 +354,74 @@
       <jump line="145" column="22" filename="C:/Development/trc_build_script/src/Application.py" />
       <jump line="65" column="15" filename="C:/Development/trc_build_script/src/powergen.py" />
       <jump line="120" column="0" filename="C:/Development/trc_build_script/src/Utils.py" />
+      <jump line="181" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="186" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="11" column="14" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="21" column="0" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="168" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="23" column="4" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="2" column="0" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="48" column="18" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="4" column="0" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="40" column="16" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="0" column="0" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="45" column="0" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="28" column="17" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="49" column="36" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="25" column="7" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="34" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="217" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="61" column="4" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="5" column="0" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="9" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="152" column="84" filename="C:/Development/trc_build_script/src/powergen.py" />
+      <jump line="78" column="0" filename="C:/Development/trc_build_script/src/powergen.py" />
+      <jump line="156" column="8" filename="C:/Development/trc_build_script/src/powergen.py" />
+      <jump line="160" column="0" filename="C:/Development/trc_build_script/src/Application.py" />
+      <jump line="243" column="4" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IiIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>header</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>header</text>
       </register>
       <register name="/" type="4">
         <text>modif</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cmNhcHAuYnVpbGQoZXhlY3R5cGU9YXJncy50eXBlKQo=</text>
+      <register name="0" type="4">
+        <text>temptemplate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhleGVwYXRoKToKICAgICAgICBvcy5tYWtlZGlycyhleGVwYXRoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBsb2dnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBlcmZvcm1idWlsZChwb3dlcmdlbmZpbGU9cGJ1bml0Z2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlLCBleGl0T25FcnJvcj1GYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJmb3JtYnVpbGQocG93ZXJnZW5maWxlPXRyY2JhdGNoZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlKQogICAgICAgIHBlcmZvcm1idWlsZChwb3dlcmdlbmZpbGU9dHJjZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlKQo=</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmNiYXRjaGFwcC5idWlsZChleGVjdHlwZT1hcmdzLnR5cGUpCg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cmNhcHAuYnVpbGQoZXhlY3R5cGU9YXJncy50eXBlKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJmb3JtYnVpbGQocG93ZXJnZW5maWxlPXRyY2JhdGNoZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlKQo=</text>
+        <text encoding="base64">ICAgIHBlcmZvcm1idWlsZChwb3dlcmdlbmZpbGU9cGJ1bml0Z2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlLCBleGl0T25FcnJvcj1GYWxzZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJmb3JtYnVpbGQocG93ZXJnZW5maWxlPXRyY2dlbmZpbGUsIGV4ZWN0eXBlPWFyZ3MudHlwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwZXJmb3JtYnVpbGQocG93ZXJnZW5maWxlPXRyY2JhdGNoZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlKQogICAgICAgIHBlcmZvcm1idWlsZChwb3dlcmdlbmZpbGU9dHJjZ2VuZmlsZSwgZXhlY3R5cGU9YXJncy50eXBlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
