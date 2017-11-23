@@ -256,12 +256,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511456550266">
+      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511457303122">
         <mark key="'" line="147" column="12" />
-        <mark key="[" line="95" column="41" />
-        <mark key="]" line="95" column="42" />
-        <mark key="^" line="95" column="118" />
-        <mark key="." line="95" column="42" />
+        <mark key="[" line="94" column="44" />
+        <mark key="]" line="94" column="47" />
+        <mark key="^" line="94" column="47" />
+        <mark key="." line="94" column="47" />
       </file>
       <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1511453756140">
         <mark key="'" line="56" column="0" />
