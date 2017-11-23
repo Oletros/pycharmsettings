@@ -263,12 +263,12 @@
         <mark key="^" line="94" column="47" />
         <mark key="." line="94" column="47" />
       </file>
-      <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1511451272455">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="60" column="23" />
-        <mark key="]" line="61" column="28" />
-        <mark key="." line="61" column="28" />
-        <mark key="^" line="61" column="28" />
+      <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1511453756140">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="130" column="24" />
+        <mark key="]" line="130" column="31" />
+        <mark key="." line="130" column="31" />
+        <mark key="^" line="130" column="31" />
       </file>
       <file name="C:/Development/trc_build_script/src/Application/Application.py" timestamp="1511347451660">
         <mark key="'" line="105" column="0" />
@@ -382,13 +382,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>list</text>
+        <text>libs</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>libs</text>
       </register>
       <register name="/" type="4">
         <text>modif</text>
