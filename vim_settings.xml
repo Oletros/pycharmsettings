@@ -256,12 +256,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511457303122">
-        <mark key="'" line="147" column="12" />
-        <mark key="[" line="94" column="44" />
-        <mark key="]" line="94" column="47" />
-        <mark key="^" line="94" column="47" />
-        <mark key="." line="94" column="47" />
+      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511522626439">
+        <mark key="'" line="151" column="12" />
+        <mark key="[" line="122" column="44" />
+        <mark key="]" line="122" column="53" />
+        <mark key="^" line="122" column="53" />
+        <mark key="." line="122" column="53" />
       </file>
       <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1511453756140">
         <mark key="'" line="56" column="0" />
@@ -382,19 +382,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC9SUA==</text>
+        <text>build_pbd</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC9SUA==</text>
+        <text>build_pbd</text>
       </register>
       <register name="/" type="4">
         <text>modif</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyY2JhdGNoYXBwLmJ1aWxkKGV4ZWN0eXBlPSdjaGVjaycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0V4ZWN1dGluZyBwb3dlcmdlbiBjcmVhdGluZyBQQkRzJykKICAgICAgICAgICAgY29tbWFuZCA9IGV4ZWNvbW1hbmQgKyBvcHRpb25zWydidWlsZF9wYmQnXS5mb3JtYXQoZ2VuZmlsZT1nZW5maWxlKQogICAgICAgICAgICBsb2dnZXIuaW5mbygnQ29tbWFuZDoge2NvbW1hbmR9Jy5mb3JtYXQoY29tbWFuZD1jb21tYW5kKSkKICAgICAgICAgICAgcmVzdWx0ID0gZXhlY3V0ZWNvbW1hbmQoY29tbWFuZCwgZXJyZmlsZSwgb3V0ZmlsZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
