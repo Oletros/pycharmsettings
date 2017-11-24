@@ -256,12 +256,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511522626439">
+      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511524968065">
         <mark key="'" line="151" column="12" />
-        <mark key="[" line="122" column="44" />
-        <mark key="]" line="122" column="53" />
-        <mark key="^" line="122" column="53" />
-        <mark key="." line="122" column="53" />
+        <mark key="[" line="118" column="44" />
+        <mark key="]" line="118" column="54" />
+        <mark key="^" line="118" column="54" />
+        <mark key="." line="118" column="54" />
       </file>
       <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1511453756140">
         <mark key="'" line="56" column="0" />
@@ -382,13 +382,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>build_pbd</text>
+        <text>regenerate</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>build_pbd</text>
+        <text>regenerate</text>
       </register>
       <register name="/" type="4">
         <text>modif</text>
