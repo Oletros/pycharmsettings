@@ -23,7 +23,7 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1511791966810">
+      <file name="/Python Console" timestamp="1511801647883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="5" />
@@ -256,12 +256,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511792240727">
+      <file name="C:/Development/trc_build_script/src/powergen.py" timestamp="1511801565771">
         <mark key="'" line="135" column="34" />
-        <mark key="[" line="121" column="60" />
-        <mark key="]" line="121" column="60" />
-        <mark key="." line="121" column="60" />
-        <mark key="^" line="121" column="60" />
+        <mark key="[" line="131" column="37" />
+        <mark key="]" line="131" column="48" />
+        <mark key="." line="131" column="48" />
+        <mark key="^" line="131" column="48" />
       </file>
       <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1511791959433">
         <mark key="'" line="107" column="42" />
@@ -381,14 +381,14 @@
       <jump line="107" column="42" filename="C:/Development/trc_build_script/src/Application.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>basefile + '.err'</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>basefile + '.err'</text>
       </register>
       <register name="/" type="4">
         <text>executecommand</text>
