@@ -23,13 +23,13 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1511969277024">
+      <file name="/Python Console" timestamp="1511970784504">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="/fragment.py" timestamp="1511773818117">
+      <file name="/fragment.py" timestamp="1511970771986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter01/permute.py" timestamp="1489644911600">
@@ -166,16 +166,16 @@
       <file name="/code.py" timestamp="1511344174228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/test.py" timestamp="1511969275375">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="152" column="23" />
-        <mark key="]" line="152" column="33" />
-        <mark key="." line="152" column="33" />
-        <mark key="^" line="152" column="33" />
+      <file name="C:/Development/trc_build_script/test.py" timestamp="1511970736160">
+        <mark key="'" line="23" column="37" />
+        <mark key="[" line="152" column="22" />
+        <mark key="]" line="152" column="38" />
+        <mark key="." line="152" column="22" />
+        <mark key="^" line="152" column="21" />
         <mark key="o" line="102" column="18" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1511969121023">
-        <mark key="'" line="22" column="34" />
+      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1511970747331">
+        <mark key="'" line="42" column="50" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="51" />
         <mark key="^" line="260" column="24" />
@@ -281,8 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="35" filename="C:/Development/trc_build_script/src/Application.py" />
-      <jump line="59" column="23" filename="C:/Development/trc_build_script/src/Application.py" />
       <jump line="154" column="14" filename="C:/Development/trc_build_script/src/Application.py" />
       <jump line="53" column="42" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="46" column="20" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
@@ -342,7 +340,6 @@
       <jump line="23" column="17" filename="C:/Development/trc_build_script/src/powergen.py" />
       <jump line="13" column="0" filename="C:/Development/trc_build_script/src/powergen.py" />
       <jump line="58" column="4" filename="C:/Development/trc_build_script/src/powergen.py" />
-      <jump line="42" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="113" column="56" filename="C:/Development/trc_build_script/test.py" />
       <jump line="100" column="54" filename="C:/Development/trc_build_script/src/Utils.py" />
       <jump line="0" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
@@ -363,7 +360,6 @@
       <jump line="98" column="0" filename="C:/Development/trc_build_script/test.py" />
       <jump line="143" column="4" filename="C:/Development/trc_build_script/test.py" />
       <jump line="1" column="0" filename="C:/Development/trc_build_script/test.py" />
-      <jump line="23" column="50" filename="C:/Development/trc_build_script/test.py" />
       <jump line="24" column="75" filename="C:/Development/trc_build_script/test.py" />
       <jump line="87" column="12" filename="C:/Development/trc_build_script/test.py" />
       <jump line="16" column="4" filename="C:/Development/trc_build_script/test.py" />
@@ -381,22 +377,26 @@
       <jump line="154" column="16" filename="C:/Development/trc_build_script/test.py" />
       <jump line="90" column="0" filename="C:/Development/trc_build_script/test.py" />
       <jump line="14" column="0" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="21" column="4" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="152" column="21" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="23" column="37" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="42" column="50" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZWZvbGRlciA9IGV4ZXBhdGgKICAgIHRhcmdldGZvbGRlciA9IHppcG91dHB1dAo=</text>
+      <register name="&quot;" type="4">
+        <text>skip_sources_zip</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>source</text>
+        <text>skip_sources</text>
       </register>
       <register name="/" type="4">
         <text>zipfi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnQ29tcHJlc3Npbmcgc291cmNlIGZpbGVzJykK</text>
+      <register name="0" type="4">
+        <text>skip_sources_zip</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNvdXJjZWZvbGRlciA9IGV4ZXBhdGgKICAgIHRhcmdldGZvbGRlciA9IHppcG91dHB1dAo=</text>
