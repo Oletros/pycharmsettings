@@ -23,7 +23,7 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1511801647883">
+      <file name="/Python Console" timestamp="1511946334117">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="5" />
@@ -148,7 +148,7 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511529297808">
+      <file name="/Dummy.txt" timestamp="1511946048654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/personapp.py" timestamp="1491541820362">
@@ -166,18 +166,18 @@
       <file name="/code.py" timestamp="1511344174228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/test.py" timestamp="1511943864276">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="47" column="20" />
-        <mark key="]" line="47" column="24" />
-        <mark key="." line="47" column="24" />
-        <mark key="^" line="47" column="24" />
-        <mark key="o" line="46" column="18" />
+      <file name="C:/Development/trc_build_script/test.py" timestamp="1511946332224">
+        <mark key="'" line="90" column="15" />
+        <mark key="[" line="95" column="26" />
+        <mark key="]" line="95" column="42" />
+        <mark key="." line="95" column="42" />
+        <mark key="^" line="95" column="42" />
+        <mark key="o" line="68" column="18" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1511943874309">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="84" column="30" />
+      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1511944830030">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="164" column="17" />
         <mark key="^" line="249" column="3" />
         <mark key="." line="249" column="3" />
       </file>
@@ -280,18 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="0" filename="C:/Development/trc_build_script/src/powergen.py" />
-      <jump line="124" column="9" filename="C:/Development/trc_build_script/src/Application/Application.py" />
-      <jump line="5" column="0" filename="C:/Development/trc_build_script/src/Application/Application.py" />
-      <jump line="123" column="0" filename="C:/Development/trc_build_script/src/Application/Application.py" />
-      <jump line="38" column="8" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="103" column="0" filename="C:/Development/trc_build_script/src/Application/Application.py" />
-      <jump line="90" column="21" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="100" column="12" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="105" column="30" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="225" column="18" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="129" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="200" column="26" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="96" column="49" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="85" column="4" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="58" column="6" filename="C:/Development/trc_build_script/src/Application.py" />
@@ -322,7 +310,6 @@
       <jump line="120" column="0" filename="C:/Development/trc_build_script/src/Utils.py" />
       <jump line="181" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="186" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="11" column="14" filename="C:/Development/trc_build_script/test.py" />
       <jump line="21" column="0" filename="C:/Development/trc_build_script/test.py" />
       <jump line="168" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="23" column="4" filename="C:/Development/trc_build_script/test.py" />
@@ -380,66 +367,78 @@
       <jump line="0" column="0" filename="C:/Development/trc_build_script/src/Application.py" />
       <jump line="48" column="0" filename="C:/Development/trc_build_script/test.py" />
       <jump line="68" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="172" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="53" column="4" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="11" column="8" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="19" column="33" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="20" column="36" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="84" column="4" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="13" column="19" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="146" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="103" column="111" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="98" column="4" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="102" column="4" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="83" column="25" filename="C:/Development/trc_build_script/test.py" />
+      <jump line="90" column="15" filename="C:/Development/trc_build_script/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.version</text>
+        <text>exe_full_path</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>self.version</text>
+        <text>exe_full_path</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1hbmQgPSBleGVjb21tYW5kICsgb3B0aW9uc1sncmVnZW5lcmF0ZSddLmZvcm1hdChnZW5maWxlPWdlbmZpbGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhleGVfZnVsbF9wYXRoKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhc2VwYXRoID0gImM6L0hJU0NvbGxlY3Rpb24vSW5hdG9yMy9UUkMvQ3VycmVudC9Qb3dlckJ1aWxkZXIvQXV0b21hdGlvbiIKICAgIHZlcnNpb24gPSAiMjIuMDAuMDFCdWlsZDIwMTcxMTIzIgogICAgYXBwbmFtZSA9ICJ0cmMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyY2JhdGNoYXBwLmJ1aWxkKGV4ZWN0eXBlPSdjaGVjaycpCg==</text>
+        <text encoding="base64">ICAgIHBidW5pdGFwcCA9IEFwcGxpY2F0aW9uKCJwYnVuaXQiLCBiYXNlcGF0aCwgdXNlaGVhZGVyLCBpbmNyZWdlbiwgdHJjYXBwLmxpYnMsIHZlcnNpb24sIGV4ZXBhdGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RpZnl2ZXJzaW9uPW1vZGlmeXZlcnNpb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyY2JhdGNoYXBwLnNhdmVwb3dlcmdlbmRhdGEoKQo=</text>
+        <text encoding="base64">ICAgICA9IEFwcGxpY2F0aW9uKCJ0cmNfYmF0Y2giLCBiYXNlcGF0aCwgdXNlaGVhZGVyLCBpbmNyZWdlbiwgdHJjYXBwLmxpYnMsIHZlcnNpb24sIGV4ZXBhdGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGlmeXZlcnNpb249bW9kaWZ5dmVyc2lvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyY2FwcCA9IEFwcGxpY2F0aW9uKGFwcG5hbWUsIGJhc2VwYXRoLCB1c2VoZWFkZXIsIGluY3JlZ2VuLCB0cmNiYXRjaGFwcC5saWJzLCB2ZXJzaW9uLCBleGVwYXRoKQo=</text>
+        <text encoding="base64">ICAgIGVsaWYgYXJncy50eXBlID09ICdidWlsZCc6CiAgICAgICAgbW9kaWZ5dmVyc2lvbiA9IFRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHJlc3VsdCBpbiBbMTE2LCAyNTVdOgogICAgICAgIGxvZ2dlci5pbmZvKCdQb3dlcmdlbiBjcmFzaC4gQ29tbWFuZCByZXBlYXRlZCcpCiAgICAgICAgdGltZS5zbGVlcCg1KQogICAgICAgIHJlc3VsdCA9IGV4ZWNwb3dlcmdlbihwb3dlcmdlbmZpbGUsIGV4ZWN0eXBlLCBleGl0b25lcnJvcikK</text>
+        <text encoding="base64">ICAgICAgICBtb2RpZnl2ZXJzaW9uID0gRmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGV4ZWN0eXBlID09ICdidWlsZCc6CiAgICAgICAgbG9nZ2VyLmluZm8oJ0V4ZWN1dGluZyBwb3dlcmdlbiBiZWZvcmUgYnVpbGRpbmcgcGJkIGFuZCBleGUnKQogICAgICAgIHJlc3VsdCA9IGV4ZWNwb3dlcmdlbihwb3dlcmdlbmZpbGUsICdzeW5jaHJvbml6ZScsIGV4aXRvbmVycm9yKQogICAgICAgIGlmIHJlc3VsdCBpbiBbMTE2LCAyNTVdOgogICAgICAgICAgICBsb2dnZXIuaW5mbygnUG93ZXJnZW4gY3Jhc2guIENvbW1hbmQgcmVwZWF0ZWQnKQogICAgICAgICAgICB0aW1lLnNsZWVwKDUpCiAgICAgICAgICAgIHJlc3VsdCA9IGV4ZWNwb3dlcmdlbihwb3dlcmdlbmZpbGUsICdzeW5jaHJvbml6ZScsIGV4aXRvbmVycm9yKQogICAgaWYgZXhlY3R5cGUgPT0gJ3NsaW1idWlsZCc6CiAgICAgICAgbG9nZ2VyLmluZm8oJ0V4ZWN1dGluZyBwb3dlcmdlbiBiZWZvcmUgYnVpbGRpbmcgcGJkIGFuZCBleGUnKQogICAgICAgIHJlc3VsdCA9IGV4ZWNwb3dlcmdlbihwb3dlcmdlbmZpbGUsICdzeW5jaHJvbml6ZScsIGV4aXRvbmVycm9yKQogICAgICAgIGlmIHJlc3VsdCBpbiBbMTE2LCAyNTVdOgogICAgICAgICAgICBsb2dnZXIuaW5mbygnUG93ZXJnZW4gY3Jhc2guIENvbW1hbmQgcmVwZWF0ZWQnKQogICAgICAgICAgICB0aW1lLnNsZWVwKDUpCiAgICAgICAgICAgIHJlc3VsdCA9IGV4ZWNwb3dlcmdlbihwb3dlcmdlbmZpbGUsICdzeW5jaHJvbml6ZScsIGV4aXRvbmVycm9yKQogICAgdGltZS5zbGVlcCg1KQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdQQVRIOiAlcycsIG9zLmdldGVudignUEFUSCcpKQogICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ0V4ZWN1dGluZyBwb3dlcmdlbiB0byBidWlsZCBQQkQgYW5kIEVYRSBmaWxlcycpCiAgICAgICAgICAgIGNvbW1hbmQgPSBleGVjb21tYW5kICsgb3B0aW9uc1snYnVpbGQnXS5mb3JtYXQoZ2VuZmlsZT1nZW5maWxlKQogICAgICAgICAgICBsb2dnZXIuaW5mbygnQ29tbWFuZDoge2NvbW1hbmR9Jy5mb3JtYXQoY29tbWFuZD1jb21tYW5kKSkKICAgICAgICAgICAgcmVzdWx0ID0gZXhlY3V0ZWNvbW1hbmQoY29tbWFuZCwgZXJyZmlsZSwgZXhpdG9uZXJyb3IpCiAgICAgICAgZWxpZiBleGVjdHlwZSA9PSAnY2hlY2snOgo=</text>
+        <text encoding="base64">ICAgIG9zLmVudmlyb25bJ1BBVEgnXSA9IEVOVlBBVEgKICAgIGxvZ2dlci5pbmZvKCdQQVRIOiAlcycsIG9zLmdldGVudignUEFUSCcpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG91dGZpbGUgPSBvcy5wYXRoLmpvaW4oYmFzZXBhdGgsIGJhc2VmaWxlICsgJy5vdXQnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXRjb2RlIGluIFsxMTYsIDI1NV06CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdQb3dlcmdlbiBjcmFzaC4gQ29tbWFuZCByZXBlYXRlZCcpCiAgICAgICAgICAgIHRpbWUuc2xlZXAoNSkKICAgICAgICAgICAgcmVzdWx0ID0gZXhlY3Bvd2VyZ2VuKHBvd2VyZ2VuZmlsZSwgJ3N5bmNocm9uaXplJywgZXhpdG9uZXJyb3IpCg==</text>
+        <text encoding="base64">ICAgIHRyY2JhdGNoYXBwLmJ1aWxkKGV4ZWN0eXBlPSdjaGVjaycpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLyIvJy8=</text>
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
-      <last-replace>executeandtry</last-replace>
-      <last-substitute>executecommand</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TEMPLATE12601</entry>
         <entry>TEMPLATE12600</entry>
         <entry>normal</entry>
         <entry>configure</entry>
@@ -459,6 +458,7 @@
         <entry>sra</entry>
         <entry>modif</entry>
         <entry>version</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
@@ -472,6 +472,7 @@
         <entry>set ic</entry>
         <entry encoding="base64">JzwsJz5zL2V4ZWN1dGVjb21tYW5kL2V4ZWN1dGVhbmR0cnkvZ2Np</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy8=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
