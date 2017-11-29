@@ -264,11 +264,11 @@
         <mark key="." line="103" column="42" />
         <mark key="^" line="103" column="42" />
       </file>
-      <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1511951763253">
+      <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1511956408663">
         <mark key="'" line="131" column="61" />
-        <mark key="[" line="131" column="59" />
-        <mark key="]" line="131" column="61" />
-        <mark key="." line="131" column="61" />
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
         <mark key="^" line="131" column="61" />
       </file>
       <file name="C:/Development/trc_build_script/src/Application/Application.py" timestamp="1511347451660">
@@ -425,7 +425,7 @@
         <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MsIHRocmVhZGluZwo=</text>
       </register>
       <register name=":" type="4">
-        <text>set ic</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -470,9 +470,9 @@
         <entry>wq</entry>
         <entry>ww</entry>
         <entry encoding="base64">JzwsJz5zL2V4ZWN1dGVjb21tYW5kL2V4ZWN1dGVhbmR0cnkvZ2Np</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy8=</entry>
         <entry>set ic</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
