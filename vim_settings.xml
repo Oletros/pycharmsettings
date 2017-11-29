@@ -166,18 +166,18 @@
       <file name="/code.py" timestamp="1511344174228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/test.py" timestamp="1511961542095">
+      <file name="C:/Development/trc_build_script/test.py" timestamp="1511965269089">
         <mark key="'" line="75" column="23" />
-        <mark key="[" line="72" column="44" />
-        <mark key="]" line="72" column="45" />
-        <mark key="." line="72" column="45" />
-        <mark key="^" line="72" column="45" />
-        <mark key="o" line="81" column="18" />
+        <mark key="[" line="80" column="8" />
+        <mark key="]" line="80" column="7" />
+        <mark key="." line="80" column="7" />
+        <mark key="^" line="80" column="7" />
+        <mark key="o" line="85" column="18" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1511960353721">
+      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1511965333782">
         <mark key="'" line="112" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="11" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="25" column="30" />
         <mark key="^" line="260" column="24" />
         <mark key="." line="260" column="24" />
       </file>
@@ -383,8 +383,8 @@
       <jump line="74" column="23" filename="C:/Development/trc_build_script/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pbunitapp.pbdfiles</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIGV4ZWNkZXBsb3lmaWxlcyhzb3VyY2Vmb2xkZXI9Jy4vJywgZmlsZXM9Tm9uZSwgc2tpcF9zb3VyY2VzX3ppcD0ibm8iLCBleGl0YXBwPVRydWUpOgogICAgdGFyZ2V0cGF0aCA9IG9zLnBhdGguYWJzcGF0aCgnLi9FeGVPdXRwdXQnKQogICAgbG9nZ2VyLmluZm8oJ3RhcmdldHBhdGg6ICVzJywgdGFyZ2V0cGF0aCkKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyh0YXJnZXRwYXRoKToKICAgICAgICBvcy5tYWtlZGlycyh0YXJnZXRwYXRoKQo=</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
@@ -396,7 +396,7 @@
         <text>pbunitp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB1c2VjcmVhdGVkcGJkcyhzZWxmKToKICAgICAgICBpZiBzZWxmLmJhc2VfcGJsczoKICAgICAgICAgICAgbmV3X2xpYnMgPSBbCiAgICAgICAgICAgICAgICBvcy5wYXRoLmpvaW4oc2VsZi5leGVwYXRoLCBvcy5wYXRoLmJhc2VuYW1lKHBibC5yZXBsYWNlKCcucGJsJywgJy5wYmQnKSkpCiAgICAgICAgICAgICAgICBpZiBwYmwgaW4gc2VsZi5iYXNlX3BibHMgZWxzZSBwYmwgZm9yIHBibCBpbiBzZWxmLmxpYnNdCiAgICAgICAgICAgIHNlbGYuZmluYWxsaWJzID0gbmV3X2xpYnMKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmZpbmFsbGlicyA9IHNlbGYubGlicwo=</text>
+        <text encoding="base64">ZGVmIGV4ZWNkZXBsb3lmaWxlcyhzb3VyY2Vmb2xkZXI9Jy4vJywgZmlsZXM9Tm9uZSwgc2tpcF9zb3VyY2VzX3ppcD0ibm8iLCBleGl0YXBwPVRydWUpOgogICAgdGFyZ2V0cGF0aCA9IG9zLnBhdGguYWJzcGF0aCgnLi9FeGVPdXRwdXQnKQogICAgbG9nZ2VyLmluZm8oJ3RhcmdldHBhdGg6ICVzJywgdGFyZ2V0cGF0aCkKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyh0YXJnZXRwYXRoKToKICAgICAgICBvcy5tYWtlZGlycyh0YXJnZXRwYXRoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmZpbmFsbGlicyA9IG5ld19saWJzCg==</text>
