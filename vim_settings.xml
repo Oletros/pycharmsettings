@@ -131,11 +131,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1512388949756">
+      <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1512395276097">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="204" column="35" />
-        <mark key="." line="70" column="25" />
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
         <mark key="^" line="70" column="25" />
       </file>
       <file name="/PythonRegExp Fragment (powerbuilder_Build.py:378).regexp" timestamp="1512394160444">
