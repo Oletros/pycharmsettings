@@ -179,12 +179,12 @@
         <mark key="^" line="47" column="11" />
         <mark key="." line="47" column="11" />
       </file>
-      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1512387857716">
-        <mark key="'" line="150" column="15" />
+      <file name="C:/Development/trc_build_script/src/powerbuilder_Build.py" timestamp="1512388972908">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="149" column="15" />
-        <mark key="^" line="149" column="15" />
+        <mark key="]" line="187" column="14" />
+        <mark key="." line="119" column="61" />
+        <mark key="^" line="119" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/makedb.py" timestamp="1491369310675">
         <mark key="'" line="12" column="0" />
@@ -270,10 +270,12 @@
         <mark key="^" line="87" column="42" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1512387903165">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="C:/Development/trc_build_script/src/Application.py" timestamp="1512388949756">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="204" column="35" />
+        <mark key="." line="70" column="25" />
+        <mark key="^" line="70" column="25" />
       </file>
       <file name="C:/Development/trc_build_script/src/Application/Application.py" timestamp="1511347451660">
         <mark key="'" line="105" column="0" />
@@ -284,9 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="340" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="218" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="318" column="49" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="156" column="29" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="64" column="20" filename="C:/Development/trc_build_script/src/Application/Application.py" />
       <jump line="143" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
@@ -329,7 +328,6 @@
       <jump line="68" column="0" filename="C:/Development/trc_build_script/src/Application.py" />
       <jump line="125" column="38" filename="C:/Development/trc_build_script/src/Utils.py" />
       <jump line="116" column="0" filename="C:/Development/trc_build_script/src/Application.py" />
-      <jump line="0" column="0" filename="C:/Development/trc_build_script/src/Application.py" />
       <jump line="251" column="3" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="97" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="76" column="16" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
@@ -381,25 +379,29 @@
       <jump line="162" column="69" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="157" column="18" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="4" column="8" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="0" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="28" column="0" filename="C:/Development/trc_build_script/src/Application.py" />
       <jump line="150" column="15" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="196" column="31" filename="C:/Development/trc_build_script/src/Application.py" />
+      <jump line="92" column="22" filename="C:/Development/trc_build_script/src/Application.py" />
+      <jump line="0" column="0" filename="C:/Development/trc_build_script/src/Application.py" />
+      <jump line="119" column="61" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
+      <jump line="0" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjb2Rpbmc9dXRmLTgKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBsb2dnaW5nCmltcG9ydCBvcwppbXBvcnQgcmUKaW1wb3J0IHNodXRpbAppbXBvcnQgc3lzCgppbXBvcnQgVXRpbHMKZnJvbSBBcHBsaWNhdGlvbiBpbXBvcnQgQXBwbGljYXRpb24KZnJvbSBwb3dlcmdlbiBpbXBvcnQgZXhlY3Bvd2VyZ2VuCgoKZGVmIG5vcm1hbGl6ZXZlcnNpb24ocmF3dmVyc2lvbik6CiAgICAjIFRSQ19CdWlsZF9HZW5lcmF0aW9uX01haW4tRGFpbHlfMjEuMDAuMDBCdWlsZDE0MDgwNS4wMwogICAgIyAyIG51bWJlcnMsIGRvdCwgMiBudW1iZXJzLCBkb3QsIDIgbnVtYmVycywgbGl0ZXJhbCAiQnVpbGQiLCA2IG51bWJlcnMKICAgIHZlcnNpb25yZWdleCA9IHJlLmNvbXBpbGUociIoXGR7Mn1cLlxkezJ9XC5cZHsyfSlCdWlsZChcZHs2fSkiKQogICAgcmVnZXhyZXN1bHQgPSB2ZXJzaW9ucmVnZXguc2VhcmNoKHJhd3ZlcnNpb24pCiAgICBpZiByZWdleHJlc3VsdDoKICAgICAgICBub3JtYWxpemVkdmVyc2lvbiA9ICJ7MH0gQnVpbGQgezF9Ii5mb3JtYXQocmVnZXhyZXN1bHQuZ3JvdXAoMSksIHJlZ2V4cmVzdWx0Lmdyb3VwKDIpKQogICAgZWxzZToKICAgICAgICB2ZXJzaW9ucmVnZXggPSByZS5jb21waWxlKHIiKFxkKykiKQogICAgICAgIHJlZ2V4cmVzdWx0ID0gdmVyc2lvbnJlZ2V4LnNlYXJjaChyYXd2ZXJzaW9uKQogICAgICAgIGlmIHJlZ2V4cmVzdWx0OgogICAgICAgICAgICBub3JtYWxpemVkdmVyc2lvbiA9ICIyMS5YWC5YWCBCdWlsZCA5OTEyMzEiCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdWZXJzaW9uIGNhbiBub3QgYmUgbm9ybWFsaXplZCcpCiAgICAgICAgICAgIHN5cy5leGl0KFV0aWxzLkJVSUxEVkVSU0lPTkVSUk9SKQogICAgcmV0dXJuIG5vcm1hbGl6ZWR2ZXJzaW9uCgoKZGVmIHNhdmV2ZXJzaW9uZmlsZShmaWxldmVyc2lvbik6CiAgICAjIHdyaXRlIHRoZSB2ZXJzaW9uIHRvIGEgZmlsZQogICAgdHJ5OgogICAgICAgIHdpdGggb3BlbignVmVyc2lvbk51bWJlcicsICd3JykgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShmaWxldmVyc2lvbikKICAgIGV4Y2VwdCBJT0Vycm9yOgogICAgICAgIGxvZ2dlci5lcnJvcignJXMgY2FuIG5vdCBiZSB3cml0dGVuJywgJ1ZlcnNpb24gbnVtYmVyJykKICAgICAgICBzeXMuZXhpdChVdGlscy5GSUxFQ0FOTk9UQkVXUklUVEVOKQoKCmRlZiBjb25maWd1cmVwYXJzZXIoKToKICAgIGNvbmZpZ3VyZWRwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcihkZXNjcmlwdGlvbj0nQnVpbGQgVFJDJykKICAgIGNvbmZpZ3VyZWRwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWJhc2UnLCAnLWInLCByZXF1aXJlZD1UcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nQmFzZSBwYXRoJykKICAgIGNvbmZpZ3VyZWRwYXJzZXIuYWRkX2FyZ3VtZW50KCctLXR5cGUnLCAnLXQnLCByZXF1aXJlZD1UcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hvaWNlcz1bJ2J1aWxkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdzbGltYnVpbGQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2NoZWNrJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSdidWlsZCBvciByZWdlbmVyYXRlJykKICAgIGNvbmZpZ3VyZWRwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWJ1aWxkX3ZlcnNpb24nLCAnLXYnLCByZXF1aXJlZD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9J0J1aWxkIHZlcnNpb24nKQogICAgY29uZmlndXJlZHBhcnNlci5hZGRfYXJndW1lbnQoJy0tc2tpcF9zb3VyY2VzX3ppcCcsICctcycsIHJlcXVpcmVkPVRydWUsIGNob2ljZXM9Wyd5ZXMnLCAnbm8nXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9J0luZGljYXRlcyB3aGV0aGVyIGNyZWF0ZSBhIHNvdXJjZXMgemlwJykKICAgIGNvbmZpZ3VyZWRwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWxhdGVzdF9idWlsZCcsICctbCcsIHJlcXVpcmVkPUZhbHNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nUGF0aCB0byB0aGUgbGF0ZXN0IGJ1aWxkLiBJdCBpcyB1c2VkIG9ubHkgZm9yIGluY3JlbWVudGFsIChzbGltKSBidWlsZCcpCiAgICBjb25maWd1cmVkcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1wYnZlcnNpb24nLCAnLXAnLCBkZWZhdWx0PSIxMjYiLCByZXF1aXJlZD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9J0luZGljYXRlcyB0aGUgdmVyc2lvbiBvZiBQQiB0byBjb21waWxlIGZvcicpCgogICAgcmV0dXJuIGNvbmZpZ3VyZWRwYXJzZXIKCgpkZWYgbm9ybWFsaXplYmFzZXBhdGgocGF0aCk6CiAgICBwYXRoID0gb3MucGF0aC5hYnNwYXRoKHBhdGgpCiAgICBpZiBwYXRoLmVuZHN3aXRoKCdBdXRvbWF0aW9uJyk6CiAgICAgICAgcGF0aCA9IHBhdGgucmVwbGFjZSgnQXV0b21hdGlvbicsICcnKQogICAgbG9nZ2VyLmluZm8oJ2Jhc2VwYXRoOiAlcycsIHBhdGgpCiAgICBVdGlscy5jaGVja3BhdGgocGF0aCkKICAgIHJldHVybiBwYXRoCgoKZGVmIGNyZWF0ZXppcHBhdGgocGF0aCk6CiAgICB0YXJnZXRwYXRoID0gb3MucGF0aC5qb2luKHBhdGgsICdBdXRvbWF0aW9uJywgJ1ppcE91dHB1dCcpCiAgICB0YXJnZXRwYXRoID0gb3MucGF0aC5hYnNwYXRoKHRhcmdldHBhdGgpCiAgICBsb2dnZXIuaW5mbygndGFyZ2V0cGF0aDogJXMnLCB0YXJnZXRwYXRoKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKHRhcmdldHBhdGgpOgogICAgICAgIG9zLm1ha2VkaXJzKHRhcmdldHBhdGgpCiAgICByZXR1cm4gdGFyZ2V0cGF0aAoKCmRlZiBjcmVhdGVwYnVuaXRwYXRoKHBhdGgpOgogICAgcGF0aCA9IG9zLnBhdGguam9pbihwYXRoLCAnLi5cXFVuaXRUZXN0XFxUUkNfVGVzdFJ1bm5lclxccGFja2FnZXNcXFBCVW5pdCcpCiAgICBwYXRoID0gb3MucGF0aC5hYnNwYXRoKHBhdGgpCiAgICBsb2dnZXIuaW5mbygncGJ1bml0cGF0aDogJXMnLCBwYXRoKQogICAgVXRpbHMuY2hlY2twYXRoKHBhdGgpCiAgICByZXR1cm4gcGF0aAoKCmRlZiBjcmVhdGVleHRlcGF0aChwYXRoKToKICAgIHBhdGggPSBvcy5wYXRoLmpvaW4ocGF0aCwgJ0F1dG9tYXRpb24nLCAnRXhlUGF0aCcpCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMocGF0aCk6CiAgICAgICAgb3MubWFrZWRpcnMocGF0aCkKICAgIHJldHVybiBwYXRoCgoKZGVmIGNvbmZpZ3VyZWxvZ2dlcihhcHApOgogICAgbG9nZ2luZy5iYXNpY0NvbmZpZyhmb3JtYXQ9J1slKGFzY3RpbWUpc10gLSAlKGxldmVsbmFtZSlzIC0gJShtZXNzYWdlKXMnLAogICAgICAgICAgICAgICAgICAgICAgICBkYXRlZm10PSclWS0lbS0lZCAlSDolTTolUycsCiAgICAgICAgICAgICAgICAgICAgICAgIGZpbGVuYW1lPSdidWlsZC5sb2cnLAogICAgICAgICAgICAgICAgICAgICAgICBmaWxlbW9kZT0ndycsCiAgICAgICAgICAgICAgICAgICAgICAgIGxldmVsPWxvZ2dpbmcuSU5GTykKICAgIHJldHVybiBsb2dnaW5nLmdldExvZ2dlcihhcHApCgoKZGVmIGNvcHlwYnVuaXRmaWxlcygpOgogICAgcHJveHlkbGxwYXRoID0gb3MucGF0aC5qb2luKGJhc2VwYXRoLCAndHJjJykKICAgIHByb3h5ZGxsZmlsZXMgPSBbZiBmb3IgZiBpbiBvcy5saXN0ZGlyKHByb3h5ZGxscGF0aCkgaWYgZi5zdGFydHN3aXRoKCd3c18nKSBhbmQgZi5lbmRzd2l0aCgnLmRsbCcpXQogICAgbG9nZ2VyLmluZm8oJ0NvcHlpbmcgcHJveHkgZGxsIGZpbGVzJykKICAgIFV0aWxzLmNvcHlmaWxlcyhwcm94eWRsbHBhdGgsIGV4ZXBhdGgsIHByb3h5ZGxsZmlsZXMpCiAgICBVdGlscy5jb3B5ZmlsZXMob3MucGF0aC5qb2luKGJhc2VwYXRoLCAnZHcyeGxzJyksIGV4ZXBhdGgsIFsncGIyeGxzLmRsbCddKQogICAgcGJ1bml0ZmlsZXMgPSBbb3MucGF0aC5zcGxpdChwYnVuaXRmaWxlKVsxXSBmb3IgcGJ1bml0ZmlsZSBpbiBwYnVuaXRhcHAucGJkZmlsZXNdCiAgICBVdGlscy5yZW1vdmVyZWFkb25seWF0dHJpYnV0ZShleGVwYXRoKQogICAgbG9nZ2VyLmluZm8oJ0NvcHlpbmcgZmlsZXMgZnJvbSAlcyB0byAlcycsIGV4ZXBhdGgsIHBidW5pdHBhdGgpCiAgICBVdGlscy5yZW1vdmVyZWFkb25seWF0dHJpYnV0ZShwYnVuaXRwYXRoKQogICAgVXRpbHMuY29weWZpbGVzKGV4ZXBhdGgsIHBidW5pdHBhdGgsIHBidW5pdGZpbGVzKQoKCmRlZiB6aXBmaWxlcyhza2lwc291cmNlcz0neWVzJyk6CiAgICBsb2dnZXIuaW5mbygnQ29tcHJlc3NpbmcgZXhlIGZpbGVzJykKICAgIGZpbGVzID0gVXRpbHMudW5pb24oW3RyY2FwcC56aXBmaWxlcywgdHJjYmF0Y2hhcHAuemlwZmlsZXNdKQogICAgemZpbGUgPSBvcy5wYXRoLmpvaW4oemlwb3V0cHV0LCAnVFJDX0VYRS56aXAnKQogICAgVXRpbHMuemlwZmlsZXMoZmlsZXMsIGV4ZXBhdGgsIHpmaWxlKQogICAgaWYgc2tpcHNvdXJjZXMgPT0gJ25vJzoKICAgICAgICBsb2dnZXIuaW5mbygnQ29tcHJlc3Npbmcgc291cmNlIGZpbGVzJykKICAgICAgICBmaWxlcyA9IFV0aWxzLnVuaW9uKFt0cmNhcHAubGlic3dpdGhmdWxscGF0aCwgdHJjYmF0Y2hhcHAubGlic3dpdGhmdWxscGF0aF0pCiAgICAgICAgZmlsZXMgPSBbcGJsIGZvciBwYmwgaW4gZmlsZXMgaWYgcGJsLmVuZHN3aXRoKCdwYmwnKV0KICAgICAgICB6ZmlsZSA9IG9zLnBhdGguam9pbih6aXBvdXRwdXQsICdUUkNfU09VUkNFUy56aXAnKQogICAgICAgIFV0aWxzLnppcGZpbGVzKGZpbGVzLCBiYXNlcGF0aCwgemZpbGUpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGxvZ2dlciA9IGNvbmZpZ3VyZWxvZ2dlcihfX25hbWVfXykKCiAgICBsb2dnZXIuaW5mbygnQnVpbGQgc2NyaXB0IHN0YXJ0ZWQnKQogICAgcGFyc2VyID0gY29uZmlndXJlcGFyc2VyKCkKICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCiAgICBhcmd1bWVudHMgPSAnLCAnLmpvaW4oc3lzLmFyZ3ZbMTpdKQogICAgbG9nZ2VyLmluZm8oJ2FyZ3VtZW50czogJXMnLCBhcmd1bWVudHMpCgogICAgYmFzZXBhdGggPSBub3JtYWxpemViYXNlcGF0aChhcmdzLmJhc2UpCiAgICBwYnVuaXRwYXRoID0gY3JlYXRlcGJ1bml0cGF0aChiYXNlcGF0aCkKICAgIGV4ZXBhdGggPSBjcmVhdGVleHRlcGF0aChiYXNlcGF0aCkKICAgIHppcG91dHB1dCA9IGNyZWF0ZXppcHBhdGgoYmFzZXBhdGgpCgogICAgdmVyc2lvbiA9IGFyZ3MuYnVpbGRfdmVyc2lvbgogICAgc2F2ZXZlcnNpb25maWxlKHZlcnNpb24pCgogICAgdmVyc2lvbiA9IG5vcm1hbGl6ZXZlcnNpb24odmVyc2lvbikKICAgIG1vZGlmeXZlcnNpb24gPSAoYXJncy50eXBlIGluIFsnYnVpbGQnLCAnc2xpbWJ1aWxkJ10pCiAgICBpbmNyZWdlbiA9IChhcmdzLnR5cGUgPT0gJ2NoZWNrJykKICAgIHVzZWhlYWRlciA9IFRydWUKCiAgICBpZiBhcmdzLnR5cGUgaW4gWydjaGVjaycsICdzbGltYnVpbGQnXToKICAgICAgICBsb2dnZXIuaW5mbygnVW56aXBwaW5nIGV4ZSBmaWxlcyBmcm9tIGxhdGVzdCBidWlsZCcpCiAgICAgICAgc2h1dGlsLnJtdHJlZShleGVwYXRoKQogICAgICAgIGV4ZV9mdWxsX3BhdGggPSBvcy5wYXRoLmpvaW4oYXJncy5sYXRlc3RfYnVpbGQsICdUUkNfRVhFLnppcCcpCiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMoZXhlX2Z1bGxfcGF0aCk6CiAgICAgICAgICAgIFV0aWxzLnVuemlwZGlyKGV4ZV9mdWxsX3BhdGgsIGV4ZXBhdGgpCgogICAgICAgIGxvZ2dlci5pbmZvKCdVbnppcHBpbmcgc291cmNlIGZpbGVzIGZyb20gbGF0ZXN0IGJ1aWxkJykKICAgICAgICBzb3VyY2VzX2Z1bGxfcGF0aCA9IG9zLnBhdGguam9pbihhcmdzLmxhdGVzdF9idWlsZCwgJ1RSQ19TT1VSQ0VTLnppcCcpCiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMoc291cmNlc19mdWxsX3BhdGgpOgogICAgICAgICAgICBVdGlscy51bnppcGRpcihzb3VyY2VzX2Z1bGxfcGF0aCwgYmFzZXBhdGgsIGV4dGVuc2lvbj0ncGJsJykKCiAgICB0cmNhcHAgPSBBcHBsaWNhdGlvbihhcHBuYW1lPSd0cmMnLCBiYXNlcGF0aD1iYXNlcGF0aCwgdXNlaGVhZGVyPXVzZWhlYWRlciwgaW5jcmVnZW49aW5jcmVnZW4sCiAgICAgICAgICAgICAgICAgICAgICAgICBiYXNlcGJscz1Ob25lLCB2ZXJzaW9uPXZlcnNpb24sIGV4ZXBhdGg9ZXhlcGF0aCwgbW9kaWZ5dmVyc2lvbj1tb2RpZnl2ZXJzaW9uKQogICAgdHJjYmF0Y2hhcHAgPSBBcHBsaWNhdGlvbihhcHBuYW1lPSd0cmNfYmF0Y2gnLCBiYXNlcGF0aD1iYXNlcGF0aCwgdXNlaGVhZGVyPXVzZWhlYWRlciwgaW5jcmVnZW49aW5jcmVnZW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhc2VwYmxzPXRyY2FwcC5saWJzLCB2ZXJzaW9uPXZlcnNpb24sIGV4ZXBhdGg9ZXhlcGF0aCwgbW9kaWZ5dmVyc2lvbj1tb2RpZnl2ZXJzaW9uKQogICAgcGJ1bml0YXBwID0gQXBwbGljYXRpb24oYXBwbmFtZT0ncGJ1bml0JywgYmFzZXBhdGg9YmFzZXBhdGgsIHVzZWhlYWRlcj11c2VoZWFkZXIsIGluY3JlZ2VuPWluY3JlZ2VuLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFzZXBibHM9dHJjYXBwLmxpYnMsIHZlcnNpb249dmVyc2lvbiwgZXhlcGF0aD1leGVwYXRoLCBtb2RpZnl2ZXJzaW9uPW1vZGlmeXZlcnNpb24pCgogICAgbG9nZ2VyLmluZm8oJ1NhdmluZyBUUkMuZ2VuIGZpbGUnKQogICAgdHJjYXBwLnNhdmVwb3dlcmdlbmRhdGEoKQogICAgdHJjYmF0Y2hhcHAuc2F2ZXBvd2VyZ2VuZGF0YSgpCiAgICBwYnVuaXRhcHAuc2F2ZXBvd2VyZ2VuZGF0YSgpCgogICAgZXhlY3Bvd2VyZ2VuKGV4ZWN0eXBlPSdjb25maWd1cmUnLCBleGl0b25lcnJvcj1GYWxzZSkKICAgIHRyY2FwcC5idWlsZChleGVjdHlwZT1hcmdzLnR5cGUpCiAgICB0cmNiYXRjaGFwcC5idWlsZChleGVjdHlwZT1hcmdzLnR5cGUpCiAgICBwYnVuaXRhcHAuYnVpbGQoZXhlY3R5cGU9YXJncy50eXBlLCBleGl0b25lcnJvcj1GYWxzZSkKCiAgICBpZiBhcmdzLnR5cGUgaW4gWydidWlsZCcsICdzbGltYnVpbGQnXToKICAgICAgICBjb3B5cGJ1bml0ZmlsZXMoKQogICAgICAgIHppcGZpbGVzKGFyZ3Muc2tpcF9zb3VyY2VzX3ppcCkKCiAgICBsb2dnZXIuaW5mbygnQnVpbGQgc2NyaXB0IGVuZGVkJykKICAgIGxvZ2dpbmcuc2h1dGRvd24oKQogICAgc3lzLmV4aXQoMCkK</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>def unzipdir(zfile, path, extension=None):</text>
+        <text>pbdfiles</text>
       </register>
       <register name="/" type="4">
         <text>unzi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBjb2Rpbmc9dXRmLTgK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRwYmRzKHNlbGYpOgogICAgICAgIHNlbGYucGJkZmlsZXMgPSBbCiAgICAgICAgICAgIG9zLnBhdGguam9pbihzZWxmLmV4ZXBhdGgsIG9zLnBhdGguYmFzZW5hbWUocGJsLnJlcGxhY2UoJy5wYmwnLCAnLnBiZCcpKSkgZm9yIHBibCBpbiBzZWxmLmxpYnNdCiAgICAgICAgc2VsZi5wYmRmaWxlcy5hcHBlbmQoc2VsZi5leGVhcHApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
