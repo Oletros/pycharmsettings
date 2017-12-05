@@ -239,8 +239,11 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="/code.py" timestamp="1511344174228">
+      <file name="/code.py" timestamp="1512475303172">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/makedb.py" timestamp="1491369310675">
         <mark key="'" line="12" column="0" />
