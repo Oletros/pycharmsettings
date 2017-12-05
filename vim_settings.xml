@@ -138,11 +138,11 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="70" column="25" />
       </file>
-      <file name="C:/Development/checkenable/src/Application.py" timestamp="1512484397727">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="12" />
-        <mark key="^" line="15" column="61" />
-        <mark key="." line="16" column="18" />
+      <file name="C:/Development/checkenable/src/Application.py" timestamp="1512485800970">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="42" />
+        <mark key="^" line="19" column="42" />
+        <mark key="." line="19" column="42" />
       </file>
       <file name="/PythonRegExp Fragment (powerbuilder_Build.py:378).regexp" timestamp="1512394160444">
         <mark key="[" line="0" column="0" />
@@ -399,19 +399,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgc2hlZXQuY2VsbChyb3c9cm93LCBjb2x1bW49NSkudmFsdWUgPT0gdSI8R0xPQkFMPiI=</text>
+        <text>sheet.cell(row=row, column=5).value])</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYgc2hlZXQuY2VsbChyb3c9cm93LCBjb2x1bW49NSkudmFsdWUgPT0gdSI8R0xPQkFMPiI=</text>
+        <text>sheet.cell(row=row, column=5).value])</text>
       </register>
       <register name="/" type="4">
         <text>unzi</text>
       </register>
       <register name="0" type="4">
-        <text>,sheet.cell(row=row,column=3)</text>
+        <text>sheet.cell(row=row, column=2).value</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEsIDEwKToKICAgICAgICBwcmludChpLCBzaGVldC5jZWxsKHJvdz0xLCBjb2x1bW49aSkudmFsdWUpCgogICAgcHJpbnQoc2hlZXQubWF4X3Jvdywgc2hlZXQubWF4X2NvbHVtbikK</text>
