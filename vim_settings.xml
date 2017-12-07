@@ -138,11 +138,11 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="70" column="25" />
       </file>
-      <file name="C:/Development/checkenable/src/Application.py" timestamp="1512485800970">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="42" />
-        <mark key="^" line="19" column="42" />
-        <mark key="." line="19" column="42" />
+      <file name="C:/Development/checkenable/src/Application.py" timestamp="1512646392669">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="/PythonRegExp Fragment (powerbuilder_Build.py:378).regexp" timestamp="1512394160444">
         <mark key="[" line="0" column="0" />
@@ -154,7 +154,7 @@
         <mark key="^" line="40" column="66" />
         <mark key="." line="40" column="66" />
       </file>
-      <file name="/Python Console" timestamp="1511451464238">
+      <file name="/Python Console" timestamp="1512646395277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="5" />
@@ -399,13 +399,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sheet.cell(row=row, column=5).value])</text>
+        <text>newtranslations</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>sheet.cell(row=row, column=5).value])</text>
+        <text>newtranslations</text>
       </register>
       <register name="/" type="4">
         <text>unzi</text>
