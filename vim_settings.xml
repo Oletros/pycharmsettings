@@ -250,11 +250,11 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/beets.yml" timestamp="1512735515276">
-        <mark key="[" line="30" column="43" />
-        <mark key="]" line="30" column="47" />
-        <mark key="." line="30" column="47" />
-        <mark key="^" line="30" column="47" />
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/beets.yml" timestamp="1512738034730">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
       </file>
       <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/trc_build_script_testing.py" timestamp="1496818368628">
         <mark key="'" line="90" column="9" />
@@ -394,13 +394,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>downloads</text>
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>downloads</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>modif</text>
