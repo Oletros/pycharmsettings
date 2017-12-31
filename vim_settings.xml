@@ -212,6 +212,12 @@
         <mark key="." line="39" column="4" />
         <mark key="^" line="39" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/files/homeassistant/configuration.yaml" timestamp="1514713809332">
+        <mark key="'" line="136" column="28" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter02/b.py" timestamp="1490162958901">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="1" column="20" />
@@ -301,7 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="11" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="118" column="40" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="145" column="51" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="158" column="25" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
@@ -401,10 +406,11 @@
       <jump line="84" column="4" filename="C:/Development/trc_build_script/src/powergen.py" />
       <jump line="155" column="71" filename="C:/Development/trc_build_script/src/powergen.py" />
       <jump line="591" column="0" filename="C:/Development/trc_build_script/.gitignore" />
+      <jump line="145" column="28" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/files/homeassistant/configuration.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbnY6CiAgICAgICAgICBQR0lEOiAxMDAwCiAgICAgICAgICBQVUlEOiAxMDAwCg==</text>
+        <text encoding="base64">ICAtIHBsYXRmb3JtOiBvd250cmFja3MKICAgIG1heF9ncHNfYWNjdXJhY3k6IDIwMAogIC0gcGxhdGZvcm06IGJsdWV0b290aF90cmFja2VyCg==</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
@@ -419,31 +425,31 @@
         <text encoding="base64">ICAgICAgICBwdWJsaXNoZWRfcG9ydHM6CiAgICAgICAgICAtIDMyNDAwOjMyNDAwL3RjcAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbnY6CiAgICAgICAgICBQR0lEOiAxMDAwCiAgICAgICAgICBQVUlEOiAxMDAwCg==</text>
+        <text encoding="base64">ICAtIHBsYXRmb3JtOiBvd250cmFja3MKICAgIG1heF9ncHNfYWNjdXJhY3k6IDIwMAogIC0gcGxhdGZvcm06IGJsdWV0b290aF90cmFja2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gMzI0MDA6MzI0MDAvdGNwCg==</text>
+        <text encoding="base64">bXF0dDoKICBicm9rZXI6IDE3Mi4xNy4wLjEKICBjbGllbnRfaWQ6IGhhc3MKICB1c2VybmFtZTogaG9tZWFzc2lzdGFudAogIHBhc3N3b3JkOiBMZWZmZTAxQmVyZ2FtbwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gL2hvbWUvb2xldHJvcy9NdXNpYy9UZW1wOi9kb3dubG9hZHM6cncK</text>
+        <text encoding="base64">ICAgICAgICBlbnY6CiAgICAgICAgICBQR0lEOiAxMDAwCiAgICAgICAgICBQVUlEOiAxMDAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gL2hvbWUvb2xldHJvcy9NdXNpYy9Qcm9jZXNzZWQ6L211c2ljOnJ3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gMzI0MDA6MzI0MDAvdGNwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogQ29weSBjb25maWcgZmlsZQogICAgICBjb3B5OgogICAgICAgIHNyYzogIi4vZmlsZXMvYmVldHMvY29uZmlnLnlhbWwiCiAgICAgICAgZGVzdDogIi9ob21lL29sZXRyb3MvRGF0YS9Qcm9ncmFtcy9iZWV0cyIKICAgICAgICBvd25lcjogb2xldHJvcwogICAgICAgIGdyb3VwOiBvbGV0cm9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gL2hvbWUvb2xldHJvcy9NdXNpYy9UZW1wOi9kb3dubG9hZHM6cncK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gL21lZGlhL2RhZGVzL1ZpZGVvL01vdmllczovb3V0cHV0OnJ3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gL2hvbWUvb2xldHJvcy9NdXNpYy9Qcm9jZXNzZWQ6L211c2ljOnJ3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gL2V0Yy9sb2NhbHRpbWU6L2V0Yy9sb2NhbHRpbWU6cm8K</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogQ29weSBjb25maWcgZmlsZQogICAgICBjb3B5OgogICAgICAgIHNyYzogIi4vZmlsZXMvYmVldHMvY29uZmlnLnlhbWwiCiAgICAgICAgZGVzdDogIi9ob21lL29sZXRyb3MvRGF0YS9Qcm9ncmFtcy9iZWV0cyIKICAgICAgICBvd25lcjogb2xldHJvcwogICAgICAgIGdyb3VwOiBvbGV0cm9zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFVNQVNLOiAiMDAwMiIK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gL21lZGlhL2RhZGVzL1ZpZGVvL01vdmllczovb3V0cHV0OnJ3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyY2JhdGNoYXBwLmJ1aWxkKGV4ZWN0eXBlPSdjaGVjaycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gL2V0Yy9sb2NhbHRpbWU6L2V0Yy9sb2NhbHRpbWU6cm8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
