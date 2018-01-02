@@ -132,6 +132,12 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Development/Ansible/ansible_container_lab/Vagrantfile" timestamp="1514883688408">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/__init__.py" timestamp="1490590999080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -409,20 +415,20 @@
       <jump line="145" column="28" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/files/homeassistant/configuration.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtIHBsYXRmb3JtOiBvd250cmFja3MKICAgIG1heF9ncHNfYWNjdXJhY3k6IDIwMAogIC0gcGxhdGZvcm06IGJsdWV0b290aF90cmFja2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text>ceph/ubuntu-xenial</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>32400</text>
+        <text>ceph/ubuntu-xenial</text>
       </register>
       <register name="/" type="4">
         <text>modif</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaXNoZWRfcG9ydHM6CiAgICAgICAgICAtIDMyNDAwOjMyNDAwL3RjcAo=</text>
+        <text encoding="base64">ICAgIG5vZGUwMS52bS5ib3ggPSAidWJ1bnR1L3hlbmlhbDY0Igo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAtIHBsYXRmb3JtOiBvd250cmFja3MKICAgIG1heF9ncHNfYWNjdXJhY3k6IDIwMAogIC0gcGxhdGZvcm06IGJsdWV0b290aF90cmFja2VyCg==</text>
@@ -490,11 +496,11 @@
         <entry>%s#/home/oletros/Documents#/var/data/Flexget/rss#gci</entry>
         <entry>%s#/home/oletros/.flexget/rss#/var/data/Flexget/rss#gci</entry>
         <entry>Q</entry>
-        <entry>W</entry>
         <entry>wq</entry>
         <entry>ww</entry>
         <entry>set ic</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
