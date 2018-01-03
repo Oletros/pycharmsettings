@@ -61,6 +61,7 @@
       <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/entrypoint.sh" timestamp="1514976757656">
         <mark key="'" line="26" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/jriver/entrypoint.sh" timestamp="1514982498872" />
       <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/.gitignore" timestamp="1514971042666">
         <mark key="'" line="328" column="0" />
         <mark key="[" line="403" column="0" />
@@ -149,11 +150,11 @@
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/jriver/supervisord.conf" timestamp="1514981553841">
-        <mark key="[" line="48" column="24" />
-        <mark key="]" line="48" column="27" />
-        <mark key="." line="48" column="27" />
-        <mark key="^" line="48" column="27" />
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/jriver/supervisord.conf" timestamp="1514983064734">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/__init__.py" timestamp="1490590999080">
         <mark key="[" line="0" column="0" />
@@ -228,12 +229,12 @@
       <file name="/PythonRegExp Fragment (powerbuilder_Build.py:4181).regexp" timestamp="1511173220651">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/jriver/Dockerfile" timestamp="1514981392438">
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/jriver/Dockerfile" timestamp="1514982755386">
         <mark key="'" line="47" column="9" />
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="26" column="9" />
-        <mark key="." line="26" column="9" />
-        <mark key="^" line="26" column="9" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="51" column="8" />
+        <mark key="." line="51" column="8" />
+        <mark key="^" line="51" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/classtools.py" timestamp="1491368982911">
         <mark key="'" line="39" column="0" />
@@ -327,10 +328,10 @@
         <mark key="^" line="118" column="54" />
         <mark key="." line="118" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/mc23.yml" timestamp="1514981667468">
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/mc23.yml" timestamp="1514983070345">
         <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" timestamp="1492525591298">
@@ -457,13 +458,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>novnc</text>
+        <text>jriver</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>novnc</text>
+        <text>jriver</text>
       </register>
       <register name="/" type="4">
         <text>Rider</text>
@@ -472,22 +473,22 @@
         <text encoding="base64">ICAgICAgICAgIC0gNTkwMDo1OTAwCiAgICAgICAgICAtIDUyMTAwOjUyMTAwCiAgICAgICAgICAtIDUyMTAxOjUyMTAxCiAgICAgICAgICAtIDUyMTk5OjUyMTk5CiAgICAgICAgICAtIDE5MDA6MTkwMC91ZHAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29tbWFuZD1Yb3JnIDoxIC1ub3Jlc2V0ICtleHRlbnNpb24gR0xYICtleHRlbnNpb24gUkFORFIgK2V4dGVuc2lvbiBSRU5ERVIKcHJpb3JpdHk9MTAK</text>
+        <text encoding="base64">I2NvbW1hbmQ9eDExdm5jIC1uY2FjaGUgMTAgLWRpc3BsYXkgOjEgLXhrYiAtcmZiYXV0aCAvaG9tZS9yb290Ly52bmMvcGFzc3dkCiNjb21tYW5kPXgxMXZuYyAtZGlzcGxheSA6MSAtbGlzdGVuIGxvY2FsaG9zdCAteGtiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gMjIwMDA6MjIwMDAKICAgICAgICAgIC0gODM4NDo4Mzg0CiAgICAgICAgICAtIDIxMDI3OjIxMDI3L3VkcAo=</text>
+        <text encoding="base64">Y29tbWFuZD14MTF2bmMgLWRpc3BsYXkgOjEgLWdlb21ldHJ5IDE5MjB4MTA4MCAtdXNlcHcgLWZvcmV2ZXIKcHJpb3JpdHk9MjAKYXV0b3N0YXJ0PXRydWUKYXV0b3Jlc3RhcnQ9dHJ1ZQpzdG9wc2lnbmFsPVFVSVQKc3Rkb3V0X2xvZ2ZpbGU9L3Zhci9sb2cveDExdm5jLmxvZwpzdGRlcnJfbG9nZmlsZT0vdmFyL2xvZy94MTF2bmMuZXJyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFBVSUQ6IDEwMDAK</text>
+        <text encoding="base64">Y29tbWFuZD1Yb3JnIDoxIC1ub3Jlc2V0ICtleHRlbnNpb24gR0xYICtleHRlbnNpb24gUkFORFIgK2V4dGVuc2lvbiBSRU5ERVIKcHJpb3JpdHk9MTAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gMjIwMDA6MjIwMDAKICAgICAgICAgIC0gODM4NDo4Mzg0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gMjIwMDA6MjIwMDAKICAgICAgICAgIC0gODM4NDo4Mzg0CiAgICAgICAgICAtIDIxMDI3OjIxMDI3L3VkcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFBVSUQ6IDEwMDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gMjIwMDA6MjIwMDAKICAgICAgICAgIC0gODM4NDo4Mzg0Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -541,8 +542,8 @@
         <entry>ww</entry>
         <entry>set ic</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
