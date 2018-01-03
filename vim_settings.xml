@@ -149,6 +149,12 @@
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/jriver/supervisord.conf" timestamp="1514980217124">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/__init__.py" timestamp="1490590999080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -321,7 +327,7 @@
         <mark key="^" line="118" column="54" />
         <mark key="." line="118" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/mc23.yml" timestamp="1514979019206">
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/mc23.yml" timestamp="1514980234276">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="31" />
         <mark key="." line="10" column="31" />
@@ -451,13 +457,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stretch</text>
+        <text>%(ENV_MONITOR)s</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>stretch</text>
+        <text>%(ENV_MONITOR)s</text>
       </register>
       <register name="/" type="4">
         <text>Rider</text>
