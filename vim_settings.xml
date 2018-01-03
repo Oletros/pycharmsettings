@@ -58,6 +58,9 @@
         <mark key="^" line="104" column="27" />
         <mark key="." line="104" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/entrypoint.sh" timestamp="1514976757656">
+        <mark key="'" line="26" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/.gitignore" timestamp="1514971042666">
         <mark key="'" line="328" column="0" />
         <mark key="[" line="403" column="0" />
@@ -133,16 +136,18 @@
         <mark key="^" line="40" column="56" />
         <mark key="." line="40" column="56" />
       </file>
-      <file name="C:/Development/trc_build_script/src/Structure.md" timestamp="1511425058690">
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/Development/Ansible/ansible_container_lab/Vagrantfile" timestamp="1514885862129">
         <mark key="[" line="89" column="23" />
         <mark key="]" line="89" column="29" />
         <mark key="." line="89" column="29" />
         <mark key="^" line="89" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/Dockerfile" timestamp="1514976715590">
+        <mark key="'" line="38" column="24" />
+        <mark key="[" line="38" column="15" />
+        <mark key="]" line="38" column="24" />
+        <mark key="." line="38" column="24" />
+        <mark key="^" line="38" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/__init__.py" timestamp="1490590999080">
         <mark key="[" line="0" column="0" />
@@ -217,6 +222,13 @@
       <file name="/PythonRegExp Fragment (powerbuilder_Build.py:4181).regexp" timestamp="1511173220651">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/jriver/Dockerfile" timestamp="1514978692480">
+        <mark key="'" line="45" column="9" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/classtools.py" timestamp="1491368982911">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="39" column="0" />
@@ -243,13 +255,19 @@
         <mark key="^" line="413" column="7" />
         <mark key="." line="413" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/syncthing.yml" timestamp="1514978186375">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/homeassistant.yml" timestamp="1514711792380">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="10" />
         <mark key="." line="28" column="10" />
         <mark key="^" line="27" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511722013485">
+      <file name="/Dummy.txt" timestamp="1514971580116">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1511344174228">
@@ -303,6 +321,12 @@
         <mark key="^" line="118" column="54" />
         <mark key="." line="118" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/mc23.yml" timestamp="1514979019206">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/Development/Python/PDFPrint/src/scan_encodings.py" timestamp="1492525591298">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="19" column="19" />
@@ -317,13 +341,13 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="124" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/supervisord.conf" timestamp="1514976807134">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="403" column="45" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="196" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="28" column="71" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="37" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="0" column="0" filename="C:/Development/trc_build_script/.gitignore" />
       <jump line="340" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="218" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="318" column="49" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
@@ -419,49 +443,54 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/.gitignore" />
       <jump line="37" column="21" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/.gitignore" />
       <jump line="328" column="0" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/.gitignore" />
+      <jump line="17" column="35" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/Dockerfile" />
+      <jump line="53" column="14" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/Dockerfile" />
+      <jump line="38" column="24" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/Dockerfile" />
+      <jump line="26" column="9" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/entrypoint.sh" />
+      <jump line="45" column="9" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/jriver/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+      <register name="&quot;" type="4">
+        <text>stretch</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ubuntu</text>
+        <text>stretch</text>
       </register>
       <register name="/" type="4">
         <text>Rider</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5vZGUwMS52bS5ib3ggPSAidWJ1bnR1L3hlbmlhbDY0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gNTkwMDo1OTAwCiAgICAgICAgICAtIDUyMTAwOjUyMTAwCiAgICAgICAgICAtIDUyMTAxOjUyMTAxCiAgICAgICAgICAtIDUyMTk5OjUyMTk5CiAgICAgICAgICAtIDE5MDA6MTkwMC91ZHAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gMjIwMDA6MjIwMDAKICAgICAgICAgIC0gODM4NDo4Mzg0CiAgICAgICAgICAtIDIxMDI3OjIxMDI3L3VkcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFkZHVzZXIgLS1kaXNhYmxlZC1wYXNzd29yZCB1YnVudHUKICAgIHBhc3N3ZCAtZCB1YnVudHUK</text>
+        <text encoding="base64">ICAgICAgICAgIFBVSUQ6IDEwMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIHBsYXRmb3JtOiBvd250cmFja3MKICAgIG1heF9ncHNfYWNjdXJhY3k6IDIwMAogIC0gcGxhdGZvcm06IGJsdWV0b290aF90cmFja2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gMjIwMDA6MjIwMDAKICAgICAgICAgIC0gODM4NDo4Mzg0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bXF0dDoKICBicm9rZXI6IDE3Mi4xNy4wLjEKICBjbGllbnRfaWQ6IGhhc3MKICB1c2VybmFtZTogaG9tZWFzc2lzdGFudAogIHBhc3N3b3JkOiBMZWZmZTAxQmVyZ2FtbwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbnY6CiAgICAgICAgICBQR0lEOiAxMDAwCiAgICAgICAgICBQVUlEOiAxMDAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gMzI0MDA6MzI0MDAvdGNwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gL2hvbWUvb2xldHJvcy9NdXNpYy9UZW1wOi9kb3dubG9hZHM6cncK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gL2hvbWUvb2xldHJvcy9NdXNpYy9Qcm9jZXNzZWQ6L211c2ljOnJ3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogQ29weSBjb25maWcgZmlsZQogICAgICBjb3B5OgogICAgICAgIHNyYzogIi4vZmlsZXMvYmVldHMvY29uZmlnLnlhbWwiCiAgICAgICAgZGVzdDogIi9ob21lL29sZXRyb3MvRGF0YS9Qcm9ncmFtcy9iZWV0cyIKICAgICAgICBvd25lcjogb2xldHJvcwogICAgICAgIGdyb3VwOiBvbGV0cm9zCg==</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
