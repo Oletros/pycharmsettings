@@ -149,11 +149,11 @@
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/jriver/supervisord.conf" timestamp="1514980217124">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="17" column="20" />
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/jriver/supervisord.conf" timestamp="1514981553841">
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="48" column="27" />
+        <mark key="." line="48" column="27" />
+        <mark key="^" line="48" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/__init__.py" timestamp="1490590999080">
         <mark key="[" line="0" column="0" />
@@ -228,12 +228,12 @@
       <file name="/PythonRegExp Fragment (powerbuilder_Build.py:4181).regexp" timestamp="1511173220651">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/jriver/Dockerfile" timestamp="1514978692480">
-        <mark key="'" line="45" column="9" />
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="17" />
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/docker/jriver/Dockerfile" timestamp="1514981392438">
+        <mark key="'" line="47" column="9" />
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+        <mark key="^" line="26" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/classtools.py" timestamp="1491368982911">
         <mark key="'" line="39" column="0" />
@@ -327,7 +327,7 @@
         <mark key="^" line="118" column="54" />
         <mark key="." line="118" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/mc23.yml" timestamp="1514980234276">
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/mc23.yml" timestamp="1514981667468">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="31" />
         <mark key="." line="10" column="31" />
@@ -457,13 +457,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>%(ENV_MONITOR)s</text>
+        <text>novnc</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>%(ENV_MONITOR)s</text>
+        <text>novnc</text>
       </register>
       <register name="/" type="4">
         <text>Rider</text>
@@ -472,16 +472,16 @@
         <text encoding="base64">ICAgICAgICAgIC0gNTkwMDo1OTAwCiAgICAgICAgICAtIDUyMTAwOjUyMTAwCiAgICAgICAgICAtIDUyMTAxOjUyMTAxCiAgICAgICAgICAtIDUyMTk5OjUyMTk5CiAgICAgICAgICAtIDE5MDA6MTkwMC91ZHAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gMjIwMDA6MjIwMDAKICAgICAgICAgIC0gODM4NDo4Mzg0CiAgICAgICAgICAtIDIxMDI3OjIxMDI3L3VkcAo=</text>
+        <text encoding="base64">Y29tbWFuZD1Yb3JnIDoxIC1ub3Jlc2V0ICtleHRlbnNpb24gR0xYICtleHRlbnNpb24gUkFORFIgK2V4dGVuc2lvbiBSRU5ERVIKcHJpb3JpdHk9MTAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFBVSUQ6IDEwMDAK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gMjIwMDA6MjIwMDAKICAgICAgICAgIC0gODM4NDo4Mzg0CiAgICAgICAgICAtIDIxMDI3OjIxMDI3L3VkcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gMjIwMDA6MjIwMDAKICAgICAgICAgIC0gODM4NDo4Mzg0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFBVSUQ6IDEwMDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gMjIwMDA6MjIwMDAKICAgICAgICAgIC0gODM4NDo4Mzg0Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -496,7 +496,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmlkZWEvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
