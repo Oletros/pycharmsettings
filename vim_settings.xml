@@ -58,6 +58,12 @@
         <mark key="^" line="104" column="27" />
         <mark key="." line="104" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Development/Ansible/server-configuration/.gitignore" timestamp="1514971042666">
+        <mark key="'" line="328" column="0" />
+        <mark key="[" line="403" column="0" />
+        <mark key="]" line="403" column="0" />
+        <mark key="." line="403" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/learningpython/src/Chapter03/pkg/dir1/dir2/__init__.py" timestamp="1490591034906">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -313,10 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="40" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="145" column="51" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="158" column="25" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
-      <jump line="198" column="16" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="403" column="45" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="196" column="0" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
       <jump line="28" column="71" filename="C:/Development/trc_build_script/src/powerbuilder_Build.py" />
@@ -413,10 +415,14 @@
       <jump line="155" column="71" filename="C:/Development/trc_build_script/src/powergen.py" />
       <jump line="591" column="0" filename="C:/Development/trc_build_script/.gitignore" />
       <jump line="145" column="28" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/files/homeassistant/configuration.yaml" />
+      <jump line="409" column="10" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/.gitignore" />
+      <jump line="37" column="21" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/.gitignore" />
+      <jump line="328" column="0" filename="$USER_HOME$/Documents/Development/Ansible/server-configuration/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ubuntu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="d" type="4">
         <text>&quot;&quot;&quot;</text>
@@ -425,53 +431,51 @@
         <text>ubuntu</text>
       </register>
       <register name="/" type="4">
-        <text>modif</text>
+        <text>Rider</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5vZGUwMS52bS5ib3ggPSAidWJ1bnR1L3hlbmlhbDY0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFkZHVzZXIgLS1kaXNhYmxlZC1wYXNzd29yZCB1YnVudHUKICAgIHBhc3N3ZCAtZCB1YnVudHUK</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIHBsYXRmb3JtOiBvd250cmFja3MKICAgIG1heF9ncHNfYWNjdXJhY3k6IDIwMAogIC0gcGxhdGZvcm06IGJsdWV0b290aF90cmFja2VyCg==</text>
+        <text encoding="base64">ICAgIGFkZHVzZXIgLS1kaXNhYmxlZC1wYXNzd29yZCB1YnVudHUKICAgIHBhc3N3ZCAtZCB1YnVudHUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bXF0dDoKICBicm9rZXI6IDE3Mi4xNy4wLjEKICBjbGllbnRfaWQ6IGhhc3MKICB1c2VybmFtZTogaG9tZWFzc2lzdGFudAogIHBhc3N3b3JkOiBMZWZmZTAxQmVyZ2FtbwoK</text>
+        <text encoding="base64">ICAtIHBsYXRmb3JtOiBvd250cmFja3MKICAgIG1heF9ncHNfYWNjdXJhY3k6IDIwMAogIC0gcGxhdGZvcm06IGJsdWV0b290aF90cmFja2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbnY6CiAgICAgICAgICBQR0lEOiAxMDAwCiAgICAgICAgICBQVUlEOiAxMDAwCg==</text>
+        <text encoding="base64">bXF0dDoKICBicm9rZXI6IDE3Mi4xNy4wLjEKICBjbGllbnRfaWQ6IGhhc3MKICB1c2VybmFtZTogaG9tZWFzc2lzdGFudAogIHBhc3N3b3JkOiBMZWZmZTAxQmVyZ2FtbwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gMzI0MDA6MzI0MDAvdGNwCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnY6CiAgICAgICAgICBQR0lEOiAxMDAwCiAgICAgICAgICBQVUlEOiAxMDAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gL2hvbWUvb2xldHJvcy9NdXNpYy9UZW1wOi9kb3dubG9hZHM6cncK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gMzI0MDA6MzI0MDAvdGNwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gL2hvbWUvb2xldHJvcy9NdXNpYy9Qcm9jZXNzZWQ6L211c2ljOnJ3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gL2hvbWUvb2xldHJvcy9NdXNpYy9UZW1wOi9kb3dubG9hZHM6cncK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogQ29weSBjb25maWcgZmlsZQogICAgICBjb3B5OgogICAgICAgIHNyYzogIi4vZmlsZXMvYmVldHMvY29uZmlnLnlhbWwiCiAgICAgICAgZGVzdDogIi9ob21lL29sZXRyb3MvRGF0YS9Qcm9ncmFtcy9iZWV0cyIKICAgICAgICBvd25lcjogb2xldHJvcwogICAgICAgIGdyb3VwOiBvbGV0cm9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gL2hvbWUvb2xldHJvcy9NdXNpYy9Qcm9jZXNzZWQ6L211c2ljOnJ3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gL21lZGlhL2RhZGVzL1ZpZGVvL01vdmllczovb3V0cHV0OnJ3Cg==</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogQ29weSBjb25maWcgZmlsZQogICAgICBjb3B5OgogICAgICAgIHNyYzogIi4vZmlsZXMvYmVldHMvY29uZmlnLnlhbWwiCiAgICAgICAgZGVzdDogIi9ob21lL29sZXRyb3MvRGF0YS9Qcm9ncmFtcy9iZWV0cyIKICAgICAgICBvd25lcjogb2xldHJvcwogICAgICAgIGdyb3VwOiBvbGV0cm9zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>modif</last-search>
+      <last-search>Rider</last-search>
       <last-offset />
-      <last-pattern>modif</last-pattern>
+      <last-pattern>Rider</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>union</entry>
-        <entry encoding="base64">XDxTbGltQnVpbGRcPg==</entry>
         <entry>template12601</entry>
         <entry>TEMPLATE12601</entry>
         <entry>TEMPLATE12600</entry>
@@ -490,6 +494,8 @@
         <entry>template01</entry>
         <entry>pbuni</entry>
         <entry>modif</entry>
+        <entry>works</entry>
+        <entry>Rider</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
